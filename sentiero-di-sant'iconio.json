@@ -1,0 +1,151 @@
+{
+  "titolo_dell'articolo": "Sentiero di Sant'Iconio partendo da Marina di Camerota - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Sentiero di Sant'Iconio",
+    "citta_di_partenza": "Marina di Camerota",
+    "provincia_di_partenza": "Salerno",
+    "regione_di_partenza": "Campania",
+    "catena_montuosa_o_parco": "Parco Nazionale del Cilento e Vallo di Diano",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "Sentiero Sant'Iconio",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/sentiero-sulla-pineta-di-s-iconio-marina-di-camerota-zona-mingardo-38332554",
+    "attrazioni_percorso": {
+      "0": "Bosco di Pino d'Aleppo",
+      "1": "Ruderi Monastero San Cono",
+      "2": "Cappella di Sant'Antonio",
+      "3": "Spiaggia di Cala d'Arconte",
+      "4": "Spiaggia Cala del Cefalo"
+    },
+    "panorama_percorso": {
+      "0": "Capo Palinuro",
+      "1": "Licusati",
+      "2": "Lentiscosa",
+      "3": "Marina di Camerota"
+    },
+    "lunghezza_percorso": "13.9 km",
+    "altitudine_min_percorso": "430 m",
+    "altitudine_max_percorso": "3 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "SR562",
+    "punto_arrivo_percorso": "SR562",
+    "dislivello_positivo_percorso": "550 m",
+    "dislivello_negativo_percorso": "550 m",
+    "tempo_medio_stimato_percorso": "4 ore 30 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito ?",
+    "parcheggio": "distante dal percorso",
+    "fondo_percorso": {
+      "0": "Sterrato",
+      "1": "Asfalto"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Pino d'Aleppo",
+      "2": " Primula di Palinuro",
+      "3": "Euforbie",
+      "4": "Finocchio di Mare",
+      "5": "Arisario",
+      "6": "Liquirizia"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza dalla Spiaggia del Mingardo",
+      "descrizione": "Il tuo viaggio inizia nella frazione Isca della Contessa di Camerota, sulla superstrada SR562 al bivio per la discesa per la spiaggia del Mingardo, difronte al Villaggio Camping Le Ninfe del Mare."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Inizio del percorso",
+      "descrizione": "L'inizio del sentiero ? segnalato da segni CAI e del cartello in Legno che recita: \"Parco Nazionale Cilento e Vallo di Diano - Sentiero di S. Iconio - Ingresso Isca della Contessa\""
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Sotto la Pineta di Sant'Iconio",
+      "descrizione": "Il percorso inizia in salita ed attraversa un bellissimo Bosco di Pini d'Aleppo, lungo il sentiero non mancheranno gli strepitosi punti panoramici sulla costa che va da Capo Palinuro, al fiume Mingardo, all'entroterra e oltre. Raggiungerai lo Iazzo di San Iconio"
+    },
+    "3": {
+      "id": "4",
+      "titolo": "Lungo il percorso",
+      "descrizione": "Ti ritroverai lo \"Iazzo\" di San Iconio e pi? avanti proseguendo sulla sinistra, una piccola Cappella dedicata a Sant'Antonio."
+    },
+    "4": {
+      "id": "5",
+      "titolo": "Verso Spaggia di Cala d'Arconte",
+      "descrizione": "Inizia la discesa che ti poter? tra le cristalline acque della spiaggia Cala d'Arconte. Dopo aver goduto di questa caletta, ritorna sulla SR562 e prosegui in direzione Palinuro, ti ritroverai a passare sotto una galleria (percorribile anche a piedi) e potrai ammirare Spiaggia Cala del Cefalo"
+    },
+    "5": {
+      "id": "6",
+      "titolo": "Ritorniamo al punto di partenza",
+      "descrizione": "Completa questa impareggiabile avventura di trekking proseguendo sempre diritto per tornare al punto di partenza."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Lo Iazzo ed il Monastero di San Iconio",
+      "descrizione": "Iazzo: Definizione e Origine\nLo \"Iazzo\" ? un termine dialettale Cilentano che indica un insieme di edifici rurali. Questa parola deriva dal greco \"iazzio\", che significa \"luogo di riposo\". Inizialmente, lo Iazzo era un luogo dove i monaci potevano ritirarsi per la preghiera e il riposo.\n\nLo Iazzo ed il Monastero di San Cono \nLo Iazzo di San Cono ? composto da un insieme di edifici, tra cui il monastero, un dormitorio per i monaci, una cucina, una sala da pranzo e un forno. Il monastero  ? l'edificio pi? importante del complesso. ? costruito in stile bizantino, con una pianta a croce greca e una cupola centrale. All'interno, si potevano ammirare affreschi di grande valore artistico, risalenti al XI secolo, di cui oggi resta solo qualche minima traccia.\nIl Monastero di San Cono, noto anche come \"Cenobio\", ? un luogo di grande importanza storica e culturale. Fondato nel 950 d.C. e dedicato a San Cono, era un luogo di preghiera e di studio per i monaci, ma serviva anche come rifugio per i pellegrini e i viaggiatori. \n\nIl Ruolo dello Iazzo nella Comunit?\nLo Iazzo di San Cono non era solo un luogo di preghiera e di studio per i monaci, ma svolgeva anche un ruolo importante nella comunit? locale. Il monastero forniva assistenza ai poveri e ai malati, e contribuiva all'educazione della popolazione locale. Inoltre, il monastero era un punto di riferimento per i pellegrini e i viaggiatori, che potevano trovare riparo e assistenza durante i loro viaggi.\n\nLa Fine dello Iazzo di San Cono\nNel 1653, a causa di un terremoto, il monastero di San Cono fu gravemente danneggiato e fu abbandonato dai monaci. Nonostante ci?, la chiesa e alcuni degli edifici del complesso sono rimasti in piedi e sono ancora visibili oggi. Questi resti testimoniano la ricchezza culturale e storica dello Iazzo di San Cono, e rappresentano un importante patrimonio per la comunit? di Camerota. Oggi, lo Iazzo di San Cono ? un sito di grande interesse storico e culturale. Nonostante il terremoto e l'abbandono, il complesso conserva ancora molte delle sue caratteristiche originali. I resti del monastero sono un esempio di arte bizantina, e gli edifici del complesso testimoniano la vita monastica del passato. Lo Iazzo di San Cono ? un luogo di grande fascino, che racconta la storia di un tempo passato e la vita di una comunit?.\""
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Cappella di Sant'Antonio",
+      "descrizione": "La Cappella di Sant'Antonio a Camerota ? un luogo ricco di storia e fascino. Originariamente costruita come edicola nel XVI secolo, la cappella ha visto una serie di sviluppi significativi nel corso degli anni. Il 3 maggio 1653, il vescovo Filippo Giacomo la consacr?, segnando un importante passaggio nella sua storia. Nel 1701, l'Universit? di Camerota assunse il diritto di patronato, scegliendo l'amministratore dei beni della cappella. Oggi, la cappella, che si trova a 432 metri sul livello del mare ad ovest di Camerota, ? custodita da privati. Le visite dei vescovi nel XVIII secolo hanno confermato il buono stato della costruzione e degli arredi sacri, sottolineando la crescente devozione verso questo luogo di culto."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Spiaggia di Cala Arconte",
+      "descrizione": "Cala d'Arconte ? una delle gemme nascoste di Camerota, famosa per la sua bellezza mozzafiato. Questo angolo di paradiso offre due incantevoli cale, separate da un lembo di roccia e collegate da una banchina. L'arenile ? semplicemente stupendo, con la sua sabbia dorata che brilla sotto il sole. Man mano che ti avvicini alla banchina, la sabbia diventa pi? grossa, trasformandosi in piccoli ciottoli che si immergono nell'acqua.\n\nMa la vera star del posto ? l'acqua stessa: un blu intenso che riflette la profondit? del mare lungo la costa di Marina di Camerota. E non dimentichiamo la natura circostante che aggiunge un tocco di verde al panorama. La macchia mediterranea e gli alberi di ulivo si affacciano sul Mar Tirreno, creando un contrasto di colori che ti lascer? senza fiato. Cala d'Arconte ? un vero e proprio paradiso, un luogo dove la natura si esprime in tutta la sua bellezza."
+    },
+    "3": {
+      "id": "5",
+      "titolo": "Spiaggia di Cala del Cefalo",
+      "descrizione": "Nascosta nel cuore di Marina di Camerota, la Spiaggia di Cala del Cefalo ? un piccolo gioiello naturale. Nonostante le sue dimensioni contenute, questa spiaggia ? famosa per un'imponente formazione rocciosa che emerge dal centro del litorale, ricordando la pinna di un cefalo, da cui deriva il nome della cala. La sua sabbia granulosa, punteggiata da piccoli ciottoli sulla battigia, si fonde con un mare di una bellezza mozzafiato, sebbene profondo.\n\nDurante i mesi estivi, la spiaggia si trasforma, ospitando due lidi attrezzati che vengono allestiti appositamente per la stagione. Tuttavia, quando l'inverno arriva, l'arenile torna alla sua naturale tranquillit?, liberandosi da ogni traccia estiva. La porzione di spiaggia libera, sebbene limitata, pu? essere trovata laddove l'arenile si avvicina alla parete rocciosa che precede la strada.\n\nNonostante l'assenza di dune, la Spiaggia di Cala del Cefalo ha affrontato nel tempo una significativa erosione costiera, che ha portato alla riduzione dell'arenile e a frane sulla strada adiacente. Tuttavia, dal 2000, l'arenile ? stato riconosciuto come un Sito di Importanza Comunitaria (SIC) nell'ambito dell'area protetta europea \"Scoglio del Mingardo e spiaggia di Cala del Cefalo\".\n\nLa Cala del Cefalo non ? solo un luogo di straordinaria bellezza, ma ha anche svolto un ruolo fondamentale nella conservazione della fauna marina. Nel luglio 2015, infatti, ? diventata il luogo di nidificazione di una tartaruga Caretta Caretta, contribuendo cos? alla salvaguardia di questa specie. \n\nIn conclusione, la Spiaggia di Cala del Cefalo ? un luogo di meraviglia naturale, un santuario per la fauna marina e un tesoro nascosto lungo il sentiero di Sant'Iconio a Marina di Camerota."
+    }
+  },
+  "storie_leggende": {
+    "0": {
+      "id": "1",
+      "titolo": "La Leggenda del Marinaio",
+      "descrizione": "La Cappella di Sant'Antonio non ? solo un luogo di culto, ma ? anche avvolta da una leggenda affascinante. Si racconta che un marinaio, perduto in una tempesta in mare, vide una luce che lo guid? fino alla terraferma. Questa luce apparve sul Monte di Sant'Antonio, dove oggi sorge la cappella. Questa storia di fede e miracoli ha reso la cappella un luogo di particolare importanza per i fedeli, che la visitano ogni anno il 13 giugno, in occasione della festivit? di Sant'Antonio."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "La liquirizia di Camerota",
+      "descrizione": "Una particolarit? botanica introdotta dai Monaci Basiliani ? la liquirizia, che ora sorge spontanea lungo il sentiero. I monaci Basiliani erano soliti produrre un \"Elixir\", una bevanda fatta di fiori di pino e liquirizia, famosa per le sue propriet? digestive."
+    }
+  },
+  "opzioni_trasporto": {
+    "indicazioni_auto": "Per raggiungere l'inizio del Sentiero di Sant'Iconio in auto, scorri fino in fondo alla pagina e clicca sul pulsante dedicato. Questo imposter? automaticamente il tuo navigatore sulla posizione esatta di partenza del sentiero, semplificando il tuo viaggio. Se invece preferisci settare il navigatore manualmente, il sentiero inizia a SR562 , Marina di Camerota , Salerno",
+    "come_arrivare_treno_da_napoli": "In TRENO da Napoli per raggiungere il punto di partenza per il sentiero, bisogna arrivare a SR562. La durata totale del tragitto ? di circa 2 ore. Bisogna recarsi a Napoli Centrale e prendere il TRENO in direzione Centola-Palinuro Marina Di Camerota che ferma a Pisciotta - Palinuro. Da qui puoi prendere il Bus Numero Autolinea Infante in direzione Marina di Camerota che ferma a Marina di Camerota    ",
+    "come_arrivare_bus_da_napoli": "In BUS da Napoli per raggiungere il punto di partenza per il sentiero, bisogna arrivare a SR562. La durata totale del tragitto ? di circa : 3 ore. Bisogna recarsi a Napoli Galileo Ferraris e prendere il BUS CilentoBus in direzione Marina di Camerota che ferma a Marina di Camerota. Da qui ora che hai raggiunto SR562 puoi inziare il sentiero.",
+    "come_arrivare_treno_da_salerno": "In TRENO da Salerno per raggiungere il punto di partenza per il sentiero, bisogna arrivare a SR562. La durata totale del tragitto ? di circa :1 ore e 8 minuti. Bisogna recarsi a Stazione FS di Salerno e prendere il TRENO in direzione Pisciotta / Palinuro che ferma a Pisciotta / Palinuro. Da qui puoi prendere il Bus Numero Infante in direzione Marina di Camerota che ferma a Marina di Camerota    ",
+    "come_arrivare_bus_da_salerno": "In BUS da Salerno per raggiungere il punto di partenza per il sentiero, bisogna arrivare a SR562. La durata totale del tragitto ? di circa: 2 ore. Bisogna recarsi a Salerno - Concordia e prendere il BUS Cilento Bus in direzione Marina di Camerota che ferma a Marina di Camerota. Da qui ora che hai raggiunto  puoi inziare il sentiero."
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Cavatelli Cilentani",
+      "1": "Lagane e Ceci",
+      "2": "Formaggi",
+      "3": "Maracucciata",
+      "4": "sciambielle ",
+      "5": "Pizza Cilentana"
+    },
+    "dove_mangiare": {
+      "0": "Taro: Da Taro ho avuto modo di apprezzare il significato del mette passione in ci? che si fa. Dalla ricerca alla selezione al legame tra gli ingredienti, un insieme di note che danno vita ad una sinfonia per il palato. Pochi panini, pochi crostoni ma tanta tanta qualit?. Personalmente apprezzo la proposta limitata, questo da modo di lavorare bene e dar vita a piatti sempre al top. Ho apprezzato anche questo prediligere l'utilizzo\ndi ingredienti del territorio, tutti a km 0 e forniti da produttori ed aziende locali. Vastissimo il men? delle birre, ci sono di tutti i tipi e per tutti i gusti. Buonissima la cola artigianale, la consiglio davvero, anche come fine pasto ? davvero spettacolare.\nRapporto qualit? prezzo eccezionale.",
+      "1": "La Cantina del Marchese: La Cantina del Marchese\tAltissima qualit? di salumi e formaggi. Primi locali sia di mare che di terra buonissimi con pasta fatta in casa. Buono l'aglianico della casa. Servizio svelto e molto cordiale. Prezzi nellq media. Ci torneremo senz'altro.",
+      "2": "Ammore 'e Mare Taverna Marinara: Gentilezza e professionalit? gi? dalla prenotazione.\nLocale molto carino, ben tenitoce ben arredato.\nStaff eccezionale, gentile, molto simpatico, presente ma non invadente.\nAbbiamo ordinato un pacchero alla cernia, buonissimo, una pezzogna ed un trancio di tonno entrambi alla brace ed entrambi buonissimi e freschissimi.\nUn mezzo litro di vino con un'assaggio dei dolci fatti in casa.\nPre,zo in linea con quanto abbiamo mangiato.\nInsomma, una splendida serata.\nCi torneremo certamente."
+    }
+  },
+  "dove_dormire": {
+    "0": "Marea Retreat Rooms: tutto! accoglienza da 10, proprietario attentissimo alle esigenze degli ospiti. camera nuova, decorata con gusto, efficiente e pulita. trovi anche due bottiglie d?acqua nel frigo che vengono offerte, e non tutti gli hotel lo fanno. in pi? Giancarlo, il proprietario ha organizzato per gli ospiti una escursione con un gommone e ci ha fatto scoprire posti incantevoli, facendolo con professionalit?, simpatia ed empatia. inoltre ci ha consigliato quali altri posti visitare o dove andare a mangiare o verdure un tramonto. si vede che fa il suo mestiere con passione e riesce a trasmettere questa passione per il luogo ai suoi ospiti. un soggiorno bellissimo che consiglio a tutti! e fate anche l?escursione e non ve ne pentirete!",
+    "1": "Relais Pian delle Starze: Struttura confortevole e staff pi? che disponibile. Location tranquilla e isolata da ogni tipo di rumore, situata a pochi chilometri da Palinuro. A disposizione vi sono un giardino dove godere della vista sul mare ed una bella piscina",
+    "2": "Macinelle: appartamento piccolo ma ben fornito e curato. fantastica la cucina esterna! posizione ottima (letteralmente sul mare!) e struttura molto bella con piscina, bar, lido e ristorante sulla spiaggia. non capisco chi si lamenta delle scale per scendere in spiaggia! si tratta di una scalinata assolutamente sicura ed il tragitto ? brevissimo (poco pi? di 40 gradini) e anche durante le ore pi? calde le piante riparano dal sole cocente! corrimano in ferro e gradini di altezza normale.",
+    "3": "B&B Le Anthos:  Posto meraviglioso e curato con passione da Salvatore e Anna, due persone gentilissime, accoglienti e sempre disponibili. La colazione, tutta preparata in casa, era eccellente. Camere pulitissime con affacci stupendi sul mare e la natura cilentana.\nConsigliato a tutti gli amanti della natura che vogliono passare qualche giorno lontani dalla citt?."
+  }
+}
