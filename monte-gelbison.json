@@ -1,0 +1,131 @@
+{
+  "titolo_dell'articolo": "Sentiero per Monte Gelbison da Novi Velia - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Monte Gelbison",
+    "citta_di_partenza": "Novi Velia",
+    "provincia_di_partenza": "Salerno",
+    "regione_di_partenza": "Campania",
+    "catena_montuosa_o_parco": "Parco Nazionale del Cilento e Vallo di Diano",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "Sentiero Novi Velia - Sacro Monte",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/sentiero-del-pellegrino-sacro-monte-gelbison-113014663/photo-72688029",
+    "attrazioni_percorso": {
+      "0": "Fiumefreddo",
+      "1": "Santuario della Madonna di Novi Velia"
+    },
+    "panorama_percorso": {
+      "0": "Golfo di Policastro",
+      "1": "piana del Sele",
+      "2": "Isole Eolie",
+      "3": "Costiera Amalfitana",
+      "4": "Capri",
+      "5": "Monti Alburni",
+      "6": "Parco Nazionale del Pollino"
+    },
+    "lunghezza_percorso": "7.9 km",
+    "altitudine_min_percorso": "1052 m",
+    "altitudine_max_percorso": "1704 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Via Monte Gelbison",
+    "punto_arrivo_percorso": "Via Monte Gelbison",
+    "dislivello_positivo_percorso": "620 m",
+    "dislivello_negativo_percorso": "620 m",
+    "tempo_medio_stimato_percorso": "4 ore 0 min",
+    "fonti_acqua_lungo_percorso": "S?",
+    "costo_percorso": "Gratuito ?",
+    "parcheggio": "pagamento vicino percorso",
+    "fondo_percorso": {
+      "0": "lastricato in pietra arenaria",
+      "1": "Sterrato",
+      "2": "Asfalto"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Faggeti",
+      "2": "Abeti",
+      "3": "Ontano napoletano",
+      "4": "Corbezzolo"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza dal Parcheggio",
+      "descrizione": "Il tuo viaggio inizia direttamente al punto dove hai parcheggiato l'auto, seguendo la strada, dopo circa 300 metri troverai l'inizio di un sentiero lastricato che si addentra in un fitto bosco e potrai iniziare la tua ascesa al Monte Sacro."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Seguire il lastricato",
+      "descrizione": "gran parte del percorso si svolge seguendo il lastricato, senza alcuna difficolt? tecnica."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Fiumefreddo",
+      "descrizione": "Dopo cireca un chilometro e mezzo dall'inizio ti ritroverai alla fontana di fiumefreddo dove potrai fare una sosta ed ammirare la bellezza del bosco"
+    },
+    "3": {
+      "id": "4",
+      "titolo": "Prosegui lungo il percorso",
+      "descrizione": "Proseguendo lungo il percorso, alternerai lastricato e asfalto, mentre la parte finale del percorso sar? completamente asfaltata."
+    },
+    "4": {
+      "id": "5",
+      "titolo": "Arrivo al Monte Sacro",
+      "descrizione": "Una volta giunti in vetta del Monte Gelbison, potrai ammirare la maestosit? del Santuario della Madonna di Novi Velia ed il fantastico panorama."
+    },
+    "5": {
+      "id": "6",
+      "titolo": "Ritorno",
+      "descrizione": "Per ritornare al punto di partenza, potrai percorrere lo stesso percorso fatto in andata."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Il Monte Sacro del Cilento: Il Gelbison",
+      "descrizione": "Nel cuore del Cilento, il Monte Gelbison, noto anche come \"Monte Sacro\", si erge come un gigante verde. Con i suoi 1707 metri di altezza, ? la vetta pi? alta del gruppo del Cilento, offrendo una vista panoramica mozzafiato sul Parco Nazionale del Cilento e Vallo di Diano. La montagna ? un mosaico di microclimi, dalla macchia costiera agli abeti delle quote pi? elevate. Entrambi i nomi, infatti, riflettono la sacralit? di questa montagna: in arabo, Gelbison significa \"montagna dell'idolo\"."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Il Santuario della Madonna di Novi Velia: Un Pellegrinaggio nel Sud Italia",
+      "descrizione": "Sulla cima del Monte Gelbison si trova il Santuario della Madonna di Novi Velia, un luogo di pellegrinaggio per molti del Sud Italia. Questo santuario, risalente al 1323, ? avvolto da una leggenda secondo la quale ogni volta che i lavori di costruzione si interrompevano, al ritorno gli operai trovavano le opere precedentemente costruite distrutte. Finch? una notte, la Vergine apparve agli operai, che erano saliti sul monte per cercare un agnello smarrito, e disse che desiderava che la cappella fosse dedicata agli Angeli. Ogni anno, in estate, i pellegrini si recano in processione al santuario, portando un Ges? Bambino di cera.\n\nIl santuario ? un capolavoro di architettura sacra, con le sue tre navate divise da colonne in pietra e la volta a botte decorata con affreschi. L'edificio, ampliato nel 1908, comprende anche la cappella di San Bartolomeo, un monaco bizantino da non confondersi con l'Apostolo, patrono di Pellare, il convento, la foresteria e altre piccole pertinenze civili e religiose.\n\nNel presbiterio si trovano alcune pregevoli statue di legno, tra cui spicca la statua lignea della Vergine. ? rappresentata seduta, con il Bambino sul braccio sinistro e con la destra atteggiata a distribuire favori divini. La statua della Vergine presenta il viso bruno allungato, gli occhi alla greca e una figura slanciata che sembrano rifarsi all'iconografia bizantina importata in Italia dai citati monaci basiliani. Questa statua ? un esempio straordinario dell'arte sacra che arricchisce il santuario, rendendolo non solo un luogo di pellegrinaggio, ma anche un tesoro di arte e storia."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "La Madonna del Monte: Un'Icona di Devozione nel Cilento",
+      "descrizione": "La \"Madonna del Monte\", come viene chiamata dai Cilentani, ? una statua lignea risalente al 1300. La Vergine ? rappresentata seduta, con il Bambino sul braccio sinistro e con la destra atteggiata a distribuire i suoi favori divini. Il suo viso bruno, gli occhi alla greca e la figura slanciata rimandano all'iconografia bizantina e alla colonizzazione \"basiliana\" del primo millennio della nostra era, cio? dei monaci italo-greci, seguaci dei precetti di San Basilio."
+    },
+    "3": {
+      "id": "5",
+      "titolo": "Le Leggende del Monte Gelbison: Fate, Cavalieri Longobardi e l'apparizione della Madonna",
+      "descrizione": "Il Monte Gelbison ? anche avvolto da leggende di fate. Si dice che la cima della montagna sia popolata da queste creature magiche. La pi? conosciuta ? la fata Serina, che viveva in un castello visibile solo nelle notti di luna piena. Si narra che Serina, talvolta, lasciasse il magico castello del Monte Sacro per qualche breve fuga notturna, danzando tra le colonne dei templi greci di Posidonia, insieme ad antichi guerrieri, accorsi dall'Ade per lei.\n\nUn'altra leggenda riguarda due cavalieri longobardi che, durante un viaggio, si fermarono davanti al sacro tempio dedicato alla Madonna sulla vetta del Monte Gelbison. Uno dei due cavalieri decise di entrare per rendere omaggio alla Madre di Dio e si inginocchi? al Suo cospetto. Il compagno lo derise, ma il cavallo sul quale stava viaggiando s'imbizzarr? improvvisamente, correndo furioso verso l'orlo del precipizio. Il cavaliere spaventato implor? il perdono di Maria, supplicandola di salvargli la vita, e di colpo il cavallo si ferm? su uno spuntone di roccia, quello che ora tutti chiamano ?ciampa r? cavallo?.\n\nAnche un altra leggenda avvolge il santuario, secondo la quale ogni volta che i lavori di costruzione si interrompevano, al ritorno gli operai trovavano le opere precedentemente costruite distrutte. Finch? una notte, la Vergine apparve agli operai, che erano saliti sul monte per cercare un agnello smarrito, e disse che desiderava che la cappella fosse dedicata agli Angeli. Ogni anno, in estate, i pellegrini si recano in processione al santuario, portando un Ges? Bambino di cera. "
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Cavatelli Cilentani",
+      "1": "Lagane e Ceci",
+      "2": "Formaggi",
+      "3": "Maracucciata",
+      "4": "sciambielle ",
+      "5": "Pizza Cilentana"
+    },
+    "dove_mangiare": {
+      "0": "Taro: Da Taro ho avuto modo di apprezzare il significato del mette passione in ci? che si fa. Dalla ricerca alla selezione al legame tra gli ingredienti, un insieme di note che danno vita ad una sinfonia per il palato. Pochi panini, pochi crostoni ma tanta tanta qualit?. Personalmente apprezzo la proposta limitata, questo da modo di lavorare bene e dar vita a piatti sempre al top. Ho apprezzato anche questo prediligere l'utilizzo\ndi ingredienti del territorio, tutti a km 0 e forniti da produttori ed aziende locali. Vastissimo il men? delle birre, ci sono di tutti i tipi e per tutti i gusti. Buonissima la cola artigianale, la consiglio davvero, anche come fine pasto ? davvero spettacolare.\nRapporto qualit? prezzo eccezionale.",
+      "1": "La Cantina del Marchese: La Cantina del Marchese\tAltissima qualit? di salumi e formaggi. Primi locali sia di mare che di terra buonissimi con pasta fatta in casa. Buono l'aglianico della casa. Servizio svelto e molto cordiale. Prezzi nellq media. Ci torneremo senz'altro.",
+      "2": "Ammore 'e Mare Taverna Marinara: Gentilezza e professionalit? gi? dalla prenotazione.\nLocale molto carino, ben tenitoce ben arredato.\nStaff eccezionale, gentile, molto simpatico, presente ma non invadente.\nAbbiamo ordinato un pacchero alla cernia, buonissimo, una pezzogna ed un trancio di tonno entrambi alla brace ed entrambi buonissimi e freschissimi.\nUn mezzo litro di vino con un'assaggio dei dolci fatti in casa.\nPre,zo in linea con quanto abbiamo mangiato.\nInsomma, una splendida serata.\nCi torneremo certamente."
+    }
+  },
+  "dove_dormire": {
+    "0": "Marea Retreat Rooms: tutto! accoglienza da 10, proprietario attentissimo alle esigenze degli ospiti. camera nuova, decorata con gusto, efficiente e pulita. trovi anche due bottiglie d?acqua nel frigo che vengono offerte, e non tutti gli hotel lo fanno. in pi? Giancarlo, il proprietario ha organizzato per gli ospiti una escursione con un gommone e ci ha fatto scoprire posti incantevoli, facendolo con professionalit?, simpatia ed empatia. inoltre ci ha consigliato quali altri posti visitare o dove andare a mangiare o verdure un tramonto. si vede che fa il suo mestiere con passione e riesce a trasmettere questa passione per il luogo ai suoi ospiti. un soggiorno bellissimo che consiglio a tutti! e fate anche l?escursione e non ve ne pentirete!",
+    "1": "Relais Pian delle Starze: Struttura confortevole e staff pi? che disponibile. Location tranquilla e isolata da ogni tipo di rumore, situata a pochi chilometri da Palinuro. A disposizione vi sono un giardino dove godere della vista sul mare ed una bella piscina",
+    "2": "Macinelle: appartamento piccolo ma ben fornito e curato. fantastica la cucina esterna! posizione ottima (letteralmente sul mare!) e struttura molto bella con piscina, bar, lido e ristorante sulla spiaggia. non capisco chi si lamenta delle scale per scendere in spiaggia! si tratta di una scalinata assolutamente sicura ed il tragitto ? brevissimo (poco pi? di 40 gradini) e anche durante le ore pi? calde le piante riparano dal sole cocente! corrimano in ferro e gradini di altezza normale.",
+    "3": "B&B Le Anthos:  Posto meraviglioso e curato con passione da Salvatore e Anna, due persone gentilissime, accoglienti e sempre disponibili. La colazione, tutta preparata in casa, era eccellente. Camere pulitissime con affacci stupendi sul mare e la natura cilentana.\nConsigliato a tutti gli amanti della natura che vogliono passare qualche giorno lontani dalla citt?."
+  }
+}
