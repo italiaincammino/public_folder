@@ -1,0 +1,119 @@
+{
+  "titolo_dell'articolo": "Sentiero per Arco delle Neviere passando per Sorgenti delle Bocche da Solofra - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Arco delle Neviere",
+    "citta_di_partenza": "Solofra",
+    "provincia_di_partenza": "Avellino",
+    "regione_di_partenza": "Campania",
+    "catena_montuosa_o_parco": "Parco Regionale dei Monti Picentini",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "CAI 160",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/monti-picentini-arco-naturale-delle-neviere-tuppo-delluovo-o-serra-dello-scorzone-e-pizzo-san-miche-103024214",
+    "attrazioni_percorso": {
+      "0": "Sorgente delle Bocche",
+      "1": "Arco naturale delle Neviere"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "7 km",
+    "altitudine_min_percorso": "1290 m",
+    "altitudine_max_percorso": "470 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Via Panoramica, Crocifisso Scorza",
+    "punto_arrivo_percorso": "Via Panoramica, Crocifisso Scorza",
+    "dislivello_positivo_percorso": "690 m",
+    "dislivello_negativo_percorso": "690 m",
+    "tempo_medio_stimato_percorso": "4 ore 30 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Faggi",
+      "2": "Castagno",
+      "3": "Bosco ceduo"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza dal Crocifisso",
+      "descrizione": "Il tuo viaggio inizia direttamente al punto dove hai parcheggiato l'auto, proprio difronte al Crocifisso sito in via panoramica, troverai una sbarra in metallo che dovrai scavalcare per accedere alla prima parte del sentiero CAI 160. "
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Costeggia il corso d'acqua",
+      "descrizione": "La prima parte del percorso è una meraviglia per gli occhi, ti troverai a percorrere un sentiero che sembra uscito da una fiaba, costeggerai piccole cascate, salti d'acqua ed insenature che molto suggestive che ti daranno il benvenuto sul sentiero 160 "
+    },
+    "2": {
+      "id": "3",
+      "titolo": "La grotta",
+      "descrizione": "Dopo poche decine di metri dall'inizio del percorso, ti imbatterai in una particolare grotta che riporta la data 1862, il suo interno è formato da più `Camere` e popolata da animali tipici delle grotte (pipistrelli, vari insetti). Non consigliamo di addentrarvi al suo interno, sia per la probabilità di trovare il corso d'acqua che l'attraversa, sia perchè potrebbe essere scivoloso e pericoloso sotto molti punti di vista."
+    },
+    "3": {
+      "id": "4",
+      "titolo": "Acquedotto di Boccafresca",
+      "descrizione": "Proseguendo lungo il percorso e seguendo la segnaletica CAI ben visibile, potrai ammirare il primo acquedotto Solofrano, riportato allo splendore dalle associazioni As.be.cu.So, Legambiente, Frate Vento e Pro Loco."
+    },
+    "4": {
+      "id": "5",
+      "titolo": "Punto Panoramico",
+      "descrizione": "Dopo circa 1.5 km potrai ammirare un meraviglioso panorama che affaccia sulla valle di Solofra. Dopo poco, ti ritroverai ad un bivio, dove mantenendo la destra, continuerai lungo il percorso CAI 160 in direzione Neviere e verso sinistra potrai ricongiungerti con il 117 in direzione Pizzo di San Michele. Mantieni la destra."
+    },
+    "5": {
+      "id": "6",
+      "titolo": "Arco delle Neviere",
+      "descrizione": "Attraversando il sottobosco, troverai un segnavia che indica \"Arco delle Neviere\" a sinistra e \"Scorzone - M. MAI\" a destra, prosegui lungo la salita a tratti appesi sulla sinistra fino a raggiungere l'Arco delle Neviere."
+    },
+    "6": {
+      "id": "7",
+      "titolo": "Ritorno al punto di partenza",
+      "descrizione": "Per tornare al punto di partenza, ti basterà ripercorrere il sentiero fatto in andata."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Sorgenti delle Bocche",
+      "descrizione": "Il Monte Garofano non è solo un pezzo maestoso del paesaggio, ma è anche la culla di un importante corso d'acqua, denominato in passato `Fiume delle Bocche`. Questa località montuosa è nota non solo per le sue viste mozzafiato, ma anche per le sue ricche risorse idriche, le cui sorgenti danno origine a uno spettacolo naturale affascinante, ricca di piccoli ed affascinanti salti.\r\nLe sorgenti del Monte Garofano sono un trio unico, ognuna con un nome distintivo che riflette la sua caratteristica. Ci sono le `Bocche Soprane`, le `Bocche Sottane` (le più grandi delle tre) ed infine, c'è la `Bocca Fresca`.\r\nLe acque di queste sorgenti convergono e formano un invaso, conosciuto come `Vallone delle Bocche`. Questo bacino idrico era una risorsa fondamentale per l'ecosistema locale, e rappresentava un punto d'incontro tra la terra e l'acqua, un luogo in cui la vita fiorisce in tutte le sue forme.\r\nIl Sentiero CAI 160 quindi, non è solo un luogo di bellezza naturale, ma è anche un luogo vitale per la biodiversità locale. Le sue sorgenti e il suo vallone raccontano una storia di equilibrio tra gli elementi naturali, un racconto di come la natura crea e sostiene la vita in modi affascinanti e vitali."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Acquedotto di BoccaFresca",
+      "descrizione": "L'acquedotto Bocca Fresca di Solofra è un importante capitolo nella storia della città. Quest'acquedotto fù il primo di Solofra e fu eretto grazie alla famiglia Pandolfelli nel lontano 1862. Un simbolo di progresso e ingegnosità, l'acquedotto testimonia l'abilità umana di sfruttare le risorse naturali per il progresso della società.\nNel corso degli anni, la proprietà dell'acquedotto è passata al demanio, segnando un'importante transizione nel suo percorso storico. Tuttavia, nonostante la sua significativa importanza, con il passare del tempo, l'acquedotto è stato dimenticato e lasciato in uno stato di abbandono, come una pagina sbiadita di un libro di storia.\nFortunatamente, il declino non era destinato a essere il suo destino finale. Grazie all'intervento e alla dedizione di associazioni locali come As.be.cu.So, Legambiente, Frate Vento e Pro Loco, l'acquedotto è stato riportato in vita. Queste organizzazioni, riconoscendo il valore storico e culturale dell'acquedotto, hanno lavorato insieme per restaurare e rivalorizzare questo patrimonio della città di Solofra.\nOggi, l'acquedotto di Solofra è nuovamente un punto di orgoglio per la città. Non è solo un ricordo di una struttura idraulica del passato, ma rappresenta una testimonianza vivente dell'eredità culturale e storica di Solofra. Grazie all'impegno della comunità, questa icona della storia locale continua a raccontare la sua storia, a tutti coloro che si fermano per ascoltarla."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Arco delle Neviere",
+      "descrizione": "L'Arco delle Neviere, un'impressionante formazione rocciosa calcarea, si posiziona strategicamente tra il Monte Garofano e il Tuppo dell’Uovo. Non è solo un punto di riferimento geologico, ma porta con sé una storia affascinante legata alla vita di un tempo.\n\nIl suo nome, \"Arco delle Neviere\", trova origine dalle antiche conche artificiali chiamate Neviere. Queste depressioni, perfettamente posizionate e circondate da una vegetazione densa, venivano utilizzate per accumulare e conservare la neve. Grazie a questo ambiente naturale unico, la neve riusciva a resistere fino alla fine dell'estate, ben oltre il suo normale ciclo stagionale.\n\nQueste Neviere, tuttavia, non erano solo curiosità naturali. Erano una risorsa vitale per la popolazione locale. Asini guidati da corrieri abili, trasportavano il ghiaccio pressato da queste conche fino alla valle. Il ghiaccio, una volta una merce preziosa, veniva utilizzato per soddisfare le esigenze della comunità locale.\n\nIn conclusione, l'Arco delle Neviere è molto più di una formazione rocciosa. È un segno del passato, un ricordo dell'ingegnosità umana e dell'interazione tra l'uomo e l'ambiente naturale. Il suo ruolo nella storia locale sottolinea l'importanza di mantenere vivo il legame tra l'uomo e la natura."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Fusilli al tegamino",
+      "1": "Pasta e Fagioli",
+      "2": "Scarola m'Buttunata",
+      "3": "Baccalà alla `pertecaregna`",
+      "4": "Zuppa di Castagne",
+      "5": "Panettoni",
+      "6": "Chiacchiere"
+    },
+    "dove_mangiare": {
+      "0": "La Taverna del Principe: Location caratteristica a dir poco , ubicata in una costruzione risalente al 1497 - la piu' vecchia di Solofra. Spettacolarmente caratteristica. Patron e servizio ai tavoli di grande empatia . Qui ti senti a casa di amici. Prodotti del territorio . La miglior tagliatella ai funghi porcini . Funghi cotti e saltati - disidradati al punto giusto - perfetti . Gustosi senza mezze misure. La carne eccezionale. Merita assolutamente una visita",
+      "1": "D'ari'braceria Ristorante: Abbiamo visto le recensioni di questa braceria è subito ha attirato la nostra attenzione .\nLocale molto accogliente pulito subito il personale ci ha accolti con molta cordialità.\nIl menù permette l'imbarazzo della scelta,dagli antipasti ai primi con prodotti di eccellenza.\nSicuramente torneremo per assaggiare la carne, un'ampia scelta da provare.\nConsigliato vivamente!!!!",
+      "2": "BAN PUB: Pub caratteristico - accogliente con un superlativo servizio ai tavoli cortese , professionale e amichevole nel contempo. Ottimi panini , buone birre , ottima materia prima utilizzata. Ottimo rapporto qualita' - prezzo. Gestori seri e competenti. Complimenti a tutti veramente. Merita sicuramante una visita. Io lo faccio spesso in verita' , confesso."
+    }
+  },
+  "dove_dormire": {
+    "0": "Solofra Palace Hotel & Resort: Bellissimo albergo, posto a pochi chilometri dal centro di Solofra. Lo staff si è rivelato estremamente gentile e competente. La stanza, la spa e la colazione erano ottime. Ci torneremo.\n\n",
+    "1": "Serena Rooms: Struttura super consigliatissima. L'abbiamo scelta affidandoci alle tante recensioni positive, che confermiamo con fermezza. Il BeB è strutturalmente nuovo, fornito di tutto ciò che occorre per godersi a pieno dei giorni di totale relax. I proprietari sono giovani ma pieni di proposte per allietare il soggiorno dei loro ospiti. Abbiamo trovato una piacevole cura dei dettagli e un ambiente molto accogliente. ",
+    "2": "Villa dei Fiori: L'ospitalità e la cortesia di Antonio e Irina non hanno prezzo le stanze erano pulitissime e dotate di tutti i confort la posizione è perfetta sia per raggiungere Avellino che Salerno perché l'autostrada è adiacente.\nI nostri amici pelosetti sono stati accolti anche loro molto bene, la struttura ha il parcheggio privato chiuso da un cancello automatico e l'esterno è curatissimo.\nCi tenevo a ringraziare Antonio pubblicamente per averci aiutato nell'acquisto della pastiera e della mozzarella di bufala \"grande persona\" ci ritorneremo presto."
+  }
+}
