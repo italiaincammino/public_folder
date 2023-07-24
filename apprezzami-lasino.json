@@ -1,0 +1,125 @@
+{
+  "titolo_dell'articolo": "Sentiero Apprezzami l'Asino da Sapri - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Apprezzami L'asino",
+    "citta_di_partenza": "Sapri",
+    "provincia_di_partenza": "Salerno",
+    "regione_di_partenza": "Campania",
+    "catena_montuosa_o_parco": "Golfo di Policastro",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "Sentiero Apprezzami l'Asino",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/sapri-sentiero-degli-innamorati-apprezzami-lasino-31058321#wp-31058325",
+    "attrazioni_percorso": {
+      "0": "Spigolatrice di Sapri",
+      "1": "Torre di Capobianco",
+      "2": "Piscina dell'Amore",
+      "3": "Torre di Mezzanotte",
+      "4": "Canale di Mezzanotte"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "7 km",
+    "altitudine_min_percorso": "90 m",
+    "altitudine_max_percorso": "0 m",
+    "difficolta_percorso": "Facile",
+    "punto_partenza_percorso": "Porto di Sapri",
+    "punto_arrivo_percorso": "Porto di Sapri",
+    "dislivello_positivo_percorso": "130 m",
+    "dislivello_negativo_percorso": "130 m",
+    "tempo_medio_stimato_percorso": "2 ore 30 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "pagamento vicino percorso",
+    "fondo_percorso": {
+      "0": "Asfalto",
+      "1": "Sterrato",
+      "2": "Scogli"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "primavera",
+      "2": "primavera",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Albero di Giuda",
+      "2": "Carrubo",
+      "3": "Mirto"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza dal Porto di Sapri",
+      "descrizione": "Il tuo viaggio inizia direttamente al punto dove hai parcheggiato l'auto, nelle vicinanze del porto di Sapri. Da lì ti basterà seguire l'indicazione in legno che riporta: \"Apprezzami l'Asino - Sentiero vista Mare\". Da qui una breve serie di scalini ti condurranno lungo il sentiero"
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Sentiero degli innamorati",
+      "descrizione": "La prima parte del percorso, regala scorci panoramici indimenticabili su tutto il golfo di Policastro, troverete molte panchine su cui fermarvi a contemplare tra le meraviglie di questa costa cilentana, una vero gioiello. Inoltre questa parte del percorso è molto agevole e con poco dislivello, perfetto anche le famiglie e per le coppie che vogliono passare un momento romantico tra la maestosità della natura. Non a caso, questa prima parte del percorso è stato nominato anche con il nome `Sentiero degli innamorati`. Su questo percorso, potrete notare lo Scoglio dello Scialandro con la statua della spigolatrice di Sapri"
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Bivio",
+      "descrizione": "Dopo circa 1.5 km vi ritroverete ad un bivio, scendendo a destra, potrete percorrere un breve tratto fatto di scogli per raggiungere la \"Piscina dell'amore\", mi raccomando, se decidete di attraversare questa parte del percorso, prestare attenzione agli scogli sulla quale è facile scivolare, ed usare scarpe adatte. Proseguendo invece dritto potrete proseguire sul sentiero dell'Asinara"
+    },
+    "3": {
+      "id": "4",
+      "titolo": "Torre di Mezzanotte",
+      "descrizione": "Dal bivio in poi, da percorso turistico diventa percorso EE (escursionisti esperti) poichè il sentiero si restringe e rende la tua escursione più \"divertente\". Proseguendo dritto, raggiungerai Torre della Mezzanotte ed il suo incredibile panorama sulla costa che ti farà battere il cuore."
+    },
+    "4": {
+      "id": "5",
+      "titolo": "Spiaggia di mezzanotte.",
+      "descrizione": "Se vuoi proseguire verso la spiaggia di Mezzanotte, è necessario che tu sappia che il sentiero diventa sempre più stretto, sulla sinistra avrai il costone e sulla destra lo strapiombo verso il mare, senza alcuna protezione. Inoltre il fondo è formato prevalentemente da ghiaia sdrucciolevole, quindi è bene che presti molta attenzione se decidi di proseguire. All'altezza del ponte (visibile in alto),  dovrai calarti tra le rocce di questa `depressione` naturale, fino a raggiungere la spiaggetta spesso non soleggiata (da cui il nome) per la sua posizione tra le coste."
+    },
+    "5": {
+      "id": "6",
+      "titolo": "Ritorno al punto di partenza",
+      "descrizione": "Per tornare al punto di partenza, ti basterà ripercorrere il sentiero fatto in andata."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Spigolatrice di Sapri",
+      "descrizione": "Camminando lungo la prima parte del sentiero, salta agli occhi la statua della spigolatrice di Sapri, proprio sullo scoglio Scialandro in mezzo al mare. È un omaggio, realizzato dallo scultore Emanuele Stifano, ad uno degli eventi cardine del Risorgimento Italiano: la sfortunata spedizione di Sapri, condotta dal rivoluzionario e patriota Carlo Pisacane nel lontano 28 giugno 1857.\r\nLa statua raffigura la Spigolatrice di Sapri, protagonista di un'ammirevole poesia di Luigi Mercantini. La poesia, con parole semplici ma toccanti, dipinge la spedizione di Pisacane nel 1857 a Sapri, con il nobile intento di liberare la popolazione dal giogo borbonico. Sfortunatamente, la missione non ebbe successo: le persone, troppo presi dai loro problemi quotidiani, non riuscirono a percepire l'idealismo che guidava l'azione rivoluzionaria. Il tutto è raccontato attraverso gli occhi di una semplice spigolatrice del posto, rendendo l'intera narrazione intensamente popolare e terrena."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Torre di Capobianco e Torre di Mezzanotte",
+      "descrizione": "La Torre di Capobianco, come anche la Torre di Mezzanotte, sono un'eredità del progetto visionario di Don Pedro di Toledo, primo viceré spagnolo del Regno di Napoli, che fu però realizzato dal suo successore Don Pedro Afan de Ribeira, o \"Donperafàn\" come lo chiamavano affettuosamente i napoletani. L'obiettivo era di costruire una serie di torri costiere, dislocate in modo tale da poter comunicare tra di loro in caso di pericoli provenienti dal mare.\r\nTali baluardi cingevano il regno, garantendo la difesa da eventuali assalti di pirati e corsari, da Gaeta fino alla penisola del Gargano. Un sistema di difesa tanto solido quanto necessario durante i tempi delle incursioni Turche, un'epoca di terrore per le popolazioni delle marine cilentane.\r\nI celebri \"magistri murari\" di Cava dè Tirreni furono incaricati della costruzione, utilizzando materiali locali. Questo complesso progetto, iniziato nel 1542, nonostante le molte avversità e ostacoli, continuò per oltre mezzo secolo. Dopo la scomparsa della grande pirateria turca, le torri, ormai in rovina, furono vendute a privati cittadini dal Regno d'Italia dopo l'Unità Nazionale.\r\nOggi, purtroppo, queste meraviglie storiche spesso erroneamente etichettate come \"Torri Saracene\", sono lasciate a loro stesse, peccato, perchè se restaurate e messe in valore, potrebbero formare un itinerario affascinante di archeologia costiera, un tragitto pieno di ispirazione per approfondire i modi di vivere, le tradizioni, i costumi e la storia del popolo del sud Italia e del Cilento in particolare."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Canale di Mezzanotte",
+      "descrizione": "Incastonato tra i confini di Campania e Basilicata, il Canale di Mezzanotte è un affascinante gola costiera che tesse il confine naturale tra Sapri e Acquafredda. Il suo nome è dovuto alla poca luce solare ricevuta data dalla sua posizione tra i costoni. In questo scenario mozzafiato avviene anche la nidificazione della tartaruga Caretta Caretta. Il Canale di Mezzanotte: più di un confine, una porta su mondi nascosti e meraviglie naturali."
+    },
+    "3": {
+      "id": "5",
+      "titolo": "Curiosità sul Sentiero Apprezzami l'Asino",
+      "descrizione": "Quello che oggi è conosciuto come `Sentiero Apprezzami l'Asino`, un tempo era l'unica via che univa Sapri a Maratea. Una rotta importante per il commercio e lo scambio di merci, che veniva trasportata in groapa agli asini. A causa del sentiero che và man mano restringendosi, quando due asini, provenienti da direzioni opposte, si incrociavano, i proprietari effettuavano una veloce stima del valore degli asini e del valore che essi trasportavano, il proprietario dell'asino di minor valore riceveva la metà del valore come indennizzo e l'asino veniva sacrificato e precipitato a mare."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Alici mbttunate",
+      "1": "La ciauredda",
+      "2": "Lagane e Ceci",
+      "3": "Cavatieddi con ragù",
+      "4": "La mozzarella \"ind’a Murtedda\"",
+      "5": "La Ciambotta",
+      "6": "I scavuratelle"
+    },
+    "dove_mangiare": {
+      "0": "Fratimo: Lo chef ha saputo dare una sua impronta caratteristica sia al locale che, soprattutto, ai piatti. Un accostamento originale degli ingredienti che esaltano al palato con una varietà di sapori. Non esiste un vero e proprio menù alla carta, ma c'è un menù degustazione che varia in base al pescato, e che prevede tre antipasti e degli assaggi di primo; merita anche la mise en place. Più che assaggi, le porzioni sono abbondanti e inoltre vengono incluse nel prezzo anche le bevande. Per chi lo desidera é possibile anche mangiare pizza. Dulcis in fundo, il locale é molto accogliente e in buona posizione.",
+      "1": "Ristorante Lucifero: Ottimi gli spaghetti con le vongole, come la frittura di pesce, eccellente il tonno in costa. Buono il servizio, in particolare non ci sono state attese lunghe che era un difetto riscontrato altre volte. Il prezzo adeguato.",
+      "2": "Bottega dei golosi: Esperienza magica..qualità dei prodotti e dell'esperienza umana. Un posto che ti fa sentire coccolato e un proprietario autentico oste che con passione ti accompagna per mano a scoprire le autenticità del territorio. Eccellenza vera, lui, l'offerta e l'esperienza"
+    }
+  },
+  "dove_dormire": {
+    "0": "B&B LA ROSA DEI VENTI: La struttura è in una posizione centrale, comoda da raggiungere e soprattutto per spostarsi a piedi. Di fronte c’è un comodo parcheggio in strada dove poter lasciare l’auto. La camera è molto grande e spaziosa, il bagno dotato di tutti i comfort. Ottima la pulizia in tutti gli spazi della stanza. La colazione è stata abbondante con la possibilità di scegliere tra una colazione più salutare con cereali frutta e tisane oppure la classica colazione con cornetto e cappuccino. La struttura accetta cani con un piccolo incremento sul prezzo ",
+    "1": "Villa Caterina: Non so da dove cominciare per esprimere quanto siamo stati bene: la villa è incantevole, perfetta per chi vuole trascorrere qualche giorno in piena tranquillità. La stanza era pulitissima e arredata con mobili antichi, in linea con lo stile generale, ma comunque dotata di tutti i comfort più moderni. La parte migliore sono sicuramente le proprietarie: Cinzia, una forza della natura, e Simona, pronta a regalarci le sue memorie che ci hanno fatto scoprire l'anima di quel luogo. Sempre disponibili, gentili e divertenti. Hanno reso il nostro soggiorno una vera favola!",
+    "2": "Gemma Maris: La struttura è nuovissima ed estremamente accogliente, ci siamo sentiti subito a casa. Le stanze sono fresche pulite e silenziose, il letto molto comodo, il bagno è completo, spazioso ed ha una doccia favolosa. Marco, l'ottimo padrone di casa, ci ha messi subito a nostro agio con immensa cordialità e gentilezza, facendoci trovare come benvenuto un prosecco con frutta e bottiglie di acqua fresca in camera. La colazione viene servita a dieci metri dal mare su di un lido convenzionato (il migliore secondo il mio punto di vista a Sapri)."
+  }
+}
