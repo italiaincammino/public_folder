@@ -1,0 +1,127 @@
+{
+  "titolo_dell'articolo": "Cammino di San Biagio da Maratea - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Cammino di San Biagio",
+    "citta_di_partenza": "Maratea",
+    "provincia_di_partenza": "Potenza",
+    "regione_di_partenza": "Basilicata",
+    "catena_montuosa_o_parco": "Parco Nazionale del Pollino",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "Cammino di San Biagio",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/maratea-salita-al-cristo-redentore-cammino-di-san-biagio-75893151",
+    "attrazioni_percorso": {
+      "0": "Rovine della città Antica",
+      "1": "Basilica di San Biagio",
+      "2": "Statua del Cristo Redentore"
+    },
+    "panorama_percorso": {
+      "0": "Costa degli infreschi",
+      "1": "Monte Bulgheria",
+      "2": "Isolotto di Santo Ianni",
+      "3": "Monte Cifolo",
+      "4": "Isola di Dino",
+      "5": "Monte Crivo"
+    },
+    "lunghezza_percorso": "7.8 km",
+    "altitudine_min_percorso": "581 m",
+    "altitudine_max_percorso": "310 m",
+    "difficolta_percorso": "Facile",
+    "punto_partenza_percorso": "Via San Francesco dei Poverelli",
+    "punto_arrivo_percorso": "Via San Francesco dei Poverelli",
+    "dislivello_positivo_percorso": "290 m",
+    "dislivello_negativo_percorso": "290 m",
+    "tempo_medio_stimato_percorso": "2 ore 30 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "pagamento vicino percorso",
+    "fondo_percorso": {
+      "0": "Asfalto",
+      "1": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "primavera",
+      "2": "primavera",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Fichi d'India"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza dal Parcheggio",
+      "descrizione": "Il tuo viaggio inizia proprio dove hai parcheggiato l'auto, in via san francesco dei poverelli. Da qui dovrai proseguire su strada asfaltata seguendo i 5 tornati per circa 1.5km."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Indicazioni",
+      "descrizione": "Dopo aver percorso la strada asfaltata, sulla destra troverai delle chiare indicazioni che ti indicano di intraprendere il sentiero sterrato. Con una breve e constante salita, fincheggiata da una bellissima vista panoramica. "
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Segui il percorso",
+      "descrizione": "Sbagliarsi è impossibile, poichè la strada è ben segnalata ed unica, non troverai alcun bivio che possa confonderti."
+    },
+    "3": {
+      "id": "4",
+      "titolo": "Città Antica",
+      "descrizione": "Dopo circa 4 km ti ritroverai ad attraversare le rovina dell'antica città, proprio sotto la vetta di monte San Biagio.  "
+    },
+    "4": {
+      "id": "5",
+      "titolo": "Chiesa di San Biagio e Statua del Redentore",
+      "descrizione": "Proseguendo per circa 1km sarai giunto alla meta, e potrai godere della spettacolare vista della statua del Cristo Redentore e visitare la basilica di san Biagio"
+    },
+    "5": {
+      "id": "6",
+      "titolo": "Ritorno al punto di partenza",
+      "descrizione": "Per tornare al punto di partenza, ti basterà ripercorrere il sentiero fatto in andata."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Il Castello di Maratea",
+      "descrizione": "Le rovina del Castello di Maratea, sorgono in una posizione elevata, dominando dall'alto l'intera cittadina attuale. Costruito presumibilmente nel X secolo come roccaforte contro gli attacchi dei Saraceni.\n\nLa storia del Castello è densa di eventi drammatici. Un episodio chiave è avvenuto il 10 dicembre 1806, quando, dopo giorni di eroico combattimento, sotto la guida del Colonnello Alessandro Mandarini, fedele al Re Ferdinando IV di Borbone, il Castello dovette arrendersi, se pure con l'onore delle Armi, all'esorbitante e devastante potenza dell'esercito francese, guidato dal Generale Lamarque. A quel tempo, Giuseppe Bonaparte, fratello di Napoleone, regnava sul trono di Napoli. Questa battaglia epica era la conseguenza della disastrosa caduta di Lagonegro (7 marzo 1806) e della tragica \"fornace di Lauria\" (8 agosto 1806). Solo il Sacro edificio del Tempio di San Biagio rimase indenne."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Torre di Capobianco e Torre di Mezzanotte",
+      "descrizione": "La Torre di Capobianco, come anche la Torre di Mezzanotte, sono un'eredità del progetto visionario di Don Pedro di Toledo, primo viceré spagnolo del Regno di Napoli, che fu però realizzato dal suo successore Don Pedro Afan de Ribeira, o \"Donperafàn\" come lo chiamavano affettuosamente i napoletani. L'obiettivo era di costruire una serie di torri costiere, dislocate in modo tale da poter comunicare tra di loro in caso di pericoli provenienti dal mare.\r\nTali baluardi cingevano il regno, garantendo la difesa da eventuali assalti di pirati e corsari, da Gaeta fino alla penisola del Gargano. Un sistema di difesa tanto solido quanto necessario durante i tempi delle incursioni Turche, un'epoca di terrore per le popolazioni delle marine cilentane.\r\nI celebri \"magistri murari\" di Cava dè Tirreni furono incaricati della costruzione, utilizzando materiali locali. Questo complesso progetto, iniziato nel 1542, nonostante le molte avversità e ostacoli, continuò per oltre mezzo secolo. Dopo la scomparsa della grande pirateria turca, le torri, ormai in rovina, furono vendute a privati cittadini dal Regno d'Italia dopo l'Unità Nazionale.\r\nOggi, purtroppo, queste meraviglie storiche spesso erroneamente etichettate come \"Torri Saracene\", sono lasciate a loro stesse, peccato, perchè se restaurate e messe in valore, potrebbero formare un itinerario affascinante di archeologia costiera, un tragitto pieno di ispirazione per approfondire i modi di vivere, le tradizioni, i costumi e la storia del popolo del sud Italia e del Cilento in particolare."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Statua del Cristo Redentore",
+      "descrizione": "La maestosa statua del Cristo di Maratea fu commissionata da Stefano Rivetti di Val Cervo, imprenditore biellese, tra il 1963 e il 1965, con l'intento di valorizzare il territorio di Maratea. L'opera fu affidata a Bruno Innocenti, allora docente all'istituto d'arte statale di Firenze, e a Luigi Musumeci, ingegnere. La realizzazione è stata effettuata da un'impresa friulana, con manodopera locale proveniente da Lauria e Maratea.\n\nIl monumento si trova nelle vicinanze delle rovine di Maratea Castello, una fortezza antica distrutta nel 1806 da un contingente di soldati francesi. La posizione della statua non è casuale: essa è stata eretta con lo stesso scopo dei monumenti precedenti che sovrastavano la cima di Monte San Biagio. Inizialmente, lì si trovava una croce commemorativa in ferro battuto, eretta nel 1907 e successivamente sostituita nel 1942 da una in cemento armato, che fu smantellata dopo l'approvazione del progetto del Cristo Redentore.\n\nOltre alla sua importanza storica, la statua rappresenta un simbolo di rinascita e speranza, come esplicato dal suo creatore, Bruno Innocenti. Sorprendentemente, il volto del Cristo non guarda il mare, ma l'entroterra, come a vegliare sugli abitanti di Maratea.\n\nNonostante sia una delle statue di Cristo più alte al mondo, non detiene il primato, superata da quella di Świebodzin in Polonia e la famosa statua di Rio de Janeiro. Quest'ultima è strettamente legata a Maratea: nel 2021, infatti, è stato siglato un gemellaggio tra le due città, promuovendo scambi culturali e turistici legati ai rispettivi monumenti."
+    },
+    "3": {
+      "id": "5",
+      "titolo": "Chiesa di San Biagio",
+      "descrizione": "La Basilica Pontificia del Santuario di San Biagio è la chiesa più importante di Maratea , custode delle reliquie del Santo Patrono.\n\n\nSi trova in cima al monte S. Biagio, dove si trova l’antica Maratea Castello. \n\n\nLa tradizione popolare vuole che la chiesa, originariamente dedicata alla Madonna delle Grazie , sia sorta riadattando al culto cristiano delle strutture architettoniche di un antico tempio pagano dedicato alla dea Minerva.  Sebbene la presenza di tale tempio non sia mai stata verificata da prove archeologiche, la posizione dell’edificio e alcuni reperti di epoca romana trovati nelle vicinanze lasciano supporre una effettiva plausibilità della presenza del tempio sul monte, anticamente detto «monte Minerva». \n\nMisteriosa è anche l’espansione architettonica della struttura, in quanto ogni riscontro documentale probante in tal senso è andato distrutto nell’incendio, causato da un fulmine, avvenuto nel 1629. \n\nGli studiosi locali hanno suggerito che la struttura originaria della chiesa consistesse nell’attuale presbiterio, a cui poi fu aggiunta la zona delle navate, completata della facciata e del campanile nel XVIII secolo.  Nel XVI secolo la chiesa fu abbellita con un tabernacolo in bassorilievo, opera della bottega di Jacopo della Pila donato da Guglielmo Deodato nel 1519, e da un grande polittico in legno di Michele Curia del 1579, oggi non più presente in chiesa perché andato perduto in seguito dei lavori di restauro della chiesa del 1963-1969. \nQuesti lavori, nell’intento di riportare la chiesa al suo aspetto primitivo, hanno notevolmente compromesso l’aspetto della chiesa, che oggi conserva le sue forme severe e imponenti, ma è privo di molte opere d’arte donate alla chiesa nel corso dei secoli, parzialmente restituite alla vista dei fedeli a partire dal 1978: per opera del locale Centro Culturale infatti, sono oggi di nuovo presenti nella basilica i sette altari in marmo del XVIII secolo, il bassorilievo dell’Annunciazione del XVII secolo, il bellissimo bassorilievo detto “Madonna della Sapienza” datato 1755, il quadro di “San Biagio in Gloria” del XVIII secolo e quello di San Macario della stessa epoca.  La Regia Cappella\n\nL’opera artistica più importante della chiesa è però la Regia Cappella, sacello in marmo del XVII secolo, originariamente posto al lato destro della navata centrale e abbellito con stucchi e decorazioni in oro, in seguito spostata nel fondo del presbiterio nel 1940 e poi spogliata degli abbellimenti nei lavori del 1963-1969. \n\n\nLa cappella, divenuta famosa per il prodigio della Santa Manna che sgorga dalle sue pareti, fu dichiarata “regia” dal re Filippo IV d’Asburgo nel 1623, conserva l’urna con il torace di S. Biagio di Sebaste, patrono di Maratea, e la statua argentea del santo, copia del simulacro inciso da Domenico De Blasio nel 1706 e trafugato il 27 ottobre 1976 da ignoti ladri. \n\nA lato della cappella si scorge una palla di cannone, residuo bellico dell’assedio del Castello del 1806, rimasto inesploso, si dice, per miracolo del Santo. "
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "cacioriccotta e pecorino del Pollino",
+      "1": "baccalà alla lucana",
+      "2": "orecchiette alla maritata",
+      "3": "lucanica",
+      "4": "zeppole"
+    },
+    "dove_mangiare": {
+      "0": "La Taverna di Zu Cicco: Posto caratteristico con cucina di territorio, gli stessi abitanti considerano Maratea un paese di montagna.\r\nD'estate i tavoli si trovano nei vicoli, passaggio solo pedonale, atmosfera unica.\r\nLa cucina buona, essendo una cucina di territorio è semplice, non cerca frinzoli o mode, solo tradizione.\r\nPiatti abbondanti, buoni, forse alcuni piatti si potrebbero considerare piatti unici, perchè è proprio tanto, specialmente se si è preso un antipasto e un primo. Infatti si è saltato il dolce perchè il tutto è stato tanto.\r\nServizio attento, veloce",
+      "1": "Il Giardino di Epicuro\r:  Ho trovato Antonio, degno successore del padre, che dirige la sinfonia culinaria della cucina tradizionale ed è attento alla eccellenza della materia prima. Un vero e proprio anfitrione che si cura di ogni tavolo con perfetta padronanza di almeno tre lingue, consiglia e vigila. Secondo il suo consiglio mia moglie ed io abbiamo gustato abbondanti porzioni di gnocchi al finocchietto selvatico (unici) e strascinati al sugo di castrato (invincibili). Prima ci siamo lasciati coccolare da un antipasto di salumi artigianali (fantastica la nduja non eccessivamente piccante) il tutto irrorato da un Aglianico di produzione propria da non perdere. A seguire capretto e salsiccia lucana, sazi per poter prendere i dolci (abbiamo visto servire una crostata al limone di tutto riguardo) abbiamo concluso con mirto artigianale (unico) e caffè offerti dalla casa. Anche il servizio è offerto. Il prezzo per la zona, per la qualità e l'abbondanza non ha concorrenti.",
+      "2": "Ristorante Santa Lucia da Biagio: Cibo buonissimo fatto in casa e di ottima qualità, molto fresco e genuino location buona e il personale è molto gentile e disponibile fanno anche il senza glutine e ottimo rapporto qualità prezzo",
+      "3": "I Sapori di Marianna: Tutto perfetto! Gentilezza, cortesia, bontà dei piatti con il rapporto qualità prezzo ai massimi livelli. Consigliato il tagliere di salumi locali, la pasta alla marateana e il baccalà fritto servito con i peperoni cruschi. Carta dei vini e dei distillati di particolare pregio."
+    }
+  },
+  "dove_dormire": {
+    "0": "Bed and Breakfast Nefer: \r\nUna struttura incantevole e servizio impeccabile, dalla pulizia all'accoglienza e disponibilità. Colazione dolce molto ricca, le torte vengono preparate personalmente dalla proprietaria Rita.\r\nLa vista sul mare dal nostro balcone era impagabile.\r\nLa stradina per scendere alla struttura è breve ma abbastanza ripida, da mettere in conto data la conformazione del territorio di Maratea.",
+    "1": "Amaranto: La posizione a picco sul mare è fantastica, gli unici rumori presenti erano lo sciabordare delle onde e il canto del gallo alla mattina.\r\nLo staff è davvero disponibile e sa consigliare benissimo cosa fare durante il soggiorno.\r\nColazione ricca fatta sul posto e con frutta fresca.",
+    "2": "Grand Hotel Pianeta Maratea Resort: Posizione stupefacente con vista pazzesca\r\nCamera molto spaziosa senza arredi inutili, pulita, silenziosa e condizionata in modo ottimale ( condizionatore al minimo molto silenzioso)\r\nPiscina posizionata nel lato con vista\r\nBar piscina(che fanno anche dei ottimi mojito ), peccato i bicchieri di plastica\r\nBuona colazione\r\nVorrei sottolineare il parcheggio gratuito\r\nCon alberi e spazio a volontà\r\nLa struttura avrebbe bisogno di essere rinfrescata soprattutto i balconi e i bagni\r\nAncora con vasca e doccia insieme",
+    "3": "Sanacore - Maratea - Cersuta: \r\nIl posto è a dir poco incantevole. Puoi godere della tranquillità del querceto in cui la struttura è immersa e , se ne hai voglia, tuffarti nel mare a pochissima distanza.\r\nLa sera puoi raggiungerci la vicina Maratea e goderti un ottimo gelato nella sua incantevole piazzetta.\r\nEsperienza da ripetere"
+  }
+}
