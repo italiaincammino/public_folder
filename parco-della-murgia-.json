@@ -1,0 +1,149 @@
+{
+  "titolo_dell'articolo": "Sentiero Parco della Murgia da Maratea - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Parco della Murgia ",
+    "citta_di_partenza": "Matera",
+    "provincia_di_partenza": "Matera",
+    "regione_di_partenza": "Basilicata",
+    "catena_montuosa_o_parco": "Parco della Murgia Materana",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "406",
+    "attrazioni_percorso": {
+      "0": "Ponte tibetano",
+      "1": "abitati rupestri",
+      "2": "Chiesa rupestre di Sant'Agnese",
+      "3": "Chiesa rupestre santuario Madonna della Tre Porte ",
+      "4": "belvedere di Murgia Timone",
+      "5": "Sassi di Matera",
+      "6": "Matera "
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "3.8 km",
+    "altitudine_min_percorso": "397 m",
+    "altitudine_max_percorso": "282 m",
+    "difficolta_percorso": "Facile",
+    "punto_partenza_percorso": "Centro Visite ex Convento di S. Lucia",
+    "punto_arrivo_percorso": "Centro Visite ex Convento di S. Lucia",
+    "dislivello_positivo_percorso": "163 m",
+    "dislivello_negativo_percorso": "163 m",
+    "tempo_medio_stimato_percorso": "1 ore 45 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Asfalto",
+      "1": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "primavera",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "pseudosteppa mediterranea",
+      "2": "asfodeli",
+      "3": "ferule",
+      "4": "cardi",
+      "5": "papaveri",
+      "6": "cisti ",
+      "7": "orchidee",
+      "8": "Lino di Tommasini",
+      "9": "Lino delle fate"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza dal parcheggio di fronte al Centro Visite ex Convento di S. Lucia",
+      "descrizione": "Il tuo viaggio inizia direttamente al punto dove hai parcheggiato l'auto, nello spiazzo a qualche metro dal Centro Visite ex Convento di S. Lucia,  proprio di fronte alla trattoria I due sassi. Esci dal parcheggio e, sulla sinistra, prendi la scalinata a fianco al cartello con le informazioni sulla parco della Murgia Materana. "
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Imbocca il sentiero 406",
+      "descrizione": "A questo punto prosegui tenendo la sinistra per rimanere sul sentiero 406"
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Prosegui sul sentiero",
+      "descrizione": "Dopo circa 0.4km, prendi la destra per proseguire sul sentiero."
+    },
+    "3": {
+      "id": "4",
+      "titolo": "Super il ponte tibetano",
+      "descrizione": "Dopo circa altri 0,4km, ti trovera al Ponte sulla gravina. Attraversa il ponte e prosegui sul sentiero."
+    },
+    "4": {
+      "id": "5",
+      "titolo": "Chiesa rupestre di Sant'Agnese",
+      "descrizione": "Segui il sentiero 406 per circa 0.6km fino alla chiesa rupestre di Sant'Agnese. Sul tuo percorso troverai altre testimonianze di antiche grotte e abitati rupestri."
+    },
+    "5": {
+      "id": "6",
+      "titolo": "Arrivo al belvedere di Murgia Timone",
+      "descrizione": "Prosegui per altri 0.1km circa per arrivare al belvedere e godere di una meravigliosa vista su Matera e i suoi famosissimi Sassi"
+    },
+    "6": {
+      "id": "7",
+      "titolo": "Ritorno al punto di partenza",
+      "descrizione": "Per tornare al punto di partenza, ti basterà ripercorrere il sentiero fatto in andata."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Ponte tibetano\r\n",
+      "descrizione": "Con il Ponte tibetano Matera è più eccitante per tutti gli amanti del trekking e delle escursioni. Inaugurato nell’aprile 2015 il Ponte tibetano sul Canyon  della Gravina è una delle attrazioni principali per i visitatori di Matera. E’ un passaggio comodo per gli escursionisti, anche meno esperti. Consente di guadare il torrente Gravina  per raggiungere la timpa di Murgia Timone. Una delle caratteristiche peculiari è il fatto che la passerella si trova a metà strada tra i Sassi ed il Belvedere. In un contesto che passa da quello urbano – grottale, ad uno medioevale – paleolitico."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "abitati rupestri   nel Parco della Murgia Materana",
+      "descrizione": "Il territorio fu frequentato sin dalla preistoria come testimoniano i numerosi reperti fossili esposti al Museo Archeologico Nazionale Domenico Ridola di Matera, gli stazionamenti della Grotta dei Pipistrelli, frequentata nel Paleolitico, e i villaggi neolitici di Murgia Timone, Murgecchia e di Trasanello cinti da fossati difensivi scavati nella roccia, che si caratterizzano nel neolitico medio per la ceramica di Serra d’Alto, una ceramica figulina dipinta in bruno con motivi geometrici e anse a nastro con spesso protomi animali che prende il nome dall’omonima collina del materano, e che si associa nel neolitico finale alla ceramica di Diana Bellavista, una ceramica di colore rosso con diverse tonalità e con anse a rocchetto allungato che prende il nome dell’insediamento di Diana di Lipari e della necropoli di Masseria Bellavista di Taranto."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Chiesa rupestre di Sant'Agnese",
+      "descrizione": "Un'altra Cripta da visitare trovandosi nelle vicinanze del Belvedere della Murgia è la Chiesa di Sant'Agnese.\r\nCi si trova di fronte al canyon della Gravina di Matera in posizione opposta alla zona del Sasso\r\nCaveoso.\r\nLa cripta si presenta con una pianta non regolare.\r\nA destra e a sinistra della porta di ingresso si osservano una serie di nicchie\r\nSulla volta un arco a tutto sesto divide il presbiterio dalla'aula centrale.\r\nUn nuovo altare ha sostituito il vecchio e si appoggia direttamente all'abside dove in alto resta l'unico affresco della chiesa, dedicato appunto a Sant'Agnese, protettrice delle vergini, fidanzati e dei giardinieri.\r\nCisterna per le acque\r\nDi fianco all'ingresso si può notare una cisterna, che incanalando l'acqua attraverso un sistema di convoglio dal livello superiore, riforniva periodicamente la comunità monastica che anticamente viveva attorno al santuario.\r\nCuriosità rupestri\r\nMolto particolare è il condotto per la raccolta e la decantazione delle acque che conduce alla cisterna della Chiesa di Sant'Agnese.\r\nNella parte alta, difatti, possiamo notare le vasche di decantazione che, seguendo il declivio, filtrano, prima, e portano, poi, l'acqua alla cisterna in roccia della Chiesa.\r\nUn aspetto distintivo dello scrupoloso lavoro della pietra del luogo da parte delle comunità monastiche per approvigionarsi d'acqua anche in un teritorio ostile come questo."
+    },
+    "3": {
+      "id": "5",
+      "titolo": "Chiesa rupestre santuario Madonna della Tre Porte",
+      "descrizione": "Cosi chiamato probabilmente per il suo accesso dove si aprono tre ingressi la cappella rupestre di Madonna delle Tre Porte si trova sul pendio a sud del pianoro del Belvedere della Murgia Timone.\r\nLuogo panoramico in cui ci si innamora del paesaggio che si stagli davanti agli occhi.\r\nHa rappresentato uno del monumenti ipogel più evoluti data la presenza di affreschi al suo interno di pregevole fattura artistica, che vanno dal XII al XVII secolo.\r\nAppena entrati sulla destra si può vedere la figura del Cristo in trono, con ai lati Maria Vergine e San Giovanni.\r\nLa prima rovinate e il secondo asportato dal capo al busto. Sulla sinistra del Cristo una\r\nMadonna viene raffigurata con una melagrana nella mano sinistra.\r\n\r\nSi he di fronte il rione del Sasso Caveoso e alle sinistra guardando verso sud ci si lascia dominare dallo strapiombo panoramico della Gravina di Matera che prosegue in suo corso verso la città di Montescaglioso\r\nStruttura\r\nLa chiesa presenta una planta rettangolare, distribuite trasversalmente.\r\nLe colonne centrali sviluppano delle arcate o le absidi appaiono contrapposte al lati minori della struttura.co\r\nIl melograno era il simbolo dell'umiltà, della saluta e della purezza.\r\nAndando ancora a sinistra con lo sguardo un affresco sopra un ambone raffigura una Madonna bizantina in trono con il Bambino seduto sulle ginocchia, del XII secolo,\r\nProseguendo a sinistra un dipinto con l'annunciazione dell'arcangelo Gabriele con a destra la Vergine stupita e il Signore Dio in alto insieme alla colomba dello Spirito Santo\r\nUn affresco unico nel suo genere essendo uno dei pochi nel comprensorio rupestre in stile discorsivo.\r\nNella parte terminale a sinistra una nicchia accoglie uns croce incisa nella pietra abbellita da ovali concentrici.\r\nL'ultimo pilastro vicino all'odierno ingresso sulla sinistra ospita una croce martellata, con decorazioni di fogli e fion di colore rosso, e scritte in greco.\r\nQuesto luogo anticamente ebbe molta importanza tra le comunità pastorali della zona, lo evidenzia il fatto che al suo interno vi siano numerose croci graffite, sui pilastri e sulle pareti.\r"
+    },
+    "4": {
+      "id": "6",
+      "titolo": " belvedere di Murgia Timone",
+      "descrizione": "Matera Belvedere di Murgia Timone\r\nIl nome Murgia Timone derive da un punto specifico dell'altopiano materano.\r\nIl Parco delle Chiese rupestri o della Murgia materana possiede, infatti, diverse Murge.\r\nSono tante, difatti, le aree della zona che cambiano il proprio nome in base al punto di appartenenza del Parco\r\nDi Murge, difatti, a Matera ce ne sono diverse.\r\nQuello più frequentata, di solito, è lo Murgia Timone\r\nMa ce ne sono molte altra, belle ed different tra loro.\r\nConservano i segni dell'uomo dal preistorico ad oggi.\r\nSono ricche di Chiese ed asceteri rupestri, oltre che di tratturi antichi e sentieri per gli amanti del trekking.\r\nComunque per i viaggiatori come per i residenti il Belvedere più famoso di Matera resta quella di Timone,\r\nMolto famoso, tra l'altro, poiche set cinematografico di film internazionali, da Mel Gibson a Wonder Woman, a 007."
+    },
+    "5": {
+      "id": "7",
+      "titolo": "Sassi di Matera ",
+      "descrizione": "I Sassi di Matera, dichiarati Patrimonio Mondiale dell’Umanità nel 1993 dall’UNESCO, sono un luogo unico e dal fascino straordinario che testimoniano come l’uomo abbia vissuto per millenni in un ambiente fiabesco: il contesto rupestre che caratterizza sia i 32 ettari in cui si articola il nucleo urbano dei Sassi, sia tutto il territorio circostante in gran parte protetto dal Parco Archeologico Storico Naturale delle Chiese Rupestri del Materano.\r\n\r\nI Sassi di Matera sono collegati con l’attuale centro della città che si trova sul piano attraverso numerosi accessi che creano uno scambio continuo tra questi due ambienti urbani. Per accedere ai Sassi basta imboccare una delle numerose vie o vicoli che dal centro cittadino scendono verso gli antichi rioni. Originariamente i Sassi di Matera erano semplicemente un ambiente rupestre in continuità con quello che si trova sul fronte opposto al canyon scavato dalla Gravina di Matera. Il versante occidentale sul quale è stato creato questo nucleo urbano è costituito in basso da pareti ripide che si affacciano sul torrente e più in alto una serie di terrazzamenti, colline e pianori più adatti all’insediamento umano, luoghi che nel corso dei millenni sono stati trasformati da villaggi rupestri a una vera e propria città.\r\n\r\nI primi insediamenti umani risalgono al paleolitico e si svilupparono in grotte che numerosissime caratterizzano il paesaggio rupestre di Matera. Nel tempo questo paesaggio è stato sempre più modificato dall’uomo che ha scavato e plasmato la roccia madre trovando soprattutto nello strato friabile della calcarenite (tufo) una eccezzionale possibilità di insediamento al riparo dagli agenti naturali. Gli ambienti scavati in veri e propri complessi rupestri hanno costituito la prima forma del nucleo urbano tutt’ora presente in gran parte all’interno degli edifici e fabbricati costruiti nel corso dell’ultimo millennio.\r\n\r\nDopo aver attraversato le fasi preistoriche del paleolitico, del neolitico e delle varie età dei metalli la storia di Matera verrà fortemente caratterizzata dall’avvento del Cristianesimo. L’impronta cristiana diviene culturalmente dominante in breve tempo. Durante tutto il medioevo il paesaggio rupestre viene sistematicamente trasformato dalla costruzione di imponenti luoghi di culto. Vengono costruiti durante questo periodo imponenti la maestosa Cattedrale di Matera, la chiesa di San Giovanni Battista, la Chiesa di S. Domenico, la Chiesa di Santa Maria della Valle Verde sulla via Appia. In questo momento prende forma una vera città concentrata intorno alla Cattedrale posta all’apice della collina della Civita (Civitas, città) che divide in due i Sassi: il Sasso Barisano rivolto ad est e il Sasso Caveoso rivolto a sud."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "peperoni cruschi",
+      "1": "cialedda",
+      "2": "la crapiata materana",
+      "3": "la pignata",
+      "4": "fave e cicoria",
+      "5": "le orecchiette alla materana",
+      "6": "sporcamuss",
+      "7": "Matera DOC"
+    },
+    "dove_mangiare": {
+      "0": "Da Nonna Rosa: Piatti buonissimi con buona scelta tra primi e secondi tipici della cucina materana e lucana. Si tenga in considerazione che fondamentalmente il locale è per l'asporto ma ha un numero sufficiente di tavoli per accomodarsi e pranzare in serenità gli ottimi piatti ordinati. Materie prime per i piatti ottime. Gli ingredienti fondamentali sono l'accoglienza e l'EDUCAZIONE che accompagnano il buon cibo!\r\nSi viene serviti con gentilezza e mai invadenza o eccessiva premura. L'ambiente è accogliente. Non ci si aspetti il tovagliato e malgrado ciò la pulizia e l'ordine prevalgono. Non c'è nemmeno il rischio di riempirsi di odore di cucina. Buona la scelta dei vini. A volergli trovare un difetto: l'ABBONDANZA! (così come spesso dico scherzando con i gestori)",
+      "1": "Trattoria del Caveoso: Abbiamo cenato a base di prodotti tipici del territorio vino compreso. Tutto perfetto. Qualità ottima, personale attento e pronto che ti spiega in maniera più che esaustiva i piatti. Scelta più che mai azzeccata per la nostra prima serata a Matera.",
+      "2": "Trattoria Stano: Abbiamo prenotato dopo aver fatto delle ricerche sui ristoranti a Matera e Stano veniva segnalato tra i migliori ed effettivamente abbiamo mangiato benissimo, menzione particolare per la polpetta di baccalà mantecato ECCEZIONALE, i prezzi non sono popolari ma in linea con questo tipo di ristorazione",
+      "3": "Il Cantuccio: Posticino trovato mentre passeggiavano per le vie di Matera, ci ha colpite l'intimità dei tavolini nella vietta.\r\nAbbiamo preso zuppa di fave con cicoria, peperoni cruschi, cialledda materana e come primo orecchiette con cime di rapa e strascinati con pane fritto, peperone crusco e stracciatella.\r\nOgni piatto veramente delizioso, abbiamo fatto addirittura la scarpetta!\r\nInfine, la cheesecake con confettura di fichi, nocciole e noci... Che dire... Non potevamo concludere in modo migliore!!!\r\nCamerieri cortesi e attenti.\r\nConto super onesto!\r\nStra consigliato!"
+    }
+  },
+  "dove_dormire": {
+    "0": "L'Antica Conceria: \r\nLa colazione è fantastica: abbondante, varia e sempre fresca. Martino, il responsabile della struttura, ci ha accolto con grande attenzione e fin dai primi istanti ci ha fatti sentire a casa. Ma ciò che più conta è che ci ha accompagnato alla scoperta di una città complessa, facendoci percepire la profonda bellezza che la contraddistingue. È una bellezza che va oltre una semplice occhiata fugace ai panorami mozzafiato che si possono ammirare dalle numerose balconate.",
+    "1": "MaisonSilvi': A due passi dal centro storico e dai famosi sassi. Ambiente davvero molto bello, arredato con gusto e soprattutto pulitissimo. Il personale è stato gentilissimo. Tutto perfetto",
+    "2": "Le 2 Gravine: «Host gentilissima, camera spaziosa, letti comodissimi, nella sala comune c'è un distributore di caffè, bibite e snack. Possibilità di parcheggiare nel parcheggio di fianco.»",
+    "3": "Le Dimore nel Cortile: Situato in una zona tranquilla e silenziosa a pochi minuti dal centro storico.\r\nCamera spaziosa e pulita.\r\nParcheggio vicino alla struttura"
+  }
+}
