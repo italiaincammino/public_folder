@@ -1,0 +1,112 @@
+{
+  "titolo_dell'articolo": "Sentiero Cascate di San Fele da San Fele- Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Cascate di San Fele",
+    "citta_di_partenza": "San Fele",
+    "provincia_di_partenza": "Potenza",
+    "regione_di_partenza": "Basilicata",
+    "catena_montuosa_o_parco": "Parco naturale regionale del Vulture",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "Cascate di San Fele",
+    "link_gpx_percorso": "https://italiaincammino.com/wp-content/uploads/2023/08/Sentiero-Trekking-Cascate-di-San-Fele-da-San-Fele.gpx",
+    "attrazioni_percorso": {
+      "0": "Cascate de U Uattenniere",
+      "1": "Cascate de i innammuruate",
+      "2": "Cascate Gemelle",
+      "3": "Cascate de U Paravise"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "5.9 km",
+    "altitudine_min_percorso": "883 m",
+    "altitudine_max_percorso": "764 m",
+    "difficolta_percorso": "Facile",
+    "punto_partenza_percorso": "Parcheggio Cascate de U Uattenniere",
+    "punto_arrivo_percorso": "Parcheggio Cascate de U Uattenniere",
+    "dislivello_positivo_percorso": "239 m",
+    "dislivello_negativo_percorso": "239 m",
+    "tempo_medio_stimato_percorso": "2 ore 45 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "pagamento vicino percorso",
+    "fondo_percorso": {
+      "0": "Asfalto",
+      "1": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "estate",
+      "2": "autunno",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Ecosistema fluviale e lacustre",
+      "1": "castagni",
+      "2": "faggi",
+      "3": "querce",
+      "4": "frassini",
+      "5": "abeti",
+      "6": "aceri montani ",
+      "7": "pioppi"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza dal parcheggio delle Cascate de U Uattenniere:",
+      "descrizione": "Una volta parcheggiata la macchina nelle strisce blu che troverete lungo la strada nei pressi del percorso per le Cascate de U Uttenniere, dirigetevi verso l'entrata, ben segnalata da un cartello informativo. Da qui seguite la strada ben segnalata e recintata da staccionate."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "La cascata degli innamorati:",
+      "descrizione": "Dopo circa 0,7km, prendete le ben segnalate scale sulla sinistra per le Cascate de i Innammuruate"
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Le cascate de U Uattenniere:",
+      "descrizione": "Proseguite il vostro percorso per qualche metro per arrivare alle cascate de U Uattenniere. Risalite poi verso il sentiero principale e proseguite dritto fino al secondo bivio."
+    },
+    "3": {
+      "id": "4",
+      "titolo": "Le cascate U Vertone:",
+      "descrizione": "A questo punto, prendete il sentiero sulla sinistra e proseguite per circa 0,6km per arrivare alla cascata U Vertone, la più grande dell'intero percorso."
+    },
+    "4": {
+      "id": "5",
+      "titolo": "Torna indietro e inizia il tuo percorso ad anello:",
+      "descrizione": "A questo punto fate il percorso a ritroso per circa 0,9km e questa volta, al bivio prendete la strada a sinistra per iniziare il vostro anello. Una volta arrivati sulla strada asfaltata girate a destra in dierezione dell'entrata del percorso. "
+    },
+    "5": {
+      "id": "6",
+      "titolo": "Le cascate gemelle:",
+      "descrizione": "Lungo la strada asfaltata, troverai un punto con dei tavoli e delle fontane. Da qui, cammina per circa 0,1km e fai attenzione al cartello sulla sinistra che segnala l'entrata del sentiero per le cascate gemelle. Puoi seguire il percorso fino alle cascate."
+    },
+    "6": {
+      "id": "7",
+      "titolo": "Cascate de U Paravise",
+      "descrizione": "Una volta lasciate le cascate gemelle, torna sulla strada asfaltata e prosegui sempre in direzione dell'entrata  delle Cascate de U Uattenniere. Questa volta, fate attenzione al cartello alla vostra sinistra che qualche metro prima dell'entrata vi indica il sentiero per le cascate de U Paravise. Seguite la strada per 0,4km circa fino ad arrivare ad un bivio con tra la strada asfaltata e la strada sterrata. Il bivio è segnalato con un cartello sbiadito a cui bisogna quindi fare attenzione. Prendete a sinistra per la strada sterrata fino ad arrivare alle cascate.  "
+    },
+    "7": {
+      "id": "8",
+      "titolo": "Ritorno al punto di partenza",
+      "descrizione": "Per tornare al punto di partenza, ti basterà ripercorrere questa parte del sentiero fino alla macchina."
+    }
+  },
+  "POI_punti_di_interesse": {},
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "peperone crusco",
+      "1": "carne di pecora",
+      "2": "carne di agnello"
+    },
+    "dove_mangiare": {
+      "0": "Casale Acquë a Mònëchë: L'agriturismo di Dario è consigliatissimo, ottimi prodotti locali e genuini. Il vino della casa è ottimo e ottimo ed abbondante l'antipasto della casa sul tagliere di legno. Il servizio della sorridente Letizia condito da tanto entusiasmo x il paese e le bellissime cascate di San Fele vicine. Raccomandato ottimo rapporto qualità prezzo",
+      "1": "Ristorante La Tettoia Nuova Gestione: Prodotti genuini, ottima cucina e personale professionale e molto gentile.",
+      "2": "Ristopub Pizzeria The Oliver St. John: Locale eccezionale. Cibo ottimo e con prezzi veramente bassi per la qualità riscontrata.\r\nAbbiamo mangiato vari antipasti (baccalà, bocconcini e alette di pollo), primi (pizza, cervo e panino con hamburger): ogni singolo piatto è risultato gustosissimo ma soprattutto composto da materie prime di qualità e ottimamente cucinate.\r\nSolo applausi per questa perla di San Fele."
+    }
+  },
+  "dove_dormire": {
+    "0": "La Costa Del Sole: Gli appartamenti sono ben organizzati, puliti e luminosi; la vista è molto bella e la posizione vantaggiosa.",
+    "1": "Le Cascate Bed and Breakfast: Il nostro soggiorno presso il B&B Le Cascate è stato selezionato un po’ per caso, ma devo dire che si è rivelata una piacevole sorpresa! L’ospitalità di Lucia e Francesco, i proprietari, ha sicuramente influito sul giudizio..deliziosi! Sempre disponibili a qualsiasi nostra richiesta e per qualsiasi dubbio. La struttura nel complesso è piccola ma confortevole e ed è provvista di tutti gli essentials. Esperienza bellissima e sicuramente da rifare in futuro, la consigliamo a chi ha voglia di passare un weekend alternativo , insito all’avventura! Unica nota storta a livello personale , ma niente di irreparabile , la posizione.",
+    "2": "B&B La rupe dei cavalli: Struttura accogliente, pulita, silenziosa, situata in un ottimo punto a pochissimi passi dall'ingresso alle cascate di San Fele e al centro storico del Paese. L'Host, Sabrina, una ragazza intraprendente e disponibile. Merita il 100% sulla qualità di ogni particolare perchè prende a cuore l'ospite e soprattutto il suo Paese."
+  }
+}
