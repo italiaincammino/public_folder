@@ -1,0 +1,146 @@
+{
+  "titolo_dell'articolo": "Sentiero per Monte Vulture da Laghi di Monticchio - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Monte Vulture",
+    "citta_di_partenza": "Monticchio ",
+    "provincia_di_partenza": "Potenza",
+    "regione_di_partenza": "Basilicata",
+    "catena_montuosa_o_parco": "Parco del Vulture",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "102",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/sapri-sentiero-degli-innamorati-apprezzami-lasino-31058321#wp-31058325",
+    "attrazioni_percorso": {
+      "0": "Laghi di Monticchio",
+      "1": "Abbazia di San Michele",
+      "2": "Rifugio Monte Vulture",
+      "3": "Belvedere ",
+      "4": "Rovine abbazia Sant'Ippolito"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "12.35 km",
+    "altitudine_min_percorso": "1.264 m",
+    "altitudine_max_percorso": "663 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Laghi di Monticchio",
+    "punto_arrivo_percorso": "Laghi di Monticchio",
+    "dislivello_positivo_percorso": "716 m",
+    "dislivello_negativo_percorso": "716 m",
+    "tempo_medio_stimato_percorso": "5 ore 0 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Asfalto",
+      "1": "Sterrato",
+      "2": "Boschivo"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "estate",
+      "2": "autunno",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "castagno",
+      "2": "cerro",
+      "3": "faggio"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza dal parcheggio dei laghi di Monticchio:",
+      "descrizione": "La nostra escursione inizia vicino al parcheggio sul Lago piccolo di Monticchio. Prendiamo a destra sulla strada che circumnaviga il lago e ci dirigiamo subito verso l'Abbazia di San Michele."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Abbazia di San Michele:",
+      "descrizione": "Continuiamo sulla strada per circa 0,5km e poi giriamo a destra al bivio, salendo verso l'Abbazia, dove è d'obbligo una visita alla meravigliosa chiesa."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Dalla strada alla montagna:",
+      "descrizione": "Una volta visitata la chiesa, prendi sulla destra e arriva sulla strada. Puoi prendere come riferimento il bar Grotta Neviera. Da qui, prosegui lungo la strada asfaltata per circa 0,5km mantenendo sempre la destra. A questo punto, svolta a destra verso il sentiero 102. "
+    },
+    "3": {
+      "id": "4",
+      "titolo": "Prete della scimmia:",
+      "descrizione": "Segui il sentiero 102 fino ad arrivare al crocevia di Prete della scimmia. Qui segui le indicazioni per rimanere sul sentiero 102."
+    },
+    "4": {
+      "id": "5",
+      "titolo": "Continua lungo il 102:",
+      "descrizione": "Continua per altri 1,1km circa e prendi la sinistra al secondo bivio per continuare a salire sul sentiero 102 verso il rifugio. Il setiero è ben segnalato, ma fate sempre attenzione ad imboccare la strada giusta per anon avere brutte sorprese. "
+    },
+    "5": {
+      "id": "6",
+      "titolo": "Il rifugio monte Vulture:",
+      "descrizione": "Continua a salire per circa 1km, dove il sentiero incrocia la strada asfaltata. Prosegui la tua salita fino al rifugio continuando a percorrere il sentiero 102 per altri 1,1km circa. "
+    },
+    "6": {
+      "id": "7",
+      "titolo": "Il belvedere nascosto:",
+      "descrizione": "Ripercorri il sentiero a ritroso per circa 1,8km. Al bivio, invece di tornare dritto sui tuoi passi, fai una devizione a sinistra, dove il cartello segnala il bel vedere. Una volta arrivato alle panchine, troverai una piccola stradina laterale sulla destra. Percorrila per pochi metri e davanti a te si aprirà una vista spettacolare sui due laghi di Monticchio."
+    },
+    "7": {
+      "id": "8",
+      "titolo": "Ritorno verso i laghi: ",
+      "descrizione": "A questo punto, torna al bivio e prendi la destra. Ripercorri la strada dell'andata per tornare verso i laghi di Monticchio fino a ricongiungerti con la strada asfaltata."
+    },
+    "8": {
+      "id": "9",
+      "titolo": "Giro ad anello del lago e ritorno al parcheggio:",
+      "descrizione": "Una volta sulla strada asfaltata, all'incrocio, prendi la strada davanti a te e scendi in direzione del lago piccolo verso le rovine dell'Abbazia di Sant'Ippolito. Da qui, continua sulla destra a circumnavigare il lago fino a raggiungere la tua auto."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Laghi di Monticchio\r\n",
+      "descrizione": "Ai piedi del monte Vulture, a 652m. sul livello del mare, splendono i due meravigliosi laghi di Monticchio, incorniciati da fitti boschi entro i quali, scrosciano sorgenti di acque minerali e si aggirano scoiattoli, lepri, ghiri ed altri animali selvatici.\nI due laghi sono ospitati nel cono eruttivo (caldera) dell'ormai spento vulcano. Il lago grande ha una circonferenza di m. 2700 ed una profondità di 36 metri. Quello piccolo ha una circonferenza, di m.1880 ed è profondo 38 metri. Nelle sue acque si specchia la Badia di S. Michele. I laghi di Monticchio sono di origine vulcanica e s'incastonano come due diamanti nel suggestivo paesaggio del Vulture. Essi si formarono nell’era quaternaria quando i due crateri del vulcano si spensero.\n\nNelle zone circostanti ai laghi nei secoli scorsi si rifugiavano i briganti: galeotti fuggiti dalle prigioni, soldati vagabondi, disoccupati che derubavano e compivano stragi contro la classe benestante dei signori che imponevano la loro autorità verso gli umili contadini. Il lago piccolo alimenta quello grande grazie ad un canaletto che mette in comunicazione i due specchi lacustri. L’acqua del lago grande si versa poi nel fiume Ofanto attraverso un ruscello che forma delle piccole cascate.\r\nI laghi di Monticchio sono ricchi di carpe, anguille, capi- toni, persici, cavedani e di tinche. Si dice che nei due laghi viva una varietà di trota detta \"trota vulturina\". Forse però si tratta della ormai estinta \"alborella vulturina\"\r\n\r\nLe acque del lago piccolo, che alla sorgente sono minerali, a volte cambiano il loro colore. E’ stato notato ad esempio che esse diventano di un verde cupo quando il tempo, nel raggio di 20 o 30 chilometri, sta per piovere."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Abbazia di San Michele\n",
+      "descrizione": "L'abbazia di San Michele Arcangelo è un'abbazia che sorge a Monticchio, la cui costruzione risale all'VIII secolo, intorno ad una grotta abitata da monaci basiliani.[1]\r\n\r\nFu eretta su una grotta scavata nel tufo, nei pressi della quale sono stati ritrovati depositi votivi risalenti al IV-III secolo a.C. L'abbazia passò poi ai benedettini (che la abbandonarono nel 1456), ai cappuccini (che fondarono una biblioteca e un lanificio) e, nel 1782 all'ordine militare costantiniano, che ne fu proprietario fino al 1866. L'intero complesso è costituito da un convento a più piani, una chiesa settecentesca e la cappella di San Michele arcangelo. La grotta dell'Angelo dedicata a san Michele è adornata da affreschi risalenti alla metà dell'XI secolo ed era il luogo dove si riunivano in preghiera i monaci italo-greci che anticamente abitavano la zona. Da qui è possibile avere un suggestivo panorama dei laghi di Monticchio."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Rifugio Monte Vulture\n",
+      "descrizione": "A contornare il vulcano, un fitto bosco di alberi che custodisce il Rifugio del Monte Vulture, un luogo panoramico situato a 1283 metri di altezza dal quale è possibile ammirare i paesi limitrofi, gestito dal Cai di Melfi.\r\n\r\nL’aria pura, la natura incontaminata, fanno del rifugio del Vulture uno dei luoghi più frequentati ed apprezzati dagli amanti dello sport all’aria aperta, escursionisti ed appassionati di trakking.\r\n\r\nIl Rifugio del Vulture è anche una delle tappe da cui partono affascinanti escursioni alla scoperta dei sentieri percorsi in passato da Carmine Donatelli Crocco."
+    },
+    "3": {
+      "id": "5",
+      "titolo": "Belvedere \r",
+      "descrizione": "Nascosto dalla vegetazione, il belvedere del monte Vulture offre una vista unica e privilegiata sui due laghi e il panorama circostante. Ci sono anche tavoli e panchine per fare una sosta e godersi un po' di riposo. "
+    },
+    "4": {
+      "id": "6",
+      "titolo": "Rovine abbazia Sant'Ippolito",
+      "descrizione": "È situata tra i due laghi. Il suo impianto, riferibile al X secolo, è basiliano. A quest'epoca è da riferire la chiesa, con abside trilobata e atrio sul quale si innesta la torre campanaria. I benedettini nell'XI secolo edificarono un secondo luogo di culto (la struttura absidata tra presbiterio e atrio) e nel XIII secolo una terza struttura ecclesiastica: la chiesa a navata unica che s'innesta verticalmente sulla torre campanaria. Il terremoto del 1456 distrusse gran parte dell'Abbazia che costrinse i benedettini ad abbandonarla per andare ad occupare l'antico sito della laura basiliana, la rupe sul Lago Piccolo. È probabile che l'abbazia fosse arrivata ad occupare l'intero istmo tra i due laghi. Oggi, grazie a nuovi lavori, lo scavo è stato ampliato e sono state portate alla luce nuove testimonianze. È stata anche ricostruita, quasi del tutto, la torre campanaria."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Alici mbttunate",
+      "1": "La ciauredda",
+      "2": "Lagane e Ceci",
+      "3": "Cavatieddi con ragù",
+      "4": "La mozzarella \"ind’a Murtedda\"",
+      "5": "La Ciambotta",
+      "6": "I scavuratelle"
+    },
+    "dove_mangiare": {
+      "0": "Macelleria Braceria Trattoria Rauseo: Provate le tagliatelle con guanciale e fave, eccellenti, e bistecca della casa, all'altezza della macelleria interna al ristorante. Prezzo più che concorrenziale.",
+      "1": "Villa delle Rose Country House Restaurant: Siamo stati accolti molto bene ed accompagnati al tavolo riservato. Cibo cucinato in maniera squisito e servizio davvero buono. Anche l’idea di avere un esterno con fattoria didattica con la descrizione delle piante all’ interno dell’area é lodevole",
+      "2": "Ristorante Lago Grande Colucci: Siamo stati in questo ristorante o il 25 aprile prenotando senza problemi abbiamo pranzato in una struttura all aperto a disposizione c'erano due menu molto interessanti tra i quali scegliere camerieri molto efficienti e cordiali cucina tipica lucana con menù dall' antipasto al dolce caffè e digestivo che ci hanno gentilmente offerto abbiamo mangiato ottimamente e pagato 25 euro ci torneremo sicuramente lo consiglio",
+      "3": "Grotta Neviera: La semplicità in tutta la sua perfezione. Panini con affettato, formaggi e sottolio. Due fette di pane morbidissimo e saporito a contenere un'esplosione di sapore ben assortita. La gentilezza della proprietaria completa l'offerta in una cornice resa preziosa dai laghi di Monticchio e dall'Abbazia di San Michele Arcangelo. Assolutamente da provare. Una menzione speciale meritano le torte fatte in casa, davvero deliziose!"
+    }
+  },
+  "dove_dormire": {
+    "0": "Campeggio Europa sul lago grande: Situato proprio sul lago grande, questo campeggio offre tutto l'essenziale per trascorrere una notte in tenda in tranquillità sul lago. Consigliato per chi ama la natura e vuole vivere a pieno l'esperienza dei laghi di Monticchio. Perfetto anche in estate, fresco sia di giorno che di notte. ",
+    "1": "Borgo Villa Maria: \r\nImmerso nel verde, pace e tranquillità assoluta. Piscina a portata di mano con bar apposito. Grande disponibilità dello staff. Posizione strategica per visitare paesi vicini come Rionero in vulture. A due passi dal passeggino del lago piccolo e dalla badia di San Michele",
+    "2": "Agriturismo Il Riccio: La struttura si trova in una bellissima posizione, immersa nella natura pacifica e rilassante della Basilicata più settentrionale. Il cibo è stato di qualità, la camera spaziosa ma soprattutto encomiabile è la pulizia, presente ovunque, all'interno ed all'esterno."
+  }
+}
