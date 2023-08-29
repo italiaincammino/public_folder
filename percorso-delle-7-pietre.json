@@ -1,0 +1,100 @@
+{
+  "titolo_dell'articolo": "Percorso delle 7 pietre da Castelmezzano - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Percorso delle 7 Pietre",
+    "citta_di_partenza": "Castelmezzano",
+    "provincia_di_partenza": "Potenza",
+    "regione_di_partenza": "Basilicata",
+    "catena_montuosa_o_parco": "Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "Percorso delle 7 Pietre",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/sentiero-delle-sette-pietre-da-castelmezzano-142556151",
+    "attrazioni_percorso": {
+      "0": "le 7 tappe del percorso: destini, incanto, sortilegio, streghe, volo, ballo, delirio",
+      "1": "Castelmezzano",
+      "2": "Pietrapertosa",
+      "3": "Castello di Pietrapertosa"
+    },
+    "panorama_percorso": {
+      "0": "Castelmezzano",
+      "1": "Pietrapertosa"
+    },
+    "lunghezza_percorso": "7.19 km",
+    "altitudine_min_percorso": "1021 m",
+    "altitudine_max_percorso": "665 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Cimitero di Castelmezzano",
+    "punto_arrivo_percorso": "Cimitero di Castelmezzano",
+    "dislivello_positivo_percorso": "605 m",
+    "dislivello_negativo_percorso": "605 m",
+    "tempo_medio_stimato_percorso": "4 ore 15 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "pagamento vicino percorso",
+    "fondo_percorso": {
+      "0": "Asfalto",
+      "1": "Sterrato",
+      "2": "Lastricato",
+      "3": "Boschivo"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "primavera",
+      "3": "inverno"
+    },
+    "flora_percorso": {}
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Le 7 pietre",
+      "descrizione": "Le tappe sono 7 e ciascuna di esse propone una parola chiave che restituisce il senso del racconto: destini, incanto, sortilegio, streghe, volo, ballo, delirio. È nella tappa centrale - streghe - che al visitatore viene proposta l’intera storia, attraverso elementi di suggestione scenografica e sonora.\r\n\r\nDestini\r\nLe impronte dei suoi passi segnano un cammino antico fra sorgenti di acque sincere dove ogni scroscio porta la voce degli antenati e il loro canto rende più lievi i ricordi\r\n\r\nIncanto\r\nC’è una storia di pietre sul confine incerto fra la veglia e il sogno\r\n\r\nSortilegio\r\nMa questo è sogno o verità? E chi può dirlo? Io ti sto dicendo solo che ho portato i cani e che stanotte, se vuoi, puoi volare.\r\n\r\nStreghe\r\nE lui ballò con le streghe, fino al delirio. E lui lo fece suo sposo\r\n\r\nVolo\r\nLe pietre del mondo di sotto guardarono con invidia Vito e la strega sollevarsi dalle vigne, dagli orti e dagli acquitrini. Dalla fatica e dalle malinconie della terra.\r\n\r\nBallo\r\nIl delirio di Vito cominciò con un sogno sudato in cui vide la sua ombra danzare con scure presenze sotto la luna\r\n\r\nDelirio\r\nIl delirio di Vito cominciò in un mattino qualunque tra le foglie arruffate di un bosco in cui egli mai si era recato.\r\n\r\nLungo il vecchio tratturo, il visitatore potrà fruire di tre percorsi in parallelo:\r\n\r\nLa passeggiata letteraria\r\nLa fruizione del paesaggio e del percorso tematizzato in compagnia di frammenti narrativi tratti da Vito ballava con le streghe\r\n\r\nIl percorso visionario\r\nLa scoperta di un itinerario articolato in 7 installazioni artistiche che riprendono l’immaginario popolare condiviso;\r\n\r\nL’itinerario paesaggistico\r\nTeso a scoprire le peculiarità del paesaggio naturale lungo un percorso articolato su aree di sosta posizionate negli intervalli tra le diverse tappe.\r\nC’è una storia di pietra lunga duemila metri e anche di più.\r\nE’ una storia di racconti e di visioni.\r\nDi segni impressi lungo il percorso delle sette pietre.\r\nDice di quelle donne, le masciare, che si ungevano con l’olio fatato raccolto nella cavità di un albero di ulivo.\r\nDice di quando attraversavano la notte sulla groppa di cani bianchi.\r\nDice di Vito, il contadino, e di quando, preso da fattura d’amore, ballava con le streghe.Il percorso delle sette pietre è un percorso fatto di pietra e tecnologia, le rocce parlano grazie alla memoria di una storia popolare; raccontano la vicenda di Vito preso da una fattura d’ amore per opera di una strega bellissima."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Pietrapertosa",
+      "descrizione": "Pietrapertosa è uno dei “Borghi più belli d’Italia”, arrampicato sulle Piccole Dolomiti Lucane e immerso nel Parco Regionale di Gallipoli Cognato.\r\n\r\nL’incantevole paese è costruito interamente sulla roccia nuda, quasi incastonato come la più preziosa delle pietre. Si raggiunge percorrendo l’unica strada principale e si svela dietro alla grande massa rocciosa che è posta proprio all’ingresso.\r\n\r\nIl suo nome, Pietraperciata, che vuol dire “pietra forata”, deriva dalla presenza di una grande rupe sfondata da parte a parte.\r\n\r\nPreservando la sua natura di roccaforte, Pietrapertosa si snoda fino ai piedi dell’antico e suggestivo castello saraceno anch’esso scavato nella roccia. Proprio qui, nella parte più alta del paese, ci si ritrova all’interno di un mondo magico: l’Arabata, il quartiere più antico che svela le origini arabe del paese e si mostra in tutta la sua spettacolare bellezza.\r\n\r\nPiccole case contadine, incastrate l’una nell’altra e quasi poggiate alla roccia scoscesa, un labirinto di stradine e scalette tutte in salita, costituiscono il quartiere rimasto invariato nel tempo.\r\n\r\nPiù ci si addentra nel borgo, più ci si accorge di come Pietrapertosa sia circondata da dirupi scoscesi e un paesaggio mozzafiato. Qui, come a Castelmezzano, si sorvolano le Piccole Dolomiti Lucane, con il “Volo dell’Angelo”, e si assiste al misterioso “matrimonio” tra gli alberi."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Dolomiti Lucane",
+      "descrizione": "Le spettacolari cime delle piccole Dolomiti Lucane sono in netto contrasto con il paesaggio circostante caratterizzato da forme più dolci e arrotondate come la vicina montagna di Capperino. Come \"Giganti emersi dal mare\" si levano maestose Le Dolomiti Lucane, caratterizzate da alte guglie che con le proprie sagome hanno evocato e suggerito nomi fantasiosi quali l’aquila reale, l’incudine, la grande madre, la civetta.\r\n\r\nLa nascita di queste montagna risale a 15 milioni di anni fa (Miocene medio) periodo in cui si formarono in fondo al mare le arenarie che oggi costituiscono le rocce. Il gruppo più elevato è quello della Costa di S. Martino chiamato Piccole Dolomiti in quanto riproduce l’asprezza e le caratteristiche delle famose Pule Trentine.\r\n\r\nAltrettanto importanti sono i picchi delle Murge di Castelmezzano e le guglie di Monte Carrozze. Sulle Dolomiti, negli anfratti più inaccessibili fanno il loro nido splendidi esemplari di nibbio reale, gheppio, falco pellegrino oltre che la rara e protetta Cicogna Nera, oggetto di studio ed osservazione puntuale da parte dell'Ente Parco. Benchè le guglie risultano quasi prive di vegetazione, si trovano interessanti specie di piante quali la valeriana rossa, la lunaria annua, l’onosma lucana. \r\nA rendere ancor più suggestivo il luogo vi è il torrente Rio di Capperino, un affluente del Basento che ha scavato una profonda gola che divide a Nord le Murge di Castelmezzano dalla Costa di S. Martino a sud."
+    },
+    "3": {
+      "id": "5",
+      "titolo": "Castelmezzano",
+      "descrizione": "Fra i paesi più caratteristici della montagna lucana e tra i “borghi più belli d’Italia”, Castelmezzano deve la sua fama oltre che allo stupendo scenario offerto dalle Piccole Dolomiti Lucane anche all’attrattore ivi realizzato Il volo dell’angelo, un cavo d’acciaio che collega Castelmezzano con il prospiciente borgo di Pietrapertosa mediante un volo adrenalinico di un chilometro e mezzo in poco più di un minuto. Uno spettacolo unico, sospesi a più di 100 m dal suolo, per i più avventurosi. Ma per chi non volesse librarsi in volo, i due borghi sono collegati anche via terra mediante Il percorso delle sette pietre, attraverso un antico tratturo in un viaggio nella fantasia e nella tradizione che si snoda in sette tappe recuperando una storia tratta dal testo “Vito ballava con le streghe” del giornalista lucano Mimmo Sammartino.\r\nNel centro storico del paese vi è la Chiesa Madre di Santa Maria dell’Olmo costruita in pietra locale in stile romanico che al suo interno custodisce un affresco di San Rocco protettore del paese, una sta- tua lignea della Madonna dell’Olmo (XIII secolo) e una tela della “Sacra Famiglia” realizzata dal pittore lucano Giovanni De Gregorio, detto il Pietrafesa. La Chiesa del Santo Sepolcro, una delle più antiche di Castelmezzano, ha origini bizantine e custodisce la statua lignea della Madonna dell’Ascensione (XIV secolo) che, secondo una leggenda, sarebbe stata ritrovata da due pescatori in riva al mare, e ai quali la stessa Madonna avrebbe chiesto di essere condotta a Castelmezzano. Meritano una visita, inoltre, le cappelle di Santa Maria, della Madonna dell’Annunziata, di San Marco e di Santa Maria “Regina Coeli”.\r\n\r\nOltre al patrimonio liturgico, nel paese è possibile ammirare diversi palazzi nobiliari di pregevole fattura e i resti del castello risalente al periodo normanno (XI-XIII secolo d.C.), costruito come roccaforte in posizione centrale rispetto ai castelli di Pietrapertosa e Brindisi di Montagna.\r\nAd oggi sono conservati parte delle mura di cinta, una cisterna per la raccolta delle acque piovane e la lunga e ripida scalinata scavata nella roccia, utilizzata probabilmente come postazione di avvistamento, da cui era possibile sorvegliare la sottostante vallata del fiume Basento.\r\nA Castelmezzano, ogni anno, in occasione dei festeggiamenti di Sant’Antonio si celebra il rito arboreo del matrimonio fra gli alberi, la “Sagra du’ Masc”. Un robusto tronco di cerro, “lo sposo” detto anche “il Maggio”, viene scelto tra i boschi del Parco Regionale di Gallipoli Cognato e Piccole Dolomiti Lucane insieme alla “sposa”, una cima di agrifoglio, ed entrambi vengono trasportati dai buoi nella piazza del paese dove avviene l’innesto e l’innalzamento fra balli, canti e sapori tradizionali."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Strangolapreti con ricotta e menta",
+      "1": "capretto con spezie e patate alla brace",
+      "2": "Cuttiridd, un piatto pastorale a base di carne di pecora, verdure, funghi, patate e cipollette",
+      "3": "cardi con le uova",
+      "4": "pecora nel coccio",
+      "5": "rittata di lampascioni",
+      "6": "ravioli di ricotta con sugo di funghi cardoncelli",
+      "7": "maccheroni con mollica fritta e noci"
+    },
+    "dove_mangiare": {
+      "0": "Al Becco della Civetta: Qui le aspettative erano alte. Nulla da dire; sono state soddisfatte in tutto e per tutto. Pranzo tra amici e tavolo con vista Dolomiti lucane e già come inizio, direi niente male. Ogni piatto ha una sua personalità. Prodotti di eccellenza che impreziosiscono ogni portata e che rimarcano la potenzialità del territorio lucano. Sapori unici e decisi e piatti rigorosamente presentati in chiave moderna. Un'esperienza davvero unica che consiglio vivamente. Grazie a tutto il personale per la straordinaria gentilezza e professionalità.",
+      "1": "Trattoria dal Vecchio Scarpone: Abbiamo consumato una cena ottima e abbondante. Il tutto dall'antipasto, primo e secondo preparati e serviti con prodotti tipici locali, squisiti e prelibati. I Titolari e Gestori della Trattoria Vecchio Scarpone, persone di un garbo e savoir faire eccezionali, in particolare il Sig. Antonio,meritano il riscontro positivo dei clienti. Ottimo rapporto qualità- prezzo. Lo consiglio vivamente a chi desidera stare bene a tavola.",
+      "2": "Peperusko: Ragazzi giovani che amano la propria terra e cercano di valorizzarla esaltando in tutti i modi i prodotti locali. Noi abbiamo preso un tagliere degustazione, con varietà di formaggi locali e salumi prodotti in attività del luogo: consigliatissimo anche per la speciale melanzana gialla. Abbiamo esagerato aggiungendo due pinse di cui una con stracciatella, peperoni cruschi e capocollo eccezionale. Da provare assolutamente la loro birra al peperone crusco. Si respira la Lucania e ciò è stato valorizzato ulteriormente dall'amaro lucano con ricetta originale, offerto gentilmente da Paolo, uno dei proprietari. Se cercate freschezza e qualità date una possibilità a questa attività.\r\nPS la vista mozzafiato della vallata e delle Dolomiti rende unica l'esperienza."
+    }
+  },
+  "dove_dormire": {
+    "0": "Casa delle Stelle: Posizione straordinaria, forse una delle migliori viste sul borgo delle perle di Castelmezzano e oltre le Dolomiti lucane. Il tetto, con la finestra apribile sul cielo, ha dato un tocco poetico al nostro soggiorno, facendoci sentire come se stessimo dormendo sotto le stelle. Host eccezionale, roba incredibile: consigliatissimo!",
+    "1": "Hotel Dolomiti: Hotel a 4 stelle in un paesino da fiaba, che di notte sembra un presepe. Camere e ambienti comuni di recente ristrutturazione, arredati con gusto e molto, molto confortevoli. Tanta attenzione ai dettagli. Il design di interni veramente curato. Servizi top. Buffet ricco al mattino, che prevede anche prodotti locali freschi. Il personale tutto, dalla Direzione, alla Reception, al servizio ai piani e alla sala colazioni di una cordialità genuina, che ti mettono voglia di ritornarci presto !",
+    "2": "La casa nel verde: \r\nLa Casa nel Verde a Castelmezzano si è rivelata una vera gemma nascosta. Immersa in una natura rigogliosa, offre un'atmosfera di pace e tranquillità unica. Ma ciò che veramente distingue questa struttura è l'incredibile ospitalità di Pasquale, l'host. La sua cordialità, disponibilità e attenzione ai dettagli hanno reso il nostro soggiorno indimenticabile. E' evidente che Pasquale si impegna al massimo per garantire che ogni ospite si senta a casa e ben accolto. Consiglio vivamente 'La Casa nel Verde' a chiunque cerchi una fuga autentica sulle Dolomiti Lucane e una calorosa accoglienza che va oltre ogni aspettativa",
+    "3": "Al Fortino Normanno: \r\nÈ stato tutto perfetto e sopra le nostre aspettative.\r\nLa signora Angela gentilissima, ci ha dato tutte le indicazioni, anche quale fosse la strada migliore per raggiungere il paese.\r\nCi ha accolto ai parcheggi e ci ha fatto strada fino al suo alloggio.\r\nChe abbiamo trovato stupendo e suggestivo, visto che è a ridosso della roccia.\r\nIn casa spaziosa e ben arredata c'era tutto non mancava niente ....una cesta piena di prodotti per la colazione di tutti i generi, frigorifero con succhi , acqua, yogurt e frutta fresca. Prodotti per l'igiene al top, Letti comodi ....insomma consigliatissima la struttura"
+  }
+}
