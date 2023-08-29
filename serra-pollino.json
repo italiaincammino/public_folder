@@ -1,0 +1,99 @@
+{
+  "titolo_dell'articolo": "Sentiero per Serra Pollino da Castello di Trecchina - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Serra Pollino",
+    "citta_di_partenza": "Trecchina",
+    "provincia_di_partenza": "Potenza",
+    "regione_di_partenza": "Basilicata",
+    "catena_montuosa_o_parco": "Parco Nazionale del Pollino",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "Serra Pollino",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/serra-pollino-1099-m-dal-castello-di-trecchina-537-m-44192441",
+    "attrazioni_percorso": {
+      "0": "Castello di Trecchina",
+      "1": "Santuario Maria Santissima del Perpetuo Soccorso",
+      "2": "Parco delle Stelle"
+    },
+    "panorama_percorso": {
+      "0": "Isola di Dino"
+    },
+    "lunghezza_percorso": "8 km",
+    "altitudine_min_percorso": "514 m",
+    "altitudine_max_percorso": "1099 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Castello di Trecchina",
+    "punto_arrivo_percorso": "Castello di Trecchina",
+    "dislivello_positivo_percorso": "550 m",
+    "dislivello_negativo_percorso": "550 m",
+    "tempo_medio_stimato_percorso": "3 ore 30 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Asfalto",
+      "1": "Sterrato",
+      "2": "Lastricato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "estate",
+      "2": "autunno",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Castagno",
+      "2": "Carpini",
+      "3": "Cerri",
+      "4": "Agrifogli"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza da Castello di Trecchina",
+      "descrizione": "Il tuo viaggio inizia vicino al posto dove hai parcheggiato l'auto, il Castello di Trecchina, da qui prosegui per circa 500metri sulla strada asfaltata e poi prosegui sulla salita sterrata seguendo le indicazioni sul cartello in legno per Serra Pollino sulla tua sinistra"
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Prosegui lungo il Castagneto",
+      "descrizione": "Ti consigliamo di seguire la traccia GPX poichè il percorso, anche se di facile percorrenza ed in leggera pendenza non è molto segnato. Dopo aver percorso circa 3km all'interno di un castagneto, ti troverai su un tratto asfaltato, qui svolta a sinistra proseguendo per circa 50 metri sull'asfalto, poi subito a sinistra risalendo lungo la staccionata fino ad arrivare presso il Santuario Madonna del Soccorso sulla cima del monte Pollino"
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Ritorno al punto di partenza",
+      "descrizione": "Per tornare al punto di partenza, ti basterà ripercorrere il sentiero fatto in andata."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Castello di Trecchina",
+      "descrizione": "Posizionato su un'altura e avvolto da boschi rigogliosi di castagni, il Castello di Trecchina era un tempo un punto d'incontro per la nobiltà locale. A dispetto del folclore popolare che racconta di signori spietati, questo maniero ha una storia di governance più umana e tollerante. \n\nRealizzato nel Cinquecento per Antonio Palmieri, un nobile di Latronico, il luogo è più accuratamente descritto come una residenza signorile piuttosto che come una fortificazione militare. Diviso in due piani, la parte inferiore era utilizzata per vari scopi pratici, come l'alloggio dei servitori e lo stoccaggio, mentre gli ambienti superiori erano riservati alla famiglia feudale. Una scala interna, che partiva da una sorta di hall d'ingresso, collegava i due livelli.\n\nQuesto edificio storico raggiunse il suo apice di grandezza e romanticismo durante il soggiorno della duchessa Giovanna Zufia, afflitta da una salute precaria, che vi trovò un luogo di rifugio per periodi prolungati. Tuttavia, il castello non era né opulento né architettonicamente solido. Già in decadimento alla fine del XVIII secolo, subì danni irreparabili a causa di un terribile terremoto nel 1783.\n\nCosì, nonostante la sua bellezza esteriore e la sua storia meno contorta rispetto ad altre strutture feudali, il Castello di Trecchina è un esempio malinconico ma affascinante dell'eredità storica della zona."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Santuario Maria del Perpetuo Soccorso",
+      "descrizione": "Avete mai sentito parlare della Madonna del Soccorso di Trecchina? Bene, la sua storia comincia veramente nel lontano 1623, quando un vescovo di nome Antonio Santorio decise di farci un salto per una visita ufficiale. Tre anni più tardi, lo stesso vescovo chiese di mettere a nuovo un affresco della Madonna che aveva visto giorni migliori. Quest'opera d'arte, un bellissimo bassorilievo su lastra di marmo, è ora custodita in una cappella costruita quasi un secolo fa, grazie a un tale chiamato Biagio Pignataro.\n\nIl Santuario è sempre stato al centro della vita spirituale di Trecchina. Fin dal 1725, una confraternita locale se ne è presa cura, organizzando anche pellegrinaggi in montagna due volte all'anno. È una tradizione che continua tuttora: ogni maggio e settembre, la statua della Madonna viene portata su e giù dal monte in processione.\n\nParlando di dimensioni, l'interno del Santuario non è esattamente una cattedrale: ha solo circa 120 metri quadrati. E non è sempre stato così grande; è stato allargato nel 1924 perché mostrava i segni del tempo. Ah, e se vi state chiedendo del campanile più basso del normale, è stato ridotto di altezza per evitare i fulmini!\n\nNegli anni, il Santuario ha avuto la sua quota di momenti difficili, inclusi alcuni terremoti che hanno reso necessari lavori di restauro. L'ultimo grande sisma nel 1998 ha dato un altro colpo, ma come sempre, il Santuario ha resistito.\n\nCon una vista mozzafiato e un significato che va dritto al cuore, la Madonna del Soccorso potrebbe benissimo diventare il simbolo spirituale che unisce e protegge tutta la Valle del Noce. Quindi, se siete in zona, perché non fare un salto? È più di un semplice luogo di preghiera; è una perla di storia e cultura che aspetta solo di essere scoperta."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Panzerotti con Crema di Castagna",
+      "1": "Castagnaccio",
+      "2": "Trecchinotti",
+      "3": "Gnocchi con Salsiccia Fagioli e Castagne",
+      "4": "Raviola con Ricotta di Pecora e Noci"
+    },
+    "dove_mangiare": {
+      "0": "Lanterna Verde: Se si è a Trecchina una cena alla Lanterna Verde è un passaggio obbligato. Tutto eccellente dell'accoglienza alle pietanze e i vini. Personale gentile e disponibile, proprietario super. L'atmosfera è bella, i sapori unici , il prezzo adeguato.  La cucina può essere tipica lucana, soprattutto di montagna. Tutto buonissimo, la pasta fatta in casa era fantastica. ",
+      "1": "A'Vendura: Il locale presenta, oltre ad un elegante ambiente interno, uno spazioso e grazioso location esterno. Lo staff oltre ad essere competente, elegante e veloce è anche molto incline a mettere a proprio agio la clientela. I piatti sono ottimi e abbondanti. Personalmente consiglio i Paccheri con baccalà, peperoni cruschi e pomodorini. Locale Consigliatissimo.",
+      "2": "Chiosco “ Non solo Bar ”: Il posto mi piace molto è nella piazza centrale ben curata sotto dei maestosi alberi\nAbbiamo cenato con due pizze porcini e salsiccia buona e abbondante\nAnche la colazione è buona"
+    }
+  },
+  "dove_dormire": {
+    "0": "La Casa di Michele: La struttura è al centro di Trecchina paesino della Basilicata a 10 km da Maratea. Pulita è ben organizzata gestita da Michele e dalla compagna, persone squisite ed accoglienti pronte a soddisfare qualsiasi richiesta. Le stanze ampie, pulite ci hanno ospitato per 3 giorni. Era nostra intenzione scendere a Maratea ma la tranquillità del posto, l’aria pulita e cordiale che si respira ci hanno trattenuto ben volentieri.",
+    "1": "B&B Terra Mare: Ho avuto il piacere di soggiornare con il mio gruppo di amici nel B&B Terra Mare e devo dire che è stato un'esperienza davvero fantastica. Il B&B è semplicemente bellissimo, con un'atmosfera accogliente e un arredamento curato nei minimi dettagli. La pulizia è impeccabile, ho apprezzato molto il fatto che fosse dotato di tutti i comfort necessari per rendere il soggiorno perfetto.\nLa cosa che ha reso il mio soggiorno ancora più piacevole è stata la disponibilità di Domenico. È stato estremamente gentile, cordiale e sempre pronto ad aiutarci per qualsiasi cosa avessimo bisogno. Ha dato ottimi consigli su luoghi da visitare e ristoranti dove mangiare e ha reso la nostra vacanza ancora più speciale.\nNon posso che consigliare vivamente questo B&B a chiunque stia pianificando un viaggio. La combinazione di un ambiente bellissimo, pulito e attrezzato con un proprietario così disponibile e premuroso è semplicemente perfetta. Non vedo l'ora di tornare e soggiornare di nuovo in questo incantevole posto.",
+    "2": "La Terrazza sulla Valle: La casa è ristrutturata con molto gusto e ha tutti i servizi che si potrebbero desiderare, inclusa una veranda con vista per poter cenare o far colazione guardando le montagne. Quello che ci ha colpito di più è stata la vecchia stufa: un vero gioiello!!!\nLa posizione è molto tranquilla, di fronte a un parco con dei giochi per bambini e un paio di pasticcerie (da provare). Nelle immediate vicinanze della casa è possibile parcheggiate gratuitamente e inoltre si trova vicino alle spiagge e al centro storico di Maratea.\nI proprietari sono una coppia giovane che ha fatto della buona ospitalità la sua cifra: sono stati accoglienti e disponibilissimi anche nel consigliarci qualche ristorante o nell’indicarci eventi e itinerari di interesse per scoprire questo splendido angolino di paradiso."
+  }
+}
