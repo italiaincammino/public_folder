@@ -1,0 +1,85 @@
+{
+  "titolo_dell'articolo": "Sentiero per Monte Sirino e Monte Papa da Lago Laudemio - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Monte Sirino e Monte Papa",
+    "citta_di_partenza": "Lagonegro",
+    "provincia_di_partenza": "Potenza",
+    "regione_di_partenza": "Basilicata",
+    "catena_montuosa_o_parco": "Riserva Regionale Lago Laudemio",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "Non presente",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/monte-papa-2-005m-via-normale-primavera-102857191",
+    "attrazioni_percorso": {
+      "0": "Lago Laudemio",
+      "1": "Monte Papa",
+      "2": "Monte Sirino",
+      "3": "Santuario Madonna del Sirino"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "10.2 km",
+    "altitudine_min_percorso": "2005 m",
+    "altitudine_max_percorso": "1535 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Lago Laudemio",
+    "punto_arrivo_percorso": "Lago Laudemio",
+    "dislivello_positivo_percorso": "550 m",
+    "dislivello_negativo_percorso": "550 m",
+    "tempo_medio_stimato_percorso": "4 ore 30 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "estate",
+      "2": "autunno",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Faggio",
+      "2": "Carpino",
+      "3": "Pioppo"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Lago Laudemio",
+      "descrizione": "Nel comune di Lagonegro, in Basilicata, si nasconde un gioiello della natura: la Riserva Regionale del Lago Laudemio. Questo incantevole angolo di paradiso, adagiato ai piedi del Monte Papa a un'altitudine di 1525 metri, cattura l'immaginazione in ogni stagione, lasciando i visitatori senza parole. Conosciuto anche come \"Remmo,\" il lago è un invito a rilassanti passeggiate e piacevoli momenti al sole. Ma c'è di più: l'area vanta un affascinante patrimonio geologico che risale all'era Quaternaria. Immagina ghiacciai maestosi che una volta scendevano dalle alte cime del monte, dando vita alla spettacolare vallata del Lago Remmo e conferendo al luogo un'importanza ambientale unica. Designata come riserva protetta nel 1985, è oggi l'habitat di una ricca biodiversità che include tutto, dai fossili di creature preistoriche come lucertole gigantesche e mammiferi di grande dimensione, a trote e adorabili salamandre che abitano le sue acque oggi. Persino il lupo fa occasionalmente la sua comparsa, aggiungendo un tocco di mistero alla fitta foresta di faggi che quasi completamente circonda il lago. Ma non è tutto: i boschi sono un vero paradiso per gli amanti dei frutti di bosco, offrendo abbondanti colture di fragoline, more e lamponi. Un'opera d'arte dedicata ai montanari impreziosisce ulteriormente il paesaggio, e grazie alla presenza di strutture come il Rifugio Italia e una vicina stazione sciistica, il lago attrae un numero sempre maggiore di visitatori. "
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Santuario Madonna del Sirino",
+      "descrizione": "Il sacro rifugio della Madonna del Sirino è un luogo di spiritualità costruito nel 1629. La sua architettura quadrata in pietra naturale lavorata a secco emerge dalla roccia circostante, un esempio di resistenza agli elementi naturali. All'interno, un artigianale altare in legno serve da custodia per la statua della Vergine Maria, che siede in trono con il Bambino, tenendo un globo terrestre. Ogni terza domenica di giugno, la statua viene trasportata in un pellegrinaggio devoto dalla città di Lagonegro fino al monte Sirino, a un'altitudine di 1907 metri. Ma il calendario spirituale segna anche un altro evento importante: il 4 agosto, quando la statua parte dalla Chiesa del Monte per raggiungere Lagonegro in una processione. Durante questa cerimonia, la Madonna fa tappa nella Chiesetta della Madonna del Brusco, dove viene celebrata una messa. Gli altari lungo il percorso sono decorati con fiori, formando un letto floreale per la statua. Oltre alla sua rilevanza spirituale, Lagonegro è conosciuto per una leggenda locale che coinvolge Monna Lisa. Si dice che la donna ritratta nel famoso dipinto di Leonardo da Vinci sia morta qui nel 1506, a causa di un'infezione febbrile mentre era in viaggio dalla Calabria a Firenze. Questo dettaglio contribuisce a rendere Lagonegro una destinazione complessa, dove storia e spiritualità si intrecciano."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Pipi e patane",
+      "1": "Baccalà alla Lucana",
+      "2": "Agnello alla Contadina",
+      "3": "Cutturiddu",
+      "4": "Pepi Cruschi"
+    },
+    "dove_mangiare": {
+      "0": "Ai Carconi: Di passaggio per Salerno, mi sono fermato qui. Ottima posizione perché a poca distanza dall'uscita autostradale di lagonegro nord. Ambiente accogliente e il camino acceso dona un tocco di familiarità. Personale gentile e proprietario simpatico. Il cibo ottimo, dall'antipasto con prodotti tipici, come da foto che ho visto su Trip alle castagne cotte al momento sul fuoco del camino. Pregevole, l'antipasto ed eccellente il cavolo rosso sott'olio. Io ho preso l'ottimo menu del giorno, ma il menù è ricco. Ritornerò volentieri",
+      "1": "La Stradella: Pranzo in due in questo locale apparentemente anonimo, ma solo ad una vista superficiale.\nInterno pulito ed ordinato, bagni dotati addirittura di bicchierini e colluttorio.\nBruschetta con olio del posto e pane gustoso, mix di verdure con pecorino ai ferri per antipasti.\nMischiglio (pasta con farina di castagne) con pesto di peperoni cruschi, pancetta croccante e pecorino, altro primo (per la mia fidanzata) di scialatielli con pesto di pistacchio, pesce spada e pomodori secchi.\nPer secondo (condiviso) maialino nero con radicchio grigliato, formaggio erborinato e fichi secchi.\nInsomma, piatti di terra e piatti di mare alternati, come la Basilicata che unisce paesaggi marini di incomparabile bellezza (soprattutto visti dall'alto delle colline/montagne della valle del Noce) e un entroterra selvaggio e ricco di selvaggina.\nPietanze sapientemente preparate in modo equilibrato e saporito ad un costo non esagerato. Quando si dice che la qualità si sposa al prezzo ....",
+      "2": "Il rifugio del Cavaliere: Ottima esperienza !!!\nConsigliato da un amico buongustaio ho provato questo ristorante/agriturismo e sono stato pienamente soddisfatto!\nBella location nel verde, lungo la strada che collega lo svincolo di Lagonegro (a 5 minuti) alla costa (Sapri o Maratea), ci siamo fermati dopo la visita al vicino e splendido paesino di Rivello pranzando sotto una fresca tettoia.\nAccolti con familiarità e cortesia dalla titolare e dalla sua famiglia abbiamo degustato un ottimo primo tipico della zona con peperoni cruschi per proseguire con una tagliata di carne di una razza locale “podolica” gustosissima e cotta ottimamente.\nAbbiamo scelto di degustare un primo e un secondo saltando il ricco piatto di antipasti misti della casa ma dopo averlo visto portare al tavolo vicino ci siamo pentiti. Sarà un buon pretesto per ritornarci.\nPorzioni abbondanti! Buono in vino in caraffa!\nBravi a tutti per l’amore e la passione che ci mettete, dalla scelta delle materie prime alla cura dei vostri piatti!"
+    }
+  },
+  "dove_dormire": {
+    "0": "Ai Cerri di Remí: Posto incantevole situato nelle montagne ideale per chi desidera scappare dalla frenesia della città.\nLa camera molto pulita e accoglienza top di Raffaele che ci ha fatto sentire veramente a casa.\nA disposizione degli ospiti, una cucina attrezzata e la mattina una colazione abbondante che ci attendeva...peccato per i pochi giorni passati lì....da ritornare e consigliare",
+    "1": "Alba Relais: Appartamenti nuovi di zecca in posizione strategica\nDirettamente dal posto di può scendere alle sorgenti del lago e fare una bellissima passeggiata al fresco\nGestori molto disponibili\nAppartamenti puliti spaziosi con un bagno enorme eravamo in 3 e c'era molto spazio\nLetto molto comodo",
+    "2": "B&b Apartment 1970: La colazione era ottima. Caffè, marmellate, fette biscottate, succhi di frutta, crostatine, miele. I proprietari Gianfranco e Rosa due persone squisite accoglienti gentilissimi che ci hanno fatto sentire come due amici piuttosto che come due ospiti. Disponibili e felici di raccontarci la storia e le tradizioni di quel piccolo ma ricco territorio tra una montagna piena di boschi e il mare di Maratea a mezzora di auto. Sicuramente un luogo dove tornare per approfondire la conoscenza di quei luoghi tutti da scoprire. Grazie di cuore"
+  }
+}
