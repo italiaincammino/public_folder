@@ -1,0 +1,86 @@
+{
+  "titolo_dell'articolo": "Sentiero per Madonna Nera al Sacro Monte da Viggiano - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Sacro Monte",
+    "citta_di_partenza": "Viggiano",
+    "provincia_di_partenza": "Potenza",
+    "regione_di_partenza": "Basilicata",
+    "catena_montuosa_o_parco": "Parco Nazionale dell'Appennino Lucano Val D'Agri Lagonegrese",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "Antico Tratturo della Madonna Nera",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/scarponi-56-antico-tratturo-madonna-nera-di-viggiano-sentiero-fontana-dei-pastori-105806561",
+    "attrazioni_percorso": {
+      "0": "Santuario della Madonna Nera"
+    },
+    "panorama_percorso": {
+      "0": "Monte Raparo",
+      "1": "Monte Alpi",
+      "2": "Monte Zaccana",
+      "3": "Monte La Spina",
+      "4": "Serra Giumenta",
+      "5": "Massiccio Sirino"
+    },
+    "lunghezza_percorso": "11.6 km",
+    "altitudine_min_percorso": "1725 m",
+    "altitudine_max_percorso": "813 m",
+    "difficolta_percorso": "Medio/Difficile",
+    "punto_partenza_percorso": "Strada Comunale Madonna di Viggiano",
+    "punto_arrivo_percorso": "Strada Comunale Madonna di Viggiano",
+    "dislivello_positivo_percorso": "920 m",
+    "dislivello_negativo_percorso": "920 m",
+    "tempo_medio_stimato_percorso": "6 ore 0 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Asfalto",
+      "1": "Sterrato",
+      "2": "Lastricato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "inverno",
+      "3": "estate"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Faggi",
+      "2": "Ofride insettifera",
+      "3": "Millefoglie lucano"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Madonna Nera di Viggiano",
+      "descrizione": "**Settembre a Viggiano: Celebrazione della Madonna Nera**\r\n\r\nOgni settembre, Viggiano si anima con la presenza di devoti provenienti da tutta la Lucania. Si radunano per rendere omaggio alla Madonna Nera, la luminosa regina della Lucania, simbolo di fede e devozione per la regione e le aree limitrofe.\r\n\r\n**Madonna Nera: Un Viaggio tra Passato e Mito**\r\nLa Madonna di Viggiano ha radici profonde nella storia. La sua venerazione iniziò nella città di Grumentum, che fu devastata intorno al 1050 d.C. dai Saraceni. Questo tragico evento costrinse il clero a nascondere la preziosa statua sul Monte di Viggiano.\r\n\r\nLa tradizione racconta di pastori che, secoli dopo, furono guidati da misteriose luci fino al luogo di nascondimento della statua. Sorprendentemente intatta, fu poi trasferita a Viggiano e posta nella cappella di Santa Maria, che divenne il cuore del Santuario eretto sul monte.\r\n\r\nLa Madonna di Viggiano viene celebrata due volte all'anno: a maggio, quando la statua viene portata in cima al monte, e a settembre, quando ritorna al paese.\r\n\r\nUn altro racconto popolare sostiene che fu la statua stessa a decidere il suo luogo di riposo. Dopo essere stata trasferita a Marsicovetere, miracolosamente ritornò al suo posto sul Monte di Viggiano.\r\n\r\n**Festa in Onore della Madonna**\r\nLa fede dei devoti non è mai scemata. Pellegrini con stendardi, accompagnati da musiche tradizionali, girano tre volte attorno alla cappella prima di entrare. La devozione si manifesta anche nel toccare l'urna della Madonna con fiori e nel desiderio di portare la statua a spalla. Ogni anno, circa 50.000 pellegrini affollano Viggiano la prima domenica di settembre, mentre il giorno successivo il paese si anima con concerti di artisti di calibro internazionale.\r\n\r\n**Il Simulacro: Un'Opera d'Arte**\r\nLa statua, in legno, presenta tratti bizantini. La sua doratura risale al periodo della dominazione spagnola, ricordando la Madonna di Montserrat. La sua tonalità bruna è stata scelta per rappresentare la maternità universale, abbracciando sia l'Oriente che l'Occidente.\r\n\r\n**Un Tocco di Viggiano in Australia**\r\nA Melbourne, nella chiesa di Saint Anthony’s Shrine, si può ammirare una replica della Madonna di Viggiano. Questo omaggio fu portato in Australia nel 1964 dai viggianesi e lucani del Viggiano Social Club, oggi noto come Federazione Lucana."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Pipi e patane",
+      "1": "Baccalà alla Lucana",
+      "2": "Agnello alla Contadina",
+      "3": "Cutturiddu",
+      "4": "Pepi Cruschi"
+    },
+    "dove_mangiare": {
+      "0": "Osteria del Gallo: Di ritorno dalla mattinata trascorsa alla montagna grande di Viggiano, su consiglio di un parente, ci fermiamo in questa osteria a Villa d’Agri. La prima cosa che salta subito all’occhio è il menù abbastanza ampio. Come antipasto prendiamo quello del Gallo, mentre come primo dei tortelloni ai funghi porcini con tartufo nero. Come secondo agnello arrosto, il tutto accompagnato da un ottimo aglianico. Terminiamo con dolce e caffè. Tempi d’attesa nella norma e qualità delle portate eccezionale, con l’agnello che quasi si scioglieva in bocca. Prezzi ottimi, non resta che ritornarci. Ve lo consiglio.",
+      "1": "Le Quattro Lune: Ci siamo fermati a pranzo dopo delle visite mediche all’ospedale del posto\n.. davvero molto buono. Personale gentile e disponibile . Abbiamo preso 1\nEntrecôte, della provola affumicata alla griglia, delle patatine fritte e mezzi paccheri ai porcini ed abbiamo speso 36 euro in due. Davvero tutto buonissimo.",
+      "2": "Restaurant Pietrapanna: Il locale è accogliente e caratteristico. Tutto il cibo di ottima qualità. Il personale cordiale e gentile. Buon rapporto qualità prezzo."
+    }
+  },
+  "dove_dormire": {
+    "0": "L'Antico Gelso: tanza accogliente con tutti i servizi disponibili, bellissimo panorama dato da un punto strategico di dove è situato. Molto pulito e per questo ci ritornerò sicuramente.",
+    "1": "Localtion Turistica La Rupe: Tutto. Proprietaria di una gentilezza e disponibilità più unica che rara. Casa bellissima grande accogliente curata in ogni minimo dettaglio. Anche la posizione è favolosa. Nella parte più bella e caratteristica del paese con una vista superba e silenziosissima.Facile anche da raggiungere in auto senza la necessità di addentrarsi con l'auto( la mia era abbastanza grande)nelle strette viuzze del paesino carinissimo.Raramente mi sono trovato cosí bene in una casa vacanza e mi sono sentito cosi' coccolato. Mi riprometto di ritornarci il prima possibile.",
+    "2": "Casa Lisetta: Casa eccezionale sia come originalità che come posizione.\nConsigliata a chiunque voglia trascorrere del tempo in assoluta tranquillità."
+  }
+}
