@@ -1,0 +1,132 @@
+{
+  "titolo_dell'articolo": "Sentiero per la Madonna del Pollino dalle Gole di Jannace - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Sentiero per la Madonna del Pollino",
+    "citta_di_partenza": "San Severino Lucano",
+    "provincia_di_partenza": "Potenza",
+    "regione_di_partenza": "Basilicata",
+    "catena_montuosa_o_parco": "Parco Nazionale del Pollino lucano",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "Sentiero per la Madonna del Pollino",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/sentiero-trekking-madonna-del-pollino-dalle-gole-di-jannace-146027539",
+    "attrazioni_percorso": {
+      "0": "Gole di Jannace",
+      "1": "Rifugio Pino Loricato",
+      "2": "Santuario Madonna del Pollino",
+      "3": "Belvedere Statua Di Madonna Di Pollino"
+    },
+    "panorama_percorso": {
+      "0": "e a destra il massiccio roccioso scende a picco in una larga e ampia conca detta ”La Copia”. ",
+      "1": " la Serra del Prete,",
+      "2": " la Serra di Viggianello",
+      "3": "il colle dell’Impiso e quello del Grattacielo",
+      "4": " il Sirino",
+      "5": " il Monte Alpi ",
+      "6": "il piano del Pollino e la Serra Dolcedorme"
+    },
+    "lunghezza_percorso": "8.3 km",
+    "altitudine_min_percorso": "1595 m",
+    "altitudine_max_percorso": "1154 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Rotonda Gole di Jannace",
+    "punto_arrivo_percorso": "Rotonda Gole di Jannace",
+    "dislivello_positivo_percorso": "484 m",
+    "dislivello_negativo_percorso": "484 m",
+    "tempo_medio_stimato_percorso": "3 ore 0 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Asfalto",
+      "1": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "inverno",
+      "2": "primavera",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "faggi",
+      "2": "abete bianco",
+      "3": "acero"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza dal Porto di Sapri",
+      "descrizione": "Il tuo viaggio inizia direttamente al punto dove hai parcheggiato l'auto, nelle vicinanze del porto di Sapri. Da lì ti basterà seguire l'indicazione in legno che riporta: \"Apprezzami l'Asino - Sentiero vista Mare\". Da qui una breve serie di scalini ti condurranno lungo il sentiero"
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Sentiero degli innamorati",
+      "descrizione": "La prima parte del percorso, regala scorci panoramici indimenticabili su tutto il golfo di Policastro, troverete molte panchine su cui fermarvi a contemplare tra le meraviglie di questa costa cilentana, una vero gioiello. Inoltre questa parte del percorso è molto agevole e con poco dislivello, perfetto anche le famiglie e per le coppie che vogliono passare un momento romantico tra la maestosità della natura. Non a caso, questa prima parte del percorso è stato nominato anche con il nome `Sentiero degli innamorati`. Su questo percorso, potrete notare lo Scoglio dello Scialandro con la statua della spigolatrice di Sapri"
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Bivio",
+      "descrizione": "Dopo circa 1.5 km vi ritroverete ad un bivio, scendendo a destra, potrete percorrere un breve tratto fatto di scogli per raggiungere la \"Piscina dell'amore\", mi raccomando, se decidete di attraversare questa parte del percorso, prestare attenzione agli scogli sulla quale è facile scivolare, ed usare scarpe adatte. Proseguendo invece dritto potrete proseguire sul sentiero dell'Asinara"
+    },
+    "3": {
+      "id": "4",
+      "titolo": "Torre di Mezzanotte",
+      "descrizione": "Dal bivio in poi, da percorso turistico diventa percorso EE (escursionisti esperti) poichè il sentiero si restringe e rende la tua escursione più \"divertente\". Proseguendo dritto, raggiungerai Torre della Mezzanotte ed il suo incredibile panorama sulla costa che ti farà battere il cuore."
+    },
+    "4": {
+      "id": "5",
+      "titolo": "Spiaggia di mezzanotte.",
+      "descrizione": "Se vuoi proseguire verso la spiaggia di Mezzanotte, è necessario che tu sappia che il sentiero diventa sempre più stretto, sulla sinistra avrai il costone e sulla destra lo strapiombo verso il mare, senza alcuna protezione. Inoltre il fondo è formato prevalentemente da ghiaia sdrucciolevole, quindi è bene che presti molta attenzione se decidi di proseguire. All'altezza del ponte (visibile in alto),  dovrai calarti tra le rocce di questa `depressione` naturale, fino a raggiungere la spiaggetta spesso non soleggiata (da cui il nome) per la sua posizione tra le coste."
+    },
+    "5": {
+      "id": "6",
+      "titolo": "Ritorno al punto di partenza",
+      "descrizione": "Per tornare al punto di partenza, ti basterà ripercorrere il sentiero fatto in andata."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Gole di Jannace\n",
+      "descrizione": "La Gola di Jannace è testimone del grande taglio di bosco degli inizi del secolo scorso allorquando le ditte appaltatrici dovettero fronteggiare difficili problemi tecnici per estrarre dal bosco il legnatico tagliato. Infatti, non è difficile trovare pezzi di funi d'acciaio che ancora svettano che fanno molto riflettere sull'uso sconsiderato che è stato fatto dei boschi del Pollino agli inizi del novecento. Regno di biacchi, cervoni ma anche di sparvieri, picchi e rapaci notturni di tutte le specie. La risalita del Fosso Jannace ha rappresentato per molti una scorciatoia per raggiungere il Piano omonimo dove vi era un casino (residenza di montagna) delle grandi famiglie latifondiste che fungeva da centro di raccolta del bestiame, dei pastori e di tutti coloro che lavoravano in montagna. nel 1910 un'agguerrita ditta tedesca, la Rueping S.p.A., e il comune di Saracena conclusero un contratto che prevedeva lo sfruttamento di questo immenso patrimonio forestale per almeno un ventennio."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Rifugio Pino Loricato\r\n",
+      "descrizione": "È situato Alle pendici del Parco Nazionale del Pollino , a 1550 m slm. Prende il nome dalla specie rarissima dei Pini Loricati che fanno da cornice al rifugio. Punto di riferimento degli escursionisti che si imbattono alla scoperta di un territorio incontaminato e d’incantevole bellezza. Dispone di circa 60 posti a sedere, dove poter assaporare piatti tipici della tradizione Lucana. E di una confortevole camerata di 10 posti letto. È aperto tutti i fine settimana e festivi, in modo continuativo nel mese di agosto. Si può raggiungere comodamente in macchina o a piedi tramite i sentieri. In inverno è possibile salire solo a piedi con ciaspole, o usufruire del servizio navetta in motoslitta. A pochi passi dal Santuario della Madonna di Pollino, meta di pellegrinaggio e luogo di culto."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Santuario Madonna del Pollino\r\n",
+      "descrizione": "Il Santuario della Madonna del Pollino si trova precisamente a Mezzana una frazione di San Severino Lucano (Pz). Sul versante settentrionale del massiccio del Pollino, a 1537 metri di altezza, sorge il Santuario della Madonna del Pollino. Da 1975 è possibile raggiungere il luogo di culto tramite una strada carrabile comoda che è subentrata al posto dell’antica mulattiera. Il complesso religioso comprende la chiesa, alcuni vani per le attività e il soggiorno del clero e del personale che si occupa di custodire il luogo di culto. La Casa del Pellegrino, annessa al Santuario, ospita i devoti e coloro che sono interessati a vivere un ritiro spirituale. Nel 1970 la struttura è stata allargata ed è realizzata in stile romanico. All’interno ci sono tre navate, con una meravigliosa volta in legno decorata da un pregiato rosone. Una splendida statua in legno raffigura la Madonna che tiene in braccio a sinistra il Bambinello che a sua volta sostiene il gobo terrestre. Il Santuario è meta di pellegrinaggio di numerosi devoti calabresi del sud e di una folta schiera di fedeli che arrivano dal sud della Basilicata. Il panorama alpino, gli enormi alberi, i tronchi secolari, la valle ricca di boschi, di sentieri e le piccole vie che conducono al luogo di culto rendono questo posto meravigliosamente attraente e pieno di pace, ideale per vivere un ritiro spirituale a contatto con la natura e con Dio. In lontananza si vede San Severino Lucano e a destra il massiccio roccioso scende a picco in una larga e ampia conca detta ”La Copia”. Di fronte la Serra del Prete, la Serra di Viggianello, il colle dell’Impiso e quello del Grattacielo, in lontananza si scorge il Sirino, il Monte Alpi e il piano del Pollino e la Serra Dolcedorme. Uno spettacolo suggestivo e ricco di emozioni abbraccia lo spettatore che rimane attonito davanti a tale prestigiosa vista.\r\nSecondo la tradizione nella grotta è stata ritrovata la statua e l’antro è composto da blocchi rocciosi. Nell’Archivio parrocchiale di San Severino Lucano non ci sono tracce che testimoniano a che epoca risalgono gli albori del santuario, tuttavia sembra che le sue origini siano collegate al 1700. Vox populi racconta che la storia del Santuario trae origine tra il 1725 e il 1730 con una apparizione della Madonna a un pastore mentre portava al pascolo sul monte Pollino il suo gregge. Stupefatto della visione il pastore aveva divulgato la notizia e con il passaparola tutta la popolazione ne era venuta a conoscenza. Una donna del posto di nome Rosa Maria spinta dalla sua salda fede, in compagnia di sua cognata Vittoria, si recò sul monte. Rosa Maria aveva lasciato a casa suo marito, il quale era affetto da una malattia incurabile e suo figlio. Mentre le due donne percorrevano la erta e faticosa via che porta al Pollino, iniziarono ad avere una gran sete ma in mancanza di acqua chiesero alla Vergine di sedare l’arsura. A poca distanza videro sgorgare uno zampillo d’acqua da una grossa pietra a forma di conca. Accanto c’era un’entrata che portava all’interno di una grotta dalla quale si sentirono misteriosamente attratte. Quando le due donne entrarono all’interno dell’antro si accorsero che in un angolo c’era ammucchiato del pietrisco misto a terriccio che sembrava nascondere qualcosa. Iniziarono così a scavare e trovarono una cassa con un panno di lana nel quale era avvolta la statua della SS. Vergine con in braccio il Bambino. Le due donne tornando a casa con la cassa in mano trovarono il marito di Rosa Maria miracolosamente guarito. Una leggenda commovente che ha dato origine alla costruzione del Santuario.\r\nLa spelonca di piccole dimensioni e formata da grossi blocchi di roccia, in passato era visitata dai fedeli, in occasione della sua festa oggi a causa dello slittamento dei massi rocciosi non è più accessibile al pubblico. Lo spiazzo antistante la Cappella è circondato da un tenero prato dal quale provengono profumi silvestri, e a sinistra di chi guarda la chiesetta c’è una strada che conduce a un ripiano su cui sovrasta un monte regno di faggi e di abeti, sotto questa strada si trova la grotta. La festa in onore della Madonna del Pollino è una delle celebrazioni più importanti della montagna calabro-lucana. Ogni anno migliaia di pellegrini si riuniscono il primo giovedì, venerdì e sabato di luglio per partecipare ai festeggiamenti in onore della SS. Vergine. La statua viene trasferita al santuario nei mesi estivi mentre d’inverno rimane custodita nella chiesa di San Severino Lucano."
+    },
+    "3": {
+      "id": "5",
+      "titolo": "La grotta della Madonna del Pollino",
+      "descrizione": "Secondo la tradizione nella grotta è stata ritrovata la statua e l’antro è composto da blocchi rocciosi. Nell’Archivio parrocchiale di San Severino Lucano non ci sono tracce che testimoniano a che epoca risalgono gli albori del santuario, tuttavia sembra che le sue origini siano collegate al 1700. Vox populi racconta che la storia del Santuario trae origine tra il 1725 e il 1730 con una apparizione della Madonna a un pastore mentre portava al pascolo sul monte Pollino il suo gregge. Stupefatto della visione il pastore aveva divulgato la notizia e con il passaparola tutta la popolazione ne era venuta a conoscenza. Una donna del posto di nome Rosa Maria spinta dalla sua salda fede, in compagnia di sua cognata Vittoria, si recò sul monte. Rosa Maria aveva lasciato a casa suo marito, il quale era affetto da una malattia incurabile e suo figlio. Mentre le due donne percorrevano la erta e faticosa via che porta al Pollino, iniziarono ad avere una gran sete ma in mancanza di acqua chiesero alla Vergine di sedare l’arsura. A poca distanza videro sgorgare uno zampillo d’acqua da una grossa pietra a forma di conca. Accanto c’era un’entrata che portava all’interno di una grotta dalla quale si sentirono misteriosamente attratte. Quando le due donne entrarono all’interno dell’antro si accorsero che in un angolo c’era ammucchiato del pietrisco misto a terriccio che sembrava nascondere qualcosa. Iniziarono così a scavare e trovarono una cassa con un panno di lana nel quale era avvolta la statua della SS. Vergine con in braccio il Bambino. Le due donne tornando a casa con la cassa in mano trovarono il marito di Rosa Maria miracolosamente guarito. Una leggenda commovente che ha dato origine alla costruzione del Santuario. La spelonca di piccole dimensioni e formata da grossi blocchi di roccia, in passato era visitata dai fedeli, in occasione della sua festa oggi a causa dello slittamento dei massi rocciosi non è più accessibile al pubblico."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "rascadietti",
+      "1": "Lagane e fasul",
+      "2": "Pasta ca muddrica",
+      "3": "capretto al forno",
+      "4": "mazzacorde e suffritto ",
+      "5": "cicirata"
+    },
+    "dove_mangiare": {
+      "0": "Rifugio Pino Locarito: Il rifugio si trova a quota 1550mt. E' davvero un bel posto, molto caratteristico, situato accanto il Santuario della Madonna del Pollino.\r\nIl menù è essenziale, ma tutto è preparato con precisione, cultura dei prodotti del territorio e dovizia (le porzioni sono davvero importanti). Un plauso alla proprietà, molto giovane, che con diverse iniziative tutto l'anno vuol dare lustro ad un luogo meraviglioso.\r\nSiamo rimasti soddisfatti, ci ritorneremo appena possibile.",
+      "1": "Da Agostino: Una bella accoglienza, il personale molto cortese e attento e soprattutto preparato . Non solo ci ha illustrato i piatti ma anche i vini . Era tutto buonissimo, dall’antipasto al dolce ( fatto da loro) , il servizio attento e celere. La mia braciola era divina e il cosciotto di cinghiale che ha preso mio marito.. superlativo . Ottimo il rapporto qualità prezzo . Ci hanno fatto sentire a casa. Era la nostra seconda visita ma se dovessimo tornare a San Severino non mancheremo di tornare da loro . Molto consigliato .",
+      "2": "Rist'Oro <Pollino: Dopo una mattinata in famiglia nel bosco abbiamo deciso di pranzare qui, essendo uno dei pochi aperto in zona,e mai scelta fu più azzeccata. Primi buonissimi, personale gentilissimo e location molto bella, senza considerare il prezzo super accessibile(primi,bevande, frutta e dolce)vista la qualità del cibo e l'ottima vicinanza al bosco, consigliatissimo.",
+      "3": "Antica Masseria Salmena Spaccio Carni Aziendale: Un po' distante dal nostro trekking e con prezzi più alti della media, ma la loro cucina vi farà sentire che ne vale la pena.  Posizione incantevole con vista sul golfo, piatti curati nella presentazione e soprattutto nella qualità. Nicola un eccezionale ristoratore che con la moglie e i figli si sono dedicati ai piatti della tradizione con prodotti di qualità. Le pietanze tutte ben distinte con ingredienti che non hanno sovrastato l’armonia del piatto. Tagliere di affettati superbo nel gusto con stagionatura delicata e con basso contenuto di sale, le orecchiette zucchine e pancetta fatte in casa superbe, il coniglio al ciliegia acetica (visciola) da primato. Il paté di olive morte su pane bio da non poterne fare a meno."
+    }
+  },
+  "dove_dormire": {
+    "0": "Oleandro Room: \r\nAccolti con grande gentilezza e disponibilità dai gestori...fin dal primo momento si sono dimostrati veramente professionali a soddisfare qualsiasi nostra richiesta. L'appartamento molto comodo e spazioso con un'invidiabile vista sul corso principale ed anche verso i monti all'orizzonte. Colazione abbondante già presente in casa...con sorpresa piacevole di cornetti caldi portati una mattina dal bar vicino. Dalla struttura si raggiunge con facilità col proprio mezzo i diversi punti panoramici del territorio e l'inizio dei sentieri da fare a piedi.\r\nEsperienza gradevolissima e da ripetere.",
+    "1": "Villa Manca: Appartamento arredato benissimo, pulito, nuovo e funzionale. Persino lavatrice, lavastoviglie, microonde e stufa a legna di nuova generazione oltre che al riscaldamento centralizzato. fantastico giardino con tanti ortaggi e frutta bio a disposizione degli ospiti. Accoglienza eccezionale, disponibilità e cordialità dei titolari.",
+    "2": "Terrazze sul frido: \r\nUn posto bellissimo, immerso nella natura incontaminata.\r\nIdeale per rilassarsi con la famiglia,ma anche in coppia.\r\nBen posizionato per raggiungere le varie attrazioni del parco.\r\nI proprietari ci hanno fatto sentire come a casa; la signora ci ha indicato un posto dove pranzare (ristorante torre vecchia) dove abbiamo potuto assaggiare i piatti tipici e anche lì,sentirci come a casa.\r\n\r\nColazione buona e abbondante e pulizia eccezionale!\r\nCi ritorneremo sicuramente!",
+    "3": "Residence il Varco del Pollino: La camera è in un edificio del borgo di Varco, immersa nel verde. La struttura si trova in una posizione ottima per la visita del versante lucano del Parco del Pollino, non distante da San Severino Lucano, dove si trovano tutti i servizi, locali e ristoranti. Lo staff è molto disponibile e prodigio di informazioni e consigli sui posti da visitare."
+  }
+}
