@@ -1,0 +1,133 @@
+{
+  "titolo_dell'articolo": "Sentiero Monte Alpi da Bosco Favino - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Monte Alpi",
+    "citta_di_partenza": "Castelsaraceno",
+    "provincia_di_partenza": "Potenza",
+    "regione_di_partenza": "Basilicata",
+    "catena_montuosa_o_parco": "Parco Nazionale del Pollino",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "CAI 970",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/le-cime-gemelle-del-monte-alpi-pizzo-falcone-1900-m-e-santa-croce-1893-m-da-bosco-favino-84376406#wp-84376409",
+    "attrazioni_percorso": {
+      "0": "Bosco Favino",
+      "1": "rifugio Favino ",
+      "2": "Monte Alpi",
+      "3": " Castelsaraceno",
+      "4": "ponte tibetano"
+    },
+    "panorama_percorso": {
+      "0": "calanchi argillosi",
+      "1": "il Sirino",
+      "2": "costa tirrenica",
+      "3": "vette più alte del Cilento",
+      "4": "monti Zaccana",
+      "5": "catena del Pollino",
+      "6": "la Sila"
+    },
+    "lunghezza_percorso": "7.5 km",
+    "altitudine_min_percorso": "1904 m",
+    "altitudine_max_percorso": "1327 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Parcheggio Bosco Favino",
+    "punto_arrivo_percorso": "Parcheggio Bosco Favino",
+    "dislivello_positivo_percorso": "655 m",
+    "dislivello_negativo_percorso": "655 m",
+    "tempo_medio_stimato_percorso": "4 ore 45 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato",
+      "1": "Alpino"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "primavera",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Pino Locarito",
+      "2": "Agrifoglio"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Partenza dal Porto di Sapri",
+      "descrizione": "Il tuo viaggio inizia direttamente al punto dove hai parcheggiato l'auto, nelle vicinanze del porto di Sapri. Da lì ti basterà seguire l'indicazione in legno che riporta: \"Apprezzami l'Asino - Sentiero vista Mare\". Da qui una breve serie di scalini ti condurranno lungo il sentiero"
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Sentiero degli innamorati",
+      "descrizione": "La prima parte del percorso, regala scorci panoramici indimenticabili su tutto il golfo di Policastro, troverete molte panchine su cui fermarvi a contemplare tra le meraviglie di questa costa cilentana, una vero gioiello. Inoltre questa parte del percorso è molto agevole e con poco dislivello, perfetto anche le famiglie e per le coppie che vogliono passare un momento romantico tra la maestosità della natura. Non a caso, questa prima parte del percorso è stato nominato anche con il nome `Sentiero degli innamorati`. Su questo percorso, potrete notare lo Scoglio dello Scialandro con la statua della spigolatrice di Sapri"
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Bivio",
+      "descrizione": "Dopo circa 1.5 km vi ritroverete ad un bivio, scendendo a destra, potrete percorrere un breve tratto fatto di scogli per raggiungere la \"Piscina dell'amore\", mi raccomando, se decidete di attraversare questa parte del percorso, prestare attenzione agli scogli sulla quale è facile scivolare, ed usare scarpe adatte. Proseguendo invece dritto potrete proseguire sul sentiero dell'Asinara"
+    },
+    "3": {
+      "id": "4",
+      "titolo": "Torre di Mezzanotte",
+      "descrizione": "Dal bivio in poi, da percorso turistico diventa percorso EE (escursionisti esperti) poichè il sentiero si restringe e rende la tua escursione più \"divertente\". Proseguendo dritto, raggiungerai Torre della Mezzanotte ed il suo incredibile panorama sulla costa che ti farà battere il cuore."
+    },
+    "4": {
+      "id": "5",
+      "titolo": "Spiaggia di mezzanotte.",
+      "descrizione": "Se vuoi proseguire verso la spiaggia di Mezzanotte, è necessario che tu sappia che il sentiero diventa sempre più stretto, sulla sinistra avrai il costone e sulla destra lo strapiombo verso il mare, senza alcuna protezione. Inoltre il fondo è formato prevalentemente da ghiaia sdrucciolevole, quindi è bene che presti molta attenzione se decidi di proseguire. All'altezza del ponte (visibile in alto),  dovrai calarti tra le rocce di questa `depressione` naturale, fino a raggiungere la spiaggetta spesso non soleggiata (da cui il nome) per la sua posizione tra le coste."
+    },
+    "5": {
+      "id": "6",
+      "titolo": "Ritorno al punto di partenza",
+      "descrizione": "Per tornare al punto di partenza, ti basterà ripercorrere il sentiero fatto in andata."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Bosco Favino\r\n",
+      "descrizione": "Il Bosco Favino è un’area protetta situata nel cuore della Basilicata, ai piedi del Monte Alpi, nonché punto di partenza di una complessa rete di sentieri escursionistici. È caratterizzato dalla presenza di faggete secolari che creano un paesaggio suggestivo e fiabesco, ideale per trascorrere una giornata all’insegna della natura e del relax.\r\n\r\nQuesto luogo incantevole è l’habitat naturale di una ricca fauna selvatica che include cinghiali, volpi, tassi e molti altri animali che, se sei fortunato, potrai ammirare durante la tua visita. Inoltre, la fitta vegetazione del bosco ospita diverse specie di funghi e piante, alcune delle quali sono endemiche del territorio. Un vero e proprio tesoro di biodiversità, da preservare e trattare sempre col massimo rispetto. Per rendere la tua esperienza nel Bosco Favino ancora più piacevole e rilassante, è stata allestita un’area attrezzata per picnic, perfetta per trascorrere una giornata in famiglia o con gli amici. Questa zona dispone di 20 postazioni complete di tavoli, griglie da barbecue e fontane d’acqua potabile, che renderanno il tuo soggiorno nel bosco comodo e divertente.\r\n\r\nLe postazioni sono immerse nel verde e circondate da alberi maestosi, che garantiscono ombra e frescura durante le calde giornate estive. Potrai cucinare deliziose pietanze alla griglia sulle apposite strutture, mentre i tavoli ti permetteranno di accomodarti comodamente per gustare il tuo pasto immerso nella natura. Oltre al piacevole picnic, il Bosco Favino offre numerose opportunità per trascorrere una giornata all’insegna del divertimento e della scoperta. Puoi dedicarti a passeggiate ed escursioni lungo i sentieri del bosco, ammirando la vegetazione rigogliosa e gli animali che popolano quest’area protetta.\r\n\r\nPer gli amanti della fotografia, il Bosco Favino è un vero paradiso: la luce che filtra tra gli alberi, i colori delle foglie e l’atmosfera magica del luogo offrono innumerevoli spunti per scatti indimenticabili. Non dimenticare di portare con te la tua macchina fotografica o il tuo smartphone per immortalare i momenti più belli della giornata.\r\n\r\nSe sei appassionato di birdwatching, il Bosco Favino è il luogo ideale per osservare e ascoltare gli uccelli che abitano la faggeta. Munisciti di un binocolo e di una guida ornitologica per riconoscere le varie specie e goditi lo spettacolo offerto dalla natura.\r\n\r\nInfine, ricorda che il Bosco Favino è un’area protetta e che è importante rispettare alcune regole di buona condotta per preservare questo meraviglioso ecosistema. Non lasciare rifiuti, rispetta i sentieri segnalati e non danneggiare piante o animali durante la tua visita."
+    },
+    "1": {
+      "id": "3",
+      "titolo": "Monte Alpi\n ",
+      "descrizione": "Il monte Alpi, con le sue due cime gemelle Pizzo Falcone (1900 m) e Santa Croce (1893 m), è annoverabile tra i rilievi più alti dell'Appennino lucano e ne costituisce una delle aree più interessanti ed intatte dal punto di vista ambientale e naturalistico.\r\n\r\nEstrema propaggine settentrionale del parco nazionale del Pollino, l'Alpi è posto a guardia dell'alta valle del fiume Sinni, a sud del monte Raparo (1761 m), ad est del massiccio del Sirino (2005 m) e a nord, nord-est rispetto al gruppo dei monti La Spina-Zaccana (1652 m e 1580 m). Molto simile ai complessi montuosi della placca abruzzese-campana, il monte Alpi è paragonabile ad una grossa zolla di calcare cretacico, dalla caratteristica forma cuneiforme, che emerge in modo brusco dai terreni che lo circondano, di formazione più recente.\r\n\r\nDa ognuna delle sue vette si possono osservare, simultaneamente, a nord l'alta val d'Agri, ad est il sistema dei calanchi argillosi digradanti verso il mar Ionio, ad ovest il Sirino, la costa tirrenica e le vette più alte del Cilento; a sud, infine, i monti Zaccana e la Spina oltre che l'imponente acrocoro del Pollino, e in condizioni ideali anche la Sila.\r\n\r\n\r\nVetta del monte Alpi\r\nNella zona sono tuttora operanti diverse cave per l'estrazione di materiale destinato all'edilizia e la lavorazione dell'originale pietra grigia di Latronico, utilizzata come marmo ornamentale. La flora è largamente caratterizzata dalla presenza della pianta simbolo del parco nazionale del Pollino, il pino loricato.\r\n\r\nDove le rocce lasciano spazio a morbide ondulazioni argillose, si possono osservare degli esemplari di agrifoglio nella variante insolita di portamento arboreo.\r\n\r\n\r\nIn autunno la montagna si tinge di rosso\r\nTra le altre specie floristiche si annovera la presenza di tassi colossali ultracentenari.\r\n\r\nLa fauna del massiccio è in gran parte assimilabile a quella della restante parte del parco nazionale del Pollino. A titolo esemplificativo, si possono citare, tra i mammiferi: il lupo, il cinghiale, il tasso, l'istrice, il gatto selvatico e lo scoiattolo nella sua variante meridionale, di colore scuro; tra gli uccelli, numerose sono le specie tipiche degli ambienti di montagna tra cui spiccano diverse specie di rapaci diurni e notturni. È stata accertata nel corso degli anni la presenza di fossili come un esemplare di Istiophoridae del genere makaira (noto agli appassionati di pesca come marlin) lungo 235 cm, alto 95 cm e dal rostro di 30 cm, risalente a circa 30 milioni di anni fa. È ubicato a circa 970 m s.l.m. sopra la contrada Iannazzo e sotto la cava di pietra.\r\n\r\nSulle sue ripide pareti è possibile affrontare diverse vie alpinistiche di varia difficoltà, di roccia e, nel versante Nord, di misto.\r\n\r\nAlle pendici del massiccio sorgono borghi piccoli e pittoreschi, tra cui Latronico e Castelsaraceno.\r\n\r\nNon esiste nessun elemento che dimostri che il suo nome sia legato con la catena alpina del Nord Italia ma sembra che derivi dalla parola locale \"arpo\", poi trasformata nelle varie trascrizioni delle carte geografiche ufficiali in Alpi. L'arpo è un falcetto usato dalle popolazioni locali per il taglio delle erbe o del frumento quando si raccoglieva ancora a mano, associato al monte per la forma che assume visto dall’alto congiungendo le tre cime principali che lo compongono. Va però considerato che il toponimo \"Alpe\" non è tipico solo della catena alpina, ma anche dell'appennino, in particolare tosco emiliano [alpe di succiso] [alpe tre potenze] da interpretarsi nel senso di territorio comune, compascolo, tant'è che il luogo era considerato di libera raccolta del legname.\r\n\r\nEsso è rappresentato nel simbolo dello stemma araldico del Comune di Latronico il quale è composto da tre cime sormontate da tre stelle."
+    },
+    "2": {
+      "id": "5",
+      "titolo": "Castelsaraceno\r\n",
+      "descrizione": "L’antico centro abitato di Castelsaraceno è un tesoro di piccole case accoccolate tra le rocce, stradine ripide e tortuose, vicoli antichi ed edifici medievali. La sua fondazione risale al 1031, ad opera dei Saraceni, e il nome stesso del borgo racchiude secoli di storia: dal latino Castrum e dal dialetto Casteddu, significa “fortezza”, o “accampamento”. Un borgo millenario dal nome che richiama la guerra, ma dall’animo romantico: non solo per le atmosfere suggestive che emana da ogni angolo ma anche per la sua forma perfettamente “a cuore”. \r\n\r\n\r\nUn borgo da esplorare “arrampicandosi” sulle stradine del suo centro storico, letteralmente abbarbicato a uno sperone roccioso denominato La Tempa, dove le abitazioni sono così strette l’una con l’altra da sembrare un tutt’uno con la roccia su cui sono adagiate. Nell’antico borgo medievale del paese sorgono i resti della Torre Saracena, conosciuta anche come “il Campanaro”: baluardo di un più ampio sistema di fortificazione, rappresentano la più antica traccia archeologica di Castelsaraceno ed evocano alla mente i tempi bui del medioevo, con suo susseguirsi di dominazioni straniere.\r\nGreci, arabi, bizantini, e poi longobardi, saraceni e normanni dopo il terremoto del 1044, quando l’antica Castrum cominciò lentamente a popolarsi. Nel 1086 la giurisdizione del suo territorio fu donata dai Mango di San Chirico Raparo ai monaci dell’abbazia di San Michele Arcangelo del monte Raparo con l’accordo che dovessero provvedere a riedificare il “collapsum Castellum nominato Saracenum” e da luogo solitario e disabitato farne  un villaggio popolato. Ed è proprio ai monaci basiliani che Castelsaraceno deve la sua rinascita con un intenso periodo storico, artistico ed economico che proseguì fino al XVI secolo."
+    },
+    "3": {
+      "id": "6",
+      "titolo": "ponte tibetano",
+      "descrizione": "Con i suoi 586 metri di lunghezza, il Ponte Tibetano più Lungo del Mondo fa da cornice a Castelsaraceno, uno dei borghi più suggestivi della Basilicata. Tra panorami mozzafiato e scorci naturali inesplorati, è la destinazione perfetta per una vera full immersion nella natura.\r\n\r\n1160 passi da percorrere nel vuoto, col fiato sospeso e a passo lento, per non perdere nemmeno un millimetro della vista spettacolare che si staglia tutto intorno: il Ponte Tibetano di Castelsaraceno è un’esperienza emozionante, ideale per chi desidera staccare la spina dallo stress ed entrare in contatto con la natura.\r\n\r\nSe stai pianificando le tue vacanze green in Basilicata, è una tappa da non perdere: a metà strada fra lo splendido mare di Maratea e la suggestiva Matera, il Ponte Tibetano più lungo del mondo offre un punto di vista inedito sul selvaggio e incontaminato entroterra lucano. Un’opera ingegneristica straordinaria che, con i suoi 586 metri di lunghezza e 80 metri di altezza dal suolo, collega il Parco Nazionale del Pollino a quello dell’Appennino Lucano-Val d’Agri Lagonegrese.\r\n\r\nDal nucleo più antico del “borgo a forma di cuore”, tappa del Sentiero CAI Italia, il ponte sospeso si allunga fino a uno sperone roccioso tra le pendici del monte Raparo e del monte Castelveglia, come una porta d’accesso verso il segreto di boschi ancora poco esplorati.\r\n\r\nGrazie alla sua struttura dotata di tiranti laterali, il Ponte Tibetano è aperto ogni giorno e mantiene la sua stabilità anche nelle giornate più ventose. Il sistema di accessi automatizzato e le imbragature a norma di legge lo rendono un attrattore adatto a tutti: dalle famiglie con bambini agli anziani fino ai gruppi di amici, chiunque merita di conquistare il Ponte Tibetano più lungo del mondo!"
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Munnulata",
+      "1": "Nnuglia",
+      "2": "Pastorale",
+      "3": "Tagliatizzo",
+      "4": "Nzalata i l zit",
+      "5": "Tortano",
+      "6": "Rafanata"
+    },
+    "dove_mangiare": {
+      "0": "TAVERNA SARACENA: Dopo il Ponte Tibetano i ragazzi ci hanno consigliato questo ristorante in paese, una decina di tavoli ma devo dire 10 e lode sia per la pulizia qualità e Vito molto professionale nel spiegarti e consigliarti le pietanze,il frigorifero con esposizione carne Top, appena so entra si ha l'idea di prendere una stangata eee invece anche il conto è ottimo per qualità e servizio offerti complimenti",
+      "1": "Over Dream: Ristorante situato a Luria, a circa mezzora da castelsaraceno. Ottima la qualità delle materie prime e la maestria dello chef. Personale estremamente gentile e cordiale. Molto saporita la carne, sia la tagliata sia la lombata di maialino. Mi ha colpito molto anche l’entree di benvenuto, ormai quasi nessun ristorante lo fa. Bellissimo il locale, sia la sala interna sia quella con vetrate sul giardino. Prezzi assolutamente corretti. Lo consiglio.",
+      "2": "U'Vizzarro - ristorante rurale: Location stupenda ai piedi del monte Alpi, circondata da una natura rigogliosa e incontaminata. Un pranzo a base di prodotti tipici locali e soprattutto basato sulla stagionalità! Ottimi gli antipasti con affettati formaggi melanzane sott’olio e un misto di patate e peperoni lucani doc, nonché il secondo a base di carne di maiale con un contorno di patate fritte sensazionali! Menzione speciale merita il primo a base di pasta fatta in casa zucca porcini e castagne, davvero una scoperta! Grazie per la simpatia e la gentilezza!",
+      "3": "Lutipico: Locale tipico nel piccolo borgo di Castelsaraceno. Si trova sulla via principale, di facile accesso con possibilità di parcheggio nei pressi dello stesso. Possibilità di pranzare sia dentro che fuori; personale molto cordiale. Ordiniamo degli hamburger (luberger) nelle diverse presentazioni offerte dalla proprietaria con abbinamenti tipici sia di carne che latticini locali avvolti in pan pizza a lunga lievitazione. Ottima come idea ma secondo me da rivisitare sotto l'aspetto delle quantità riferite al lardo che era praticamente invisibile dalla estrema sottigliezza di taglio che con la cottura tende a scomparire e all'aggiungere delle salse o altro mantenendo il tipico in modo da rendere più succoso, appetibile e facilmente mangiabile il panino. Prezzi leggermente sopra la media"
+    }
+  },
+  "dove_dormire": {
+    "0": "B&B A casa di Carla: Casa accogliente, ottima pulizia e molto silenziosa.\r\nLa signora Carla è stata molto accogliente e premurosa. I suoi dolci ottimi e ricca la colazione. Ci ha accolto offrendoci una bella bottiglie di vino molto apprezzata! Il giardinetto esterno offre la possibilità di rilassarsi.\r\nLa consiglio vivamente",
+    "1": "B&B Continanza: Ogni aspetto dell'appartamento è curato nei minimi dettagli: dall'accoglienza al comfort non manca proprio niente per soddisfare i bisogni e le necessità anche dei più esigenti. Rapporto qualità/prezzo favoloso in un contesto paesaggistico letteralmente stupendo.\r\nCastelsaraceno è un borgo incantato non soltanto per il ponte e le bellezze ma per la gente del luogo. La struttura ne è una sintesi perfetta a cominciare dai proprietari, fratello e sorella, che sono di una cortesia e una premura uniche.",
+    "2": "TibetiAmo: Soluzione perfetta per la nostra famiglia, accoglienza super professionale, comodo sia per ponte che per Bosco Favino, terrazza TOP per momenti di relax pomeridiano.",
+    "3": "B&B Rosy Gallo: Ospitalità e la simpatia della signora Rosy che ci ha coccolato con i suoi dolci casalinghi ,ottima posizione per fare il ponte tibetano. Un grazie da tutti noi .Lo consiglio vivamente"
+  }
+}
