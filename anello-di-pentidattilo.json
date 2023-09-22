@@ -1,0 +1,97 @@
+{
+  "titolo_dell'articolo": "Sentiero ad anello di Pentidattilo - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Anello di Pentidattilo",
+    "citta_di_partenza": "Pentidattilo",
+    "provincia_di_partenza": "Reggio Calabria",
+    "regione_di_partenza": "Calabria",
+    "tipo_di_percorso": "ad Anello",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/da-pentadattilo-alle-torri-di-santa-lena-33990560",
+    "attrazioni_percorso": {
+      "0": "Antico Borgo di Pentidattolo",
+      "1": "Le Cinque Dita Di Pentedattilo",
+      "2": "Chiesa Santa Maria Della Candelora",
+      "3": "Chiesa Dei SS Apostoli Pietro E Paolo",
+      "4": "Ruderi Castello Di Pentedattilo"
+    },
+    "panorama_percorso": {
+      "0": "Stretto di Messina",
+      "1": "Etna"
+    },
+    "lunghezza_percorso": "2.5 km",
+    "altitudine_min_percorso": "320 m",
+    "altitudine_max_percorso": "250 m",
+    "difficolta_percorso": "Molto Facile",
+    "punto_partenza_percorso": "Chiesa della Candelora",
+    "punto_arrivo_percorso": "Chiesa della Candelora",
+    "dislivello_positivo_percorso": "70 m",
+    "dislivello_negativo_percorso": "70 m",
+    "tempo_medio_stimato_percorso": "0 ore 30 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Lastricato",
+      "1": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "primavera",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Fichi d'India"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Antico Borgo di Pentidattolo",
+      "descrizione": "Pentedattilo, situato a un'altitudine di 250 metri, si erge maestosamente sulla cresta del Monte Calvario. La sua silhouette unica evoca l'immagine di una gigantesca mano con cinque dita, un dettaglio che ha dato origine al suo nome, derivante dalla parola greca che significa \"cinque dita\". Questo affascinante borgo, un tempo fiorente a 320 metri sul livello del mare, fu abbandonato nel 1971. Gli abitanti si trasferirono più in basso, creando un nuovo insediamento da cui si può ancora osservare l'antico e misterioso paese fantasma.\n\nRecentemente, Pentedattilo ha iniziato a rivivere. Artigiani del luogo hanno inaugurato botteghe dove espongono le loro creazioni, e i visitatori possono gustare piatti locali in un accogliente ristorante. Le vie del borgo sono state rinnovate e alcuni edifici restaurati, rendendo il luogo ancora più affascinante. Per gli appassionati di cultura, Pentedattilo ospita ogni anno l'evento Paleariza, un festival che celebra le tradizioni grecaniche. Inoltre, tra agosto e settembre, diventa il palcoscenico del Pentedattilo Film Festival, un rinomato festival internazionale dedicato ai cortometraggi. Un luogo perfetto per gli amanti del trekking alla ricerca di storie e paesaggi unici."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Chiesa Santa Maria Della Candelora\n",
+      "descrizione": "Scoprendo la Chiesa Santa Maria Della Candelora lungo i sentieri di trekking, ci si immerge in un viaggio storico e spirituale. Questo gioiello architettonico, risalente all'epoca bizantina, è un tributo alla \"Madonna della Purificazione o Candelora\". La sua importanza crebbe notevolmente nel XVI secolo, un periodo in cui i Francoperta, nobili della regione, invitarono i padri domenicani a risiedere nel vicino convento, fondato nel 1554. Tuttavia, nel 1652, una decisione del Papa Innocenzo X, attraverso la \"Bolla Instaurandae\", portò alla chiusura di questo convento.\n\nL'interno della chiesa svela una navata singola che conduce al presbiterio. Qui, una magnifica scultura rinascimentale del 1564, realizzata in marmo bianco di Carrara, rappresenta la Madonna della Candelora. Quest'opera d'arte, originariamente commissionata a Messina da Giovanni Demetrio Francoperta, porta con sé un mistero: mentre sul lato sinistro dello scannello si trova lo stemma di Francoperta, sul lato destro appare un altro stemma con le iniziali D.M. Sebbene in passato fosse attribuito a Domenico Mazzolo, recenti ricerche suggeriscono che l'artista potrebbe essere stato Giuseppe Bottone. Al centro, lo scannello ritrae il cerimoniale della Candelora, un dettaglio che aggiunge profondità e fascino alla visita di questo luogo sacro."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Chiesa Dei SS Apostoli Pietro E Paolo\n",
+      "descrizione": "Questo luogo sacro, menzionato già nel 1310, è uno dei quattro edifici religiosi protopapali della regione. Nel 1655, con il cambio dal rito greco al rito latino, l'arciprete Domenico Toscano di Bova intraprese un significativo restauro, come dimostra un'antica lastra con stemma all'interno. Verso la fine del XIX secolo, grazie all'intervento dei Ditterei Zema e Malavenda, la chiesa, che stava cadendo in rovina, fu rinnovata e impreziosita. All'interno, potrai ammirare una storica acquasantiera e una fonte battesimale del XVII secolo, oltre a una lapide marmorea del 1627 appartenente al marchese di Pentedattilo, Don Giuseppe Alberti. E una curiosità: una preziosa pala d'altare del XVII secolo, opera di GiovanBattista Caracciolo, noto come \"il Battistello\", che ritraeva i Santi Apostoli Pietro e Paolo e la Vergine Assunta, fu purtroppo rubata nel 1972 e non è mai stata recuperata. "
+    },
+    "3": {
+      "id": "5",
+      "titolo": "Ruderi Castello Di Pentedattilo",
+      "descrizione": "**Pentedattilo**, un tempo maestoso baluardo romano, si ergeva come simbolo di potenza e difesa contro le minacce marittime. Questa antica fortezza, con le sue torri e mura imponenti, ha visto la sua evoluzione nel corso dei secoli, trasformandosi da postazione di avvistamento a regale dimora dei **feudatari Alberti**. È proprio tra queste mura che risuona l'eco della \"Tragedia degli Alberti\", un episodio avvolto nel mistero e nella leggenda. La sua collocazione geografica è affascinante: immaginate un castello incastonato tra due sporgenze rocciose, quasi a formare un abbraccio tra il pollice e l'indice di una mano gigantesca. Anche se oggi ci rimane solo un'immagine affrescata che ritrae il castello e l'antico borgo di Pentedattilo, situata nella \"villa Caristo\" a Stignano, il suo fascino rimane intatto. Per gli appassionati di **trekking**, una salita lungo il sentiero che porta ai suoi ruderi offre una vista mozzafiato, un tuffo nel passato e un panorama che toglie il fiato. Un'esperienza unica per chi cerca avventure storiche e paesaggi indimenticabili."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "U suffrittu",
+      "1": "Frittole",
+      "2": "Paccheri al ragù di pesce spada",
+      "3": "Pesce stocco con patate",
+      "4": "Pipareddi",
+      "5": "Nzudda",
+      "6": "Susumelle"
+    },
+    "dove_mangiare": {
+      "0": "Agriturismo Mille Sapori: Finalmente un ristorante in cui le recensioni rispecchiano la realtà. Per questo motivo non posso che associarmi al giudizio di quanti, prima di me, hanno apprezzato questo Agriturismo. Da calabrese in vacanza ho potuto riassaporare i piatti gastronomici più tradizionali, in particolare un’ottima parmigiana, peperoni ripieni “della mamma”, maccheroni calabresi con gustosissimo sugo alle melanzane e salsiccia alla griglia . Il menu tutto , ancora più vario di piatti oltre a quanto ho menzionato , era abbondante e gustoso , completo in ogni portata fino al dolce. Il prezzo all inclusive , bevande incluse ? Non lo menziono neppure ma , a Pisa , dove vivo, a quel prezzo ci mangi giusto pizza e birra ( e un dolce ma piccolo) . Concludo complimentandomi con i proprietari anche per la loro cortesia , promettendogli che il prossimo anno torneremo di sicuro con la nostra stessa comitiva di vecchi amici di scuola e le nostre famiglie.",
+      "1": "La Cantina di Nonno Nino: La cantina di nonno Nino e Mimmo ci ha riservato un Accoglienza fantastica! Cibi buoni e caserecci, ottimi i pomodori secchi, le melanzane sott'olio, salumi e formaggi...ma il piatto che ci ha consigliato Nino è stata la sorpresa più gradita,un involtino di melanzane con dentro le tagliatelle,un vero scrigno di sapore calabrese.Una serata magnifica! Serviti sulla piccola terrazza naturale con vista mare e l' Etna in tutto il suo splendore! Grazie per l'ottimo cibo e la simpatia."
+    }
+  },
+  "dove_dormire": {
+    "0": "Case Rurali Pentidattilo: L'iniziativa permette di soggiornare in un posto unico e altrimenti inaccessibile. Svegliarsi nel piccolo borgo solitario alle 8 di mattina con il suono delle campane è davvero bello. La cena da Rossella poi è un arricchimento esperienziale notevole. Generosità e racconti sulla difficoltà della vita in quei luoghi per la mancanza di acqua, per i continui incendi che rischiano di vanificare tutti i suoi sacrifici ti fanno apprezzare la vita da cui \"vai in vacanza\". Speriamo che le istituzioni preservino questi luoghi così unici.",
+    "1": "La Casa di Francesco: La posizione di fronte al mare, la terrazza, la prima colazione abbondante e varia con cornetti ripieni di gustosissima crema al bergamotto ,al pistacchio frutta fresca, bibite varie tra cui un gustoso latte di mandorla. Ottima la pulizia degli ambienti, del servizio igienico, della biancheria da letto cambiata più volte, la doccia perfettamente funzionante. La gentilezza e la disponibilità di Eddi.",
+    "2": "Le Quattro Sorelle: La Casa di Francesco si trova in una posizione spettacolare. Dai due terrazzi, uno a piano terra, l’altro al primo piano, si gode della vista del mare, della Sicilia e dell’Etna. La casa internamente offre degli spazi enormi, cucina/soggiorno molto estesi, 5 bagni, 4 camere, infatti ci abbiamo soggiornato in 8 stando estremamente comodi.\nLeo, la persona che ci ha accolto e che ha gestito il nostro soggiorno, è stata sempre molto gentile e disbonile, dall’arrivo alla partenza. Grazie Leo!"
+  }
+}
