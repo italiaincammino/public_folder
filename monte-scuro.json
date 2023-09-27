@@ -1,0 +1,89 @@
+{
+  "titolo_dell'articolo": "Sentiero da Camigliatello Silano a Monte Scuro - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Monte Scuro",
+    "citta_di_partenza": "Camigliatello Silano",
+    "provincia_di_partenza": "Cosenza",
+    "regione_di_partenza": "Calabria",
+    "catena_montuosa_o_parco": "Parco Nazionale della Sila",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "CAI 421",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/camigliatello-silano-monte-scuro-54810560",
+    "attrazioni_percorso": {
+      "0": "Rifugio Montescuro"
+    },
+    "panorama_percorso": {
+      "0": "Lago di Cecita",
+      "1": "Monti dell'Orsomarso",
+      "2": "Catena Montuosa del Pollino"
+    },
+    "lunghezza_percorso": "14.7 km",
+    "altitudine_min_percorso": "1630 m",
+    "altitudine_max_percorso": "1297 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Via Roma",
+    "punto_arrivo_percorso": "Via Roma",
+    "dislivello_positivo_percorso": "450 m",
+    "dislivello_negativo_percorso": "450 m",
+    "tempo_medio_stimato_percorso": "4 ore 30 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "pagamento vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato",
+      "1": "Asfaltato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "primavera",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Faggi",
+      "2": "Orchidee",
+      "3": "Pino laricio",
+      "4": "Lisca dei prati",
+      "5": "Viole",
+      "6": "Ginestre Spinose"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Monte Scuro",
+      "descrizione": "Il Monte Scuro, incastonato nel cuore della Sila vicino a Camigliatello Silano, si erge maestoso con la sua vetta a 1633 metri, situata nel comune di San Pietro in Guarano. Poco più a sud, a 1618 metri, si trova il suggestivo valico di Monte Scuro, appartenente al territorio di Celico. Immagina di percorrere una strada montana panoramica di 13 km, denominata \"Strada delle Vette\", che ti conduce dal valico di Monte Scuro fino alla cima del monte Botte Donato, offrendoti viste mozzafiato delle vette di Serra Stella e Monte Curcio. E se visiti durante l'inverno, questa strada si trasforma in una spettacolare pista da sci di fondo, chiusa al traffico, per un'esperienza invernale indimenticabile."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Rifugio Montescuro",
+      "descrizione": "\r\nSituato in una posizione privilegiata, avvolto dal verde lussureggiante e dai panorami mozzafiato delle montagne della Sila, il Rifugio Montescuro rappresenta un rifugio ideale per i camminatori e gli amanti della natura. Dopo lunghe ore di cammino, il rifugio si presenta come un'oasi accogliente, offrendo un luogo confortevole dove riposarsi, ristorarsi e rigenerarsi. Non è solo un luogo dove passare la notte, ma un'esperienza in sé: qui, gli ospiti possono rifocillarsi con deliziosi piatti tradizionali della cucina calabrese, preparati con passione utilizzando ingredienti freschi e locali, il tutto servito in un ambiente che esala calore e ospitalità.\r\n\r\nMa il Rifugio Montescuro è molto più di un semplice alloggio in montagna. Con la sua atmosfera serena e l'aria pura che lo circonda, diventa un luogo dove ritrovare se stessi, lontano dal trambusto e dalla frenesia della vita moderna. È una vera e propria oasi di pace e tranquillità, un angolo nascosto nel cuore della Sila, dove i visitatori possono lasciarsi alle spalle lo stress quotidiano, immergersi nella bellezza incontaminata della natura e riconnettersi con il proprio io interiore."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "tagliatelle ai funghi porcini",
+      "1": "patate 'mpacchiuse",
+      "2": "pasta e patate ara tjieddra",
+      "3": "Caciocavallo Silano"
+    },
+    "dove_mangiare": {
+      "0": "Mercato Silano, Arturo Falcone: Ottima atmosfera in questo posto appena adiacente alla strada principale di Camigliatello. Ben organizzato con dei tavoli al centro del locale e degli stand gastronomici intorno, questo posto ci ha piacevolmente sorpreso per la gentilezza del personale e la qualità dei prodotti tipici calabresi. Ottima grigliata, le patate impacchiuse. I funghi fritti e i dolci!\nDa andarci anche perché si possono comprare prodotti tipici come funghi secchi, 'nduja etc",
+      "1": "Doppio Malto: Ci siamo fermati in questo ristorante quasi per caso e siamo rimasti veramente sorpresi! Il personale è gentile e disponibile, ragazzi giovani e simpatici. Il cibo e di ottima qualità!! I funghi porcini sono freschissimi e le pappardelle al cinghiale sublimi!! Bravi bravi, complimenti!!",
+      "2": "Agriturismo Pietro Falcone: Situato in una posizione meravigliosa che domina dall'alto su tutta Cosenza, l'agriturismo merita un lungo soggiorno. Noi eravamo solo di passaggio, di ritorno da una vacanza in Sicilia, e ci siamo imbattuti per caso in questa accogliente struttura, dove abbiamo consumato solo una cena, ma ne è valsa davvero la pena.\nÈ stato tutto perfetto: il servizio rapido ed efficiente (Francesco, il cameriere, è un fulmine di guerra!); la qualità del cibo elevata; l'atmosfera familiare; e i prezzi ottimi.\nIn tre parole: speriamo di ritornarci!"
+    }
+  },
+  "dove_dormire": {
+    "0": "Hotel Sila: Buona posizione centrale molto vicino a bar, ristoranti, negozi e percorsi trekking.\nIl personale è cordiale e disponibile. La struttura dell'hotel era un po' datata ma era molto pulita e confortevole.",
+    "1": "Rifugio Montescuro: Siamo stati benissimo ,molto accogliente ,le camere sono spaziose e pulite.Ottima la cucina .Lo Staff e' cordiale e tutti premurosi nel soddisfare i clienti.Lo consiglio a tutti sia per l'ospitalita che per il prezzo.A presto ragazzi.....punteggio 10 e lode.Grazie Antonio e tutto il tuo Staff",
+    "2": "Repaci 17 Home: Tutto perfetto, specialmente l'atmosfera del caminetto è il TOP...Personale molto accogliente. Ci torneremo sicuramente, assolutamente consigliatissimo."
+  }
+}
