@@ -1,0 +1,86 @@
+{
+  "titolo_dell'articolo": "Sentiero Cascate delle Forgiarelle da Cerasia - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Cascate delle Forgiarelle",
+    "citta_di_partenza": "Serro Cerasia (San Luca)",
+    "provincia_di_partenza": "Reggio Calabria",
+    "regione_di_partenza": "Calabria",
+    "catena_montuosa_o_parco": "Parco Nazionale dell’Aspromonte",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "CAI 104",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/le-cime-gemelle-del-monte-alpi-pizzo-falcone-1900-m-e-santa-croce-1893-m-da-bosco-favino-84376406#wp-84376409",
+    "attrazioni_percorso": {
+      "0": "Rifugio Cerasia",
+      "1": "Villaggio Canovai",
+      "2": "Area Picnic Canovai",
+      "3": "Cascate delle Forgiarelle"
+    },
+    "panorama_percorso": {
+      "0": "Monte Scapparone"
+    },
+    "lunghezza_percorso": "12.5 km",
+    "altitudine_min_percorso": "1600 m",
+    "altitudine_max_percorso": "1275 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Rifugio Cerasia",
+    "punto_arrivo_percorso": "Rifugio Cerasia",
+    "dislivello_positivo_percorso": "390 m",
+    "dislivello_negativo_percorso": "390 m",
+    "tempo_medio_stimato_percorso": "4 ore 30 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Faggi",
+      "2": "Abeti",
+      "3": "felce tropicale"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Rifugio Canovai",
+      "descrizione": "Nel cuore dell'Aspromonte, a 1320 metri di altitudine, si trova un tesoro nascosto: il Rifugio Canovai. Questo rifugio, situato in località Ferraina nel comune di Samo, nel reggino, racconta una storia affascinante che risale agli anni '50.\n\nIl Rifugio Canovai non è solo un semplice rifugio di montagna, ma un pezzo di storia italiana. Originariamente, era un fabbricato in pietra situato nel \"Villaggio Canovai\", costruito come ricovero per gli operai forestali. Questi operai erano impegnati in lavori cruciali nelle foreste demaniali dello stato, grazie a un provvedimento specifico per la conservazione del suolo attuato dal Corpo Forestale dello Stato. Questo rifugio era, quindi, un luogo di riposo e rifugio per questi lavoratori che dedicavano le loro giornate alla conservazione e cura delle nostre preziose foreste.\n\nCon il passare degli anni, la funzione del Rifugio Canovai è evoluta. Da un semplice dormitorio per operai, si è trasformato in una sorta di 'alberghetto' per turisti, offrendo un rifugio accogliente e storico per tutti coloro che sono appassionati di montagna e desiderano esplorare le bellezze dell'Aspromonte."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Cascate di Forgiarelle",
+      "descrizione": "Le Cascate di Forgiarelle, situate nel cuore dell'Aspromonte, rappresentano una delle gemme nascoste della natura calabrese. Queste cascate, meno conosciute rispetto ad altre come le Maesano, sono altrettanto spettacolari e si trovano al confine tra i territori di Africo e Samo, nascondendosi tra le acque del torrente Ferraina.\n\nDal punto di vista geologico, l'Aspromonte è caratterizzato da formazioni rocciose di origine magmatica intrusiva e metamorfica. Questa regione montuosa è attraversata da torrenti impetuosi e brevi, che danno origine alle famose \"fiumare\". Le Cascate Forgiarelle si trovano a circa 1200 metri di altitudine e sono tra le più belle dell'intero parco. La loro posizione e la loro bellezza le rendono una meta ambita per gli amanti del trekking e della natura.\n\nIl percorso per raggiungere le cascate è un'esperienza in sé, offrendo ai visitatori la possibilità di immergersi in foreste dense e di attraversare corsi d'acqua vivaci. L'area circostante le cascate è stata designata come riserva integrale, garantendo così la sua conservazione e protezione. Questa regione ospita anche la preziosa faggeta di Valle Infernale, un sito riconosciuto dall'UNESCO per la sua importanza ecologica e naturalistica.\n\nPer chi desidera visitare le Cascate di Forgiarelle, è consigliabile fare riferimento a guide locali o a mappe dettagliate, poiché il territorio può essere impegnativo e, in alcuni tratti, privo di segnaletica adeguata. Tuttavia, l'esperienza di visitare queste cascate e di immergersi nella natura incontaminata dell'Aspromonte è impareggiabile e rappresenta un'opportunità unica per apprezzare la bellezza selvaggia e inesplorata della Calabria."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Ciceri e tagghiarini",
+      "1": "Cordelle",
+      "2": "Grigliate di suino nero di Calabria",
+      "3": "capra alla “Vutana”."
+    },
+    "dove_mangiare": {
+      "0": "Primo Fiore Cafè: Location situata in prossimità della piazza mercato di Bovalino Marina.Ottima accoglienza da parte del personale di sala, cordialissimo e attento a soddisfare con il sorriso ogni esigenza del cliente. Cucina raffinata, piatti ottimi e ben presentati. Complimenti a tutto lo staff, in particolare al Sig. Gianni 👏👏👏👏 Consiglio vivamente",
+      "1": "La mia hostaria by tony marra: Tony Marra: uno chef da 10 stelle.\nGiovanna Sollazzo: una insostituibile aiutante.\nUn piccolo ma accogliente locale, arredato con semplicità e buon gusto, per pochi intimi.\nLa sua cucina rappresenta l’incontro ideale tra armonia, leggerezza, consistenze, colori e profumi. Nei suoi piatti le materie prime sono grandi protagoniste di ricette tradizionali soprattutto calabresi, rivisitate con eccezionale fantasia creativa, che esaltano il gusto e le qualità organolettiche di ogni singolo ingrediente.\nPrezzi modesti.",
+      "2": "Ristorante \"Do' Priuri\": Bella hosteria di campagna con terrazzo sui tetti del borgo, antipasti della tradizione locale buoni e abbondanti paste ben condite, vino locale sfuso di qualità migliorabile, gelato finale superlativo anzi direi indimenticabile. Servizio essenziale ma veloce,rapporto qualità prezzo ottimo.",
+      "3": "Lutipico: Locale tipico nel piccolo borgo di Castelsaraceno. Si trova sulla via principale, di facile accesso con possibilità di parcheggio nei pressi dello stesso. Possibilità di pranzare sia dentro che fuori; personale molto cordiale. Ordiniamo degli hamburger (luberger) nelle diverse presentazioni offerte dalla proprietaria con abbinamenti tipici sia di carne che latticini locali avvolti in pan pizza a lunga lievitazione. Ottima come idea ma secondo me da rivisitare sotto l'aspetto delle quantità riferite al lardo che era praticamente invisibile dalla estrema sottigliezza di taglio che con la cottura tende a scomparire e all'aggiungere delle salse o altro mantenendo il tipico in modo da rendere più succoso, appetibile e facilmente mangiabile il panino. Prezzi leggermente sopra la media"
+    }
+  },
+  "dove_dormire": {
+    "0": "La Suite del Borgo: Situato nel Borgo, la zona più bella di Bovalino, l'appartamento è in un'eccellente posizione e dista pochi minuti a piedi dal mare. Nuovo, molto ben curato, dotato di posto auto - ne siamo rimasti davvero soddisfatti, anche grazie alla cortesia dei proprietari.",
+    "1": "Ciccio apartment: appartamento pulitissimo. proprietario molto cordiali e disponibile.\nall’interno dell’appartamento c’è tutto il necessario per la vacanza.\nLo consiglio.",
+    "2": "La casa di Donna Ciccina: Casa molto grande pulita e attrezzata un po di tutto.una terrazza stupenda con un panorama unico.lo staff molto gentile e contattabile.\nCasa situata in un posto di immensa tranquillita'."
+  }
+}
