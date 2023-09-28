@@ -1,0 +1,85 @@
+{
+  "titolo_dell'articolo": "Sentiero Cascate del Maesano da Diga del Menta - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Cascate del Maesano",
+    "citta_di_partenza": "Roccaforte del Greco",
+    "provincia_di_partenza": "Reggio Calabria",
+    "regione_di_partenza": "Calabria",
+    "catena_montuosa_o_parco": "Parco Nazionale dell'Aspromonte",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "CAI 132",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/cascate-maesano-82106051",
+    "attrazioni_percorso": {
+      "0": "Diga del Menta",
+      "1": "Cascate del Maesano"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "6.5 km",
+    "altitudine_min_percorso": "1420 m",
+    "altitudine_max_percorso": "1220 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Diga del Menta",
+    "punto_arrivo_percorso": "Diga del Menta",
+    "dislivello_positivo_percorso": "270 m",
+    "dislivello_negativo_percorso": "270 m",
+    "tempo_medio_stimato_percorso": "2 ore 30 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato",
+      "1": "Roccioso"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "primavera"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Pino Locarito",
+      "2": "Agrifoglio",
+      "3": "Felce Preistorica",
+      "4": "Faggi"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Diga del Menta",
+      "descrizione": "Nel cuore del Parco Nazionale dell’Aspromonte, sorge la Diga del Menta, un capolavoro ingegneristico situato a 1431 metri sul livello del mare nel comune di Roccaforte del Greco. Questa struttura imponente, con un bacino di 14 km e una capacità di 17,9 milioni di metri cubi, è parte integrante di un avanzato sistema idrico che comprende una galleria di derivazione, una condotta forzata, una centrale idroelettrica e un impianto di potabilizzazione, essenziali per fornire acqua a Reggio Calabria e limitare l'intrusione salina nelle falde. La sua costruzione, iniziata negli anni '70 e completata nel 2018, è frutto della collaborazione tra diverse entità, tra cui la Casmez, la Regione Calabria e SORICAL. Caratterizzata da innovazione e sostenibilità, la Diga del Menta non solo è un esempio di tecnologia con la sua struttura in rockfill e l'impianto di potabilizzazione unico in Calabria, ma mira anche a un futuro più verde attraverso la riduzione dei consumi energetici, la produzione di energia da fonti rinnovabili e la diminuzione dell'impronta di CO2. Ogni sorso d'acqua a Reggio Calabria è un tributo a questa straordinaria opera che simboleggia progresso e sostenibilità."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Cascate del Maesano",
+      "descrizione": "Nel cuore selvaggio e incontaminato del Parco Nazionale dell'Aspromonte, in Calabria, si celano le affascinanti Cascate del Maesano. Questo angolo di paradiso naturale, noto anche come Cascate dell’Amendolea o con il più antico nome di \"schicciu da Spana\", rappresenta una meta imperdibile per chi desidera immergersi nella bellezza pura della natura.\r\n\r\nLe cascate, formate da tre salti maestosi, terminano in altrettante pozze scavate nel corso dei secoli dall’acqua sulla roccia, creando uno spettacolo naturale di rara bellezza. Il rumore dell'acqua che si infrange contro le rocce e il panorama mozzafiato del lago creato dalla diga sul Torrente Menta contribuiscono a rendere l'esperienza indimenticabile.\r\n\r\nRaggiungere questo gioiello nascosto è un'avventura avvincente. I sentieri, immersi nella ricca flora e fauna dell'Aspromonte, si snodano tra paesaggi vari e affascinanti. Sebbene il percorso sia breve, è necessaria un'attenzione particolare a causa di alcuni tratti in frana. Ma la fatica e la cautela vengono ampiamente ripagate dalla vista delle cascate e dalla serenità del luogo.\r\n\r\nUna curiosità che avvolge le Cascate del Maesano riguarda il loro nome. \"Schicciu da Spana\" è il vero nome, come attestato da una carta del 1874. Il termine \"spanu\", secondo l’interpretazione del glottologo Gerhard Rohlfs, deriva dal greco e significa “rado, senza vegetazione”, un riferimento perfetto all'ambiente circostante le cascate.\r\n\r\nQuesto luogo magico è un invito aperto a esplorare e apprezzare la bellezza selvaggia dell'Aspromonte. Che siate amanti della natura, appassionati di storia o semplicemente alla ricerca di un'avventura, le Cascate del Maesano sapranno conquistarvi. Ogni angolo del Parco Nazionale dell'Aspromonte nasconde meraviglie e segreti, pronti a essere scoperti da chi è disposto ad avventurarsi."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Bucatini cu u stoccu",
+      "1": "Cordeddi cu sucu",
+      "2": "I Ricchi i previti",
+      "3": "Carne di capra alla vutana",
+      "4": "Frittole e Curcùci",
+      "5": "Pisci Stoccu a gghiotta",
+      "6": "Pisci spata ‘rustùtu cu’sarmorìgghiu"
+    },
+    "dove_mangiare": {
+      "0": "Trattoria Greca: La trattoria non so se sia aperta tutti i giorni o solo su prenotazione. Noi per sicurezza abbiamo chiamato la cuoca, la signora Carmela, un paio di giorni prima ed è stata molto disponibile. La cucina è di qualità, con ingredienti genuini e dell'orto dei proprietari. Il menù è tradizionale con antipasto calabrese, primo al sugo di capra o pomodoro, secondo di capra o grigliata di maiale. Le porzioni sono abbondanti.\nAvevamo con noi anche molti bambini e hanno avuto un menù baby con pasta al pomodoro, cotoletta e patatine fritte, tagliate a mano e non surgelate. I proprietari sono molto gentili, pazienti e soprattutto onesti. Il conto è stato molto contenuto rispetto a quello che abbiamo mangiato.\nSi respira un'aria di altri tempi: pace, gioia e felicità ancestrale.\nEravamo in tanti e siamo rimasti tutti molto soddisfatti. Un'esperienza che sicuramente consiglio.",
+      "1": "Cooperativa San Leo: Il locale è posto ai piedi di Bova, un paesino ricco di favolose sorprese: panorami incantati ed una enorme vera locomotiva in piazza! Si mangia divinamente prodotti locali da animali di allevamento all'aria aperta condito il tutto da eccellenti vini bianchi e rossi. Sazi da scoppiare e sollevati da un amaro alla liquirizia da brivido. Gli antipasti non finivano mai ma di loro non rimaneva che l'educazione. Eccellente tutto e il servizio era familiare col sorriso e sempre pronti a rabboccare. Non perdetevi questa opportunità!",
+      "2": "Degustazione Al Borgo di Mafrica Marcello\n: Non riuscirei a descrivere le tante prelibatezze che ho potuto degustare in questo agreste locale ma mi corre l'obbligo di comunicare immediatamente che è super consigliato per l'accoglienza dello staff , proprietario e dei simpatici ospiti presenti all'interno. Che dire, è d'obbligo una pausa anche per apprezzare magnifiche vedute che si scorgono da uno dei borghi più belli d'Italia."
+    }
+  },
+  "dove_dormire": {
+    "0": "B&B La Greka: Camera spaziosa e confortevole.\nColazione ricchissima.\nIn particolare, il proprietario è simpaticissimo e gentilissimo; ci ha intrattenuti tutta la sera (abbiamo ordinato una pizza da asporto e abbiamo cenato in terrazza) raccontandoci aneddoti vari sul luogo...morti dal ridere!",
+    "1": "Casa San Domenico: Le nostre vacanze in Calabria sono state un successo grazie a questo tranquillo rifugio.\nLa quiete del luogo ci ha permesso di rilassarci completamente e goderci la natura circostante.\nIl cibo locale è stato una delizia, e l'affettuosa accoglienza dei locali ha reso il nostro soggiorno indimenticabile.\nGrazie alle loro preziose indicazioni, abbiamo scoperto le attrazioni più belle della zona.\nSe cerchi un posto autentico per una fuga dalla routine, casa San Domenico è il luogo perfetto!\nVorrei esprimere i miei i miei più sinceri complimenti alla signora Concetta per la sua ospitalità straordinaria! La sua gentilezza e premura nel farci sentire a casa sono state davvero apprezzate.\nRingrazio anche Mario per la sua dedizione a farci riconoscere e sentire benvenuti, ha reso il nostro soggiorno indimenticabile.\nGrazie a tutta Condofuri per aver reso la nostra esperienza così piacevole e memorabile."
+  }
+}
