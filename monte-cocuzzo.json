@@ -1,0 +1,87 @@
+{
+  "titolo_dell'articolo": "Sentiero Monte Cocuzzo da Mendicino - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Monte Cocuzzo",
+    "citta_di_partenza": "Mendicino",
+    "provincia_di_partenza": "Cosenza",
+    "regione_di_partenza": "Calabria",
+    "catena_montuosa_o_parco": "Catena Costiera Paolana",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "CAI 815",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/le-cime-gemelle-del-monte-alpi-pizzo-falcone-1900-m-e-santa-croce-1893-m-da-bosco-favino-84376406#wp-84376409",
+    "attrazioni_percorso": {
+      "0": "Monte Cocuzzo"
+    },
+    "panorama_percorso": {
+      "0": "dalle Isole Eolie al Pollino",
+      "1": "dalla Valle del Crati alla Sila"
+    },
+    "lunghezza_percorso": "8.8 km",
+    "altitudine_min_percorso": "1541 m",
+    "altitudine_max_percorso": "1062 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "casa della Forestale",
+    "punto_arrivo_percorso": "casa della Forestale",
+    "dislivello_positivo_percorso": "655 m",
+    "dislivello_negativo_percorso": "655 m",
+    "tempo_medio_stimato_percorso": "4 ore 45 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Castagno",
+      "2": "Agrigoglio",
+      "3": "Ginestre",
+      "4": "Cardomariano",
+      "5": "Viole",
+      "6": "Primule",
+      "7": "Orchidee",
+      "8": "Felce"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Monte Cocuzzo",
+      "descrizione": "Il Monte Cocuzzo, con la sua vetta che si erge a 1541 metri sul livello del mare, è una delle cime più affascinanti della Calabria. Ma cosa rende questa montagna così speciale e degna di nota? Scopriamolo insieme.\r\n\r\nOrigini e Geologia\r\n\r\nLa montagna è di formazione dolomitica, un tipo di roccia sedimentaria composta principalmente di carbonato di calcio e magnesio. Questa particolare composizione le conferisce una caratteristica forma di muraglia compatta, che si mantiene tra i 1100 e i 1300 metri di quota. La sua struttura è simile a un'enorme piramide calcarea, segnata da formazioni superficiali di erosione carsica. Questo fenomeno geologico ha portato alla formazione di profonde doline, depressioni tipiche delle aree carsiche.\r\n\r\nUn Pizzico di Storia e Curiosità\r\n\r\nIl nome \"Cocuzzo\" ha origini antiche e deriva dal latino \"Cacutium\", che significa \"cattiva forma\". Questa denominazione potrebbe essere stata attribuita a causa della sua forma conica, che in antichità poteva far pensare che si trattasse di un vulcano. Questa supposizione ha dato vita, durante il Medioevo, al \"mito della montagna di fuoco\", rendendo il Monte Cocuzzo avvolto da un alone di mistero e fascino.\r\n\r\nUn Panorama Senza Paragoni\r\n\r\nDal punto di vista paesaggistico, il Monte Cocuzzo è uno dei più incantevoli belvederi della Calabria. Dalla sua cima, si può godere di una vista mozzafiato sulla costa tirrenica, che si estende dal promontorio del Cilento a nord, fino a Capo Vaticano a sud. In giornate particolarmente limpide, è possibile scorgere anche le Isole Eolie e l'imponente vulcano dell'Etna, nonché le catene montuose del Pollino e della Sila.\r\n\r\nClima e Ambiente\r\n\r\nIl clima della Catena Costiera, dove si trova il Monte Cocuzzo, è caratterizzato da inverni freschi e piovosi e estati calde e asciutte. Le correnti caldo-umide provenienti dal Mar Tirreno sono bloccate dalle vette della montagna, creando un ambiente ideale per una vegetazione di montagna anche a quote basse. Le precipitazioni possono superare i 2000 mm all'anno, con una media estiva di circa 120 mm. Le temperature variano notevolmente tra la costa e l'interno: mentre in inverno la media sulla costa è di 10°C, nelle zone interne può scendere fino a 4°C. D'estate, la media si aggira intorno ai 24°C.\r\n\r\nIn conclusione, il Monte Cocuzzo non è solo un luogo di straordinaria bellezza paesaggistica, ma anche un tesoro geologico e climatico. La sua storia, le sue curiosità e il suo ambiente lo rendono una destinazione imperdibile per chiunque visiti la Calabria.\r\n\r\n\r\n\r\n\r"
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Cuccìa mendicinese",
+      "1": "Pasta con la Mollica",
+      "2": "panettieddri",
+      "3": "Cacocciuli ca' pasta",
+      "4": "Maccarruni ca sarsa",
+      "5": "Lagane e ciciar"
+    },
+    "dove_mangiare": {
+      "0": "La Locanda Del Paese\n: Dagli antipasti al dolce, passando per le strepitose pizze e panini, il tutto corrisponde un viaggio onirico per il palato. Proposte di pizze (anche con bordo ripieno) eccezionali e assai variegate, in base alla stagionalità degli ingredienti (rigorosamente freschi e del territorio). Abbinamenti innovativi e mai banali. Gentilezza e disponibilità dei proprietari la fanno sempre da padroni, anche nei giorni più affollati. Location nel centro storico parecchio suggestiva.\nAssolutamente da non perdere!",
+      "1": "Aquila Reale: Posto meraviglioso dal gusto rustico, una location armoniosa.\nCibo di prima qualità cucinata al momento preparata con amore dalla signora Anna.\nPiatti abbondanti e molto curati.\nAnche menù a richiesta.\nLa cordialità e la disponibilità dei camerieri mettono a proprio agio la clientela.... È il TOP da tutti i punti di vista!",
+      "2": "Girone dei Golosi\n: Ristorante con la R maiuscola, non ho trovato nulla fuori posto.\nLocation curata e ben tenuta; menù ricco di proposte e completo di ogni informazione per il cliente; pietanze con prodotti di prima scelta, presentati con cura; servizio impeccabile e discreto; Conto giusto...\nPenso di ritornare a provare il menù di carne, oggi ho apprezzato tutte pietanze a base di pesce"
+    }
+  },
+  "dove_dormire": {
+    "0": "B&B A casa di Carla: Casa accogliente, ottima pulizia e molto silenziosa.\r\nLa signora Carla è stata molto accogliente e premurosa. I suoi dolci ottimi e ricca la colazione. Ci ha accolto offrendoci una bella bottiglie di vino molto apprezzata! Il giardinetto esterno offre la possibilità di rilassarsi.\r\nLa consiglio vivamente",
+    "1": "B&B Continanza: Ogni aspetto dell'appartamento è curato nei minimi dettagli: dall'accoglienza al comfort non manca proprio niente per soddisfare i bisogni e le necessità anche dei più esigenti. Rapporto qualità/prezzo favoloso in un contesto paesaggistico letteralmente stupendo.\r\nCastelsaraceno è un borgo incantato non soltanto per il ponte e le bellezze ma per la gente del luogo. La struttura ne è una sintesi perfetta a cominciare dai proprietari, fratello e sorella, che sono di una cortesia e una premura uniche.",
+    "2": "TibetiAmo: Soluzione perfetta per la nostra famiglia, accoglienza super professionale, comodo sia per ponte che per Bosco Favino, terrazza TOP per momenti di relax pomeridiano.",
+    "3": "B&B Rosy Gallo: Ospitalità e la simpatia della signora Rosy che ci ha coccolato con i suoi dolci casalinghi ,ottima posizione per fare il ponte tibetano. Un grazie da tutti noi .Lo consiglio vivamente"
+  }
+}
