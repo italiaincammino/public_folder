@@ -1,0 +1,87 @@
+{
+  "titolo_dell'articolo": "Sentiero Monte Sellaro da Santuario Santa Maria delle Armi - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Monte Sellaro",
+    "citta_di_partenza": "Cerchiara di Calabria",
+    "provincia_di_partenza": "Cosenza",
+    "regione_di_partenza": "Calabria",
+    "catena_montuosa_o_parco": "Parco Nazionale del Pollino",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "CAI 949",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/le-cime-gemelle-del-monte-alpi-pizzo-falcone-1900-m-e-santa-croce-1893-m-da-bosco-favino-84376406#wp-84376409",
+    "attrazioni_percorso": {
+      "0": "Santuario Santa Maria delle Armi",
+      "1": "Passo del Sellaro",
+      "2": "Monte Sellaro"
+    },
+    "panorama_percorso": {
+      "0": "monti dell’Orsomarso",
+      "1": "piana di Sibari",
+      "2": "Mar Ionio"
+    },
+    "lunghezza_percorso": "4 km",
+    "altitudine_min_percorso": "1439 m",
+    "altitudine_max_percorso": "1014 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Santuario Santa Maria delle Armi",
+    "punto_arrivo_percorso": "Santuario Santa Maria delle Armi",
+    "dislivello_positivo_percorso": "420 m",
+    "dislivello_negativo_percorso": "420 m",
+    "tempo_medio_stimato_percorso": "2 ore 0 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Pino Loricato"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Santa Maria delle Armi",
+      "descrizione": "Ubicato nelle adiacenze di Cerchiara di Calabria, il complesso monumentale noto come il Santuario di Santa Maria delle Armi si erge maestoso sulle pendici del monte Sellaro, a un'altitudine di 1015 m s.l.m., offrendo una vista panoramica sulla pianura di Sibari e il golfo di Taranto. Questa struttura, di radici medievali, vanta una ricca storia e leggende affascinanti.\r\n\r\nNome e Origini\r\nIl nome \"Madonna delle Armi\" trae origine dal termine greco Των αρμων (Tōn armōn), che si traduce come \"delle grotte\" o \"degli anfratti\", facendo riferimento alle caverne presenti sul monte Sellaro.\r\n\r\nStoria e Evoluzione\r\nIl luogo su cui attualmente sorge il santuario era inizialmente un sito monastico bizantino, posizionato strategicamente sul monte Sellaro, talvolta chiamato monte santo. Documenti del X secolo, come la Vita di san Saba, citano un monaco dell'ascetario delle Armi e menzionano la vicinanza del rinomato monastero bizantino di Sant'Andrea, sotto la guida degli abati Pacomio e san Gregorio da Cerchiara.\r\n\r\nNel 1192, una generosa donazione da parte di Gervasio Cabita, un abbiente residente di Cerchiara, menzionava il monastero femminile di Santa Maria delle Armi tra i beneficiari. Dopo un periodo di possibile abbandono nel XV secolo, il sito è tornato ad essere un punto focale di pellegrinaggi.\r\n\r\nNel 1517, Marino Tomacelli di Napoli, vescovo di Cassano, concesse il giuspatronato della chiesa alla Universitas Civium Circlarii (l'antico comune di Cerchiara) in seguito a significativi lavori di ristrutturazione. Da quel momento, il complesso monumentale fu ulteriormente arricchito grazie alle donazioni dei signori di Cerchiara, i principi Sanseverino di Bisignano e i Pignatelli di Cerchiara.\r\n\r\nLeggende e Credenze\r\nUna leggenda datata 1450 narra di cacciatori di Rossano che, seguendo una cerva, scoprirono due icone lignee raffiguranti i Santi evangelisti in una grotta del monte Sellaro. Nonostante tentativi di trasferire le icone a Rossano, queste sparivano, ricomparendo sempre nel luogo originale, portando alla costruzione di una cappella in loco. Una pietra ovale, rotta da un fabbro irritato, rivelò immagini sacre, una delle quali è ancora custodita nel santuario.\r\n\r\nFestività e Celebrazioni\r\nIl 25 aprile si svolge la festa religiosa in onore della Madonna delle Armi, caratterizzata da una processione montuosa e festeggiamenti nei boschi circostanti. Questa tradizione fu stabilita nel 1846, quando gli abitanti di Cerchiara ricevettero una grazia attraverso l'intercessione della Madonna, salvando il raccolto dalla calura.\r\n\r\nGestione e Organizzazione\r\nDal XVI secolo, il santuario è stato gestito dai rappresentanti della comunità civica di Cerchiara e attualmente è diretto da una Fondazione, riconosciuta e iscritta all'elenco speciale della Regione Calabria.\r\n\r\nDettagli e Aneddoti\r\nAll'interno del santuario, una lapide nella Cappella Pignatelli commemora Valerio Pignatelli di Cerchiara, autore di romanzi ambientati nell'epoca napoleonica e figura sia straordinaria che controversa."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Monte Sellaro",
+      "descrizione": "Situato nel comune di Cerchiara di Calabria, il Monte Sellaro si erge a 1439 m s.l.m. e domina il Santuario di Santa Maria delle Armi. Questa vetta rappresenta uno dei picchi distintivi sia del Massiccio del Pollino Orientale che del Parco Nazionale del Pollino.\r\n\r\nCaratterizzato da un territorio carsico, il Monte Sellaro vanta una serie di cavità e formazioni naturali. Tra queste, l'Abisso del Bifurto si distingue come un inghiottitoio che si estende per 680 metri sotto terra, classificandosi come la quarantesima grotta più profonda del mondo.\r\n\r\nPer quanto riguarda l'origine del suo nome, si ritiene che derivi dalla pratica antica degli abitanti locali di sellare muli e cavalli alle sue pendici, prima di dirigersi verso la Piana di Sibari e le valli limitrofe."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "tiedda 'e carciofini servaggi",
+      "1": "carciofini servaggi",
+      "2": "capretto all'origano",
+      "3": "lagane all'ascensione",
+      "4": "insalata di acciughe",
+      "5": "Zeppole",
+      "6": "Croccante di Mandorle"
+    },
+    "dove_mangiare": {
+      "0": "Osteria del Baccalà: Locale informale ma ben curato, proprietarie gentilissime e molto cortesi. Abbiamo assaggiato diversi piatti a Base di baccalà tutti squisiti! Fiore all'occhiello è senz'altro il Baccalà mantecato, molto delicato una vera goduria. Ottima anche l'insalata di baccalà e le frittelle. Fritte benissimo, croccanti e leggere. È evidente l'accuratezza con cui vengono scelte le materie prime e la passione e la cura con cui vengono cucinate. Tutto estremamente gustoso e leggero.\r\nÈ la seconda volta che mangiamo in questo locale e ogni volta ci stupisce. Complimenti per la gestione, un piccolo gioiello del Pollino.",
+      "1": "Ristorante Kamastra di Civita: La kamastra è il cuore pulsante di Civita. Non solo perché è situata proprio al centro del paese ma anche perché è gestita da un uomo che è la memoria storica delle sue più belle tradizioni gastronomiche e culturali: Enzo Filardi.\r\nSe partite da Civita senza aver scambiato almeno due parole con Enzo, avrete perso un pezzo dell’anima di questo particolarissimo borgo.\r\nLa kamastra rispecchia la personalità di Enzo: piatti che affondano nella tradizione albanese presentati con gusto e modernità. Antipasti abbondanti e deliziosi, ottimi i primi e i dolci, buonissimo il vino, strepitoso il loro amaro fatto in casa.\r\nDa non perdere!!!",
+      "2": "Agora: Ottimi cibi locali, atmosfera cordiale, professionale e familiare allo stesso tempo. Ottimi antipasti e primi fatti in casa."
+    }
+  },
+  "dove_dormire": {
+    "0": "Antica Dimora Palazzo Rovitti: L'accoglienza è stata ottima, mi sono sentita coccolata e apprezzata...sono ripartita con la sicurezza di avere degli amici in più...il posto è ottimo per chi soffre il caldo, in mezzo alle montagne, (dove vengono organizzate escursioni)...lontano da rumori cittadini.... in venti minuti si può arrivare al mare, dove si possono trovare spiagge attrezzate o libere nel caso si preferiscano, ideale per riposarsi dallo stress accumulato durante l'anno.\r\n\r\n",
+    "1": "Casa dell'Escursionista: La bellezza di Cerchiara e l'accurata accoglienza dei proprietari ti fanno assaporare tutta la poesia della Calabria. Casa pulita e molto ordinata con affaccio sulla montagna e al tempo stesso sul mare. Situata in posizione strategica per chi vuole delle bellezze culturali e paesaggistiche della Sibaritide.\nColazione con crostata fatta in casa,fichi appena colti e prugne autoctone.\nConsigliatissimo:)"
+  }
+}
