@@ -1,0 +1,81 @@
+{
+  "titolo_dell'articolo": "Sentiero Povera Mosca da Orsomarso - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Povera Mosca",
+    "citta_di_partenza": "Orsomarso",
+    "provincia_di_partenza": "Orsomarso",
+    "regione_di_partenza": "Calabria",
+    "catena_montuosa_o_parco": "Riserva naturale Valle del Fiume Argentino",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "IPV7",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/circuito-povera-mosca-fiume-argentino-ipv7-75027316",
+    "attrazioni_percorso": {
+      "0": "Fiume Argentino",
+      "1": "Cascata Ficara",
+      "2": "Rifugio Povera Mosca"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "17 km",
+    "altitudine_min_percorso": "600 m",
+    "altitudine_max_percorso": "120 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "La Costa Ristorante B&B",
+    "punto_arrivo_percorso": "La Costa Ristorante B&B",
+    "dislivello_positivo_percorso": "655 m",
+    "dislivello_negativo_percorso": "655 m",
+    "tempo_medio_stimato_percorso": "5 ore 45 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "cerro",
+      "2": "ontano",
+      "3": "frassino",
+      "4": "lecci"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Riserva Naturale Statale della Valle del Fiume Argentino",
+      "descrizione": "Ubicata sui monti di Orsomarso, la Riserva Naturale Orientata del fiume Argentino emerge come un gioiello nel versante più incontaminato del Parco Nazionale del Pollino, nell'alto Tirreno cosentino. L'istituzione di questa riserva è stata possibile grazie alla richiesta degli abitanti locali al Ministero dell'Agricoltura e Foreste, dimostrando una notevole sensibilità e un profondo attaccamento al loro territorio, con l'obiettivo di proteggere e preservare questo ambiente ancora puro e inalterato.\r\n\r\nLa zona protetta, che si estende dalla parte superiore del bacino del fiume Argentino, dalle sue sorgenti fino a circa un chilometro dall'abitato di Orsomarso, è caratterizzata da un'alternanza di pareti rocciose e piccole valli, attraversate dallo stesso fiume. Il fiume Argentino, così denominato per la straordinaria chiarezza delle sue acque e i suoi riflessi argentei, scorre per 20 km, alimentato da numerosi rigagnoli e cascate, tra cui la nota cascata della \"Ficara\", fino a confluire nel Fiume Lao, creando un ambiente umido che favorisce la crescita della vegetazione.\r\n\r\nL'obiettivo principale della riserva è mantenere un habitat favorevole per il capriolo autoctono e il lupo, con una geologia che riflette le caratteristiche selcifero-marnose dell'area di Verbicaro e quelle calcareo-dolomitiche della catena del Pollino. Un elemento distintivo della Riserva è la \"Pietra Campanara\", una stele di calcare situata nella parte più elevata dell'area protetta."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Kavatìeddi",
+      "1": "Rafajùoli",
+      "2": "Lagan e Fasul",
+      "3": "Lainu chi patan",
+      "4": "Trippa e Fasul"
+    },
+    "dove_mangiare": {
+      "0": "Azienda Agrituristica La Rondinella: Location molto curata e pulita sopratutto l’esterno dove vivono gli animali!\r\nMenù eccezionale , tutto molto abbondante e buonissimo . Prodotti a km0 e salumi favolosi ! Ottimo vino .. conto inferiore a quanto ci aspettavamo! Personale molto gentile e preparato , è stato davvero un piacere pranzare qui !",
+      "1": "U Catuvu: Ristorante a menu fisso con prodotti tipici, roba casalinga cucina ottimamente. Dagli antipasti al dolce (incluso il vino che ti puoi servire liberamente da una botte incastonata nel muro) tutto buonissimo e abbondante. Gentilissimo e disponibile il titolare che ci ha fatto passare un ottima serata. Consiglio di telefonare in anticipo visto che aprono solo su prenotazione, ma vi assicuro che ne vale la pena!",
+      "2": "La Rondinella: Locale molto carino nel centro della città! Abbiamo scelto di provare il menu degustazione, esperienza bellissima!\r\nPiatti davvero buonissimi preparati con cura e attenzione ai dettagli, ottimo accostamento di vini con i piatti proposti!\r\nPersonale di sala competente gentile e solare!\r\nOttimo rapporto qualità prezzo.\r\nAssolutamente consigliato.",
+      "3": "Golden Park Ranch: Luogo ameno con tanto verde e corsi d'acqua. La struttura è in armonia con la natura e i proprietari sono persone disponibili e amichevoli. Area camping,  ristorante tipico (ottimo) e ottima posizione anche da raggiungere a piedi. Situato vicino al borgo di Orsomarso e all'imbocco del sentiero che porta alla riserva naturale del fiume argentino."
+    }
+  },
+  "dove_dormire": {
+    "0": "B&B SAN NILO: Struttura piccola e accogliente, personale simpatico, gentile e disponibile, siamo rimasti molto contenti del nostro pernottamento. Il paese di Orsomarso una piacevole sorpresa, consiglio di visitare il borgo e la cascata della ficara a pochi km distante. Da ritornarci\r\n\r\n",
+    "1": "Argentino Minimal Room: Nuovo e pulito piccolo appartamentino comodo e confortevole per due persone, dotato di bagno molto funzionale, e di un angolo con lavello e di un bollitore per la colazione. Proprietario disponile e molto cordiale. Molto bello il borgo a poca distanza dalle attrazioni naturalistiche che il parco del Pollino offre. Ci siamo trovati bene. Suggerirei l’installazione della TV.",
+    "2": "Affittacamere LA COSTA Risthotel: Camera standard molto fresca non vi è alcun bisogno di accendere l'aria condizionata. Personale molto accogliente e cordiale, servizi ottimi compresa la ristorazione. Dista dal mare 15 minuti raggiungibile in macchina."
+  }
+}
