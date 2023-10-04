@@ -1,0 +1,85 @@
+{
+  "titolo_dell'articolo": "Sentiero Pietra Cappa da Natile Vecchio - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Pietra Cappa",
+    "citta_di_partenza": "Natile Vecchio",
+    "provincia_di_partenza": "Reggio Calabria",
+    "regione_di_partenza": "Calabria",
+    "catena_montuosa_o_parco": "Parco Nazionale del Pollino",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "CAI 105",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/natile-vecchio-pietra-cappa-115187518",
+    "attrazioni_percorso": {
+      "0": "Rocce di San Pietro",
+      "1": "Giganti di San Giorgio (castagni secolari)",
+      "2": "Pietra Cappa"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "9.2 km",
+    "altitudine_min_percorso": "835 m",
+    "altitudine_max_percorso": "258 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Via Fontana",
+    "punto_arrivo_percorso": "Via Fontana",
+    "dislivello_positivo_percorso": "650 m",
+    "dislivello_negativo_percorso": "650 m",
+    "tempo_medio_stimato_percorso": "4 ore 30 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato",
+      "1": "Alpino"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "primavera",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Castagni",
+      "2": "Pino Loricato"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Rocce di San Pietro",
+      "descrizione": "Nel cuore dell'Aspromonte, la tradizione si intreccia con la storia. Si racconta che, durante la loro missione evangelica, Cristo e i suoi apostoli giunsero in queste terre maestose. In un gesto simbolico, raccolsero pietre dal terreno. Miracolosamente, Gesù le trasformò in pane, tranne quella di Pietro, che divenne un imponente masso. Questo sassolino, amplificato dal pentimento di Pietro, divenne un monolite dominante, e secondo la leggenda, al suo interno risuonano ancora i lamenti di una guardia che aveva offeso Gesù.\r\n\r\nIl nome \"Pietro\" ha origini profonde, derivando dall'aramaico \"kephà\", che significa \"forte come una roccia\". Questa narrativa affascinante trova eco nelle Rocce di San Pietro, formazioni rocciose che portano il nome dell'apostolo scelto come fondamento della Chiesa. E non possiamo dimenticare la Pietra Cappa, un geosito di fama mondiale, che sembra emergere direttamente dalle pagine di questa leggenda.\r\n\r\nLa Vallata delle Grandi Pietre non è solo un luogo di bellezza naturale, ma anche un tesoro di significati storici e spirituali. Le Rocce di San Pietro e la Pietra Tonda, con le loro superfici levigate e le cavità uniche, sono incorniciate da foreste lussureggianti, rendendo questo geosito un must per gli amanti della natura.\r\n\r\nDal punto di vista geologico, queste formazioni risalgono all'oligocene, collegandosi a depositi simili in Sardegna e Piemonte. Queste rocce raccontano una storia di 30 milioni di anni fa, quando un vasto ambiente sedimentario si estendeva tra Francia e Piemonte, prima di essere trasportato nell'attuale Aspromonte."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Pietra Cappa",
+      "descrizione": "Pietra Cappa, conosciuta come la \"Grande Pietra del Geoparco dell'Aspromonte\", rappresenta un vero e proprio simbolo della grandiosità della natura, dei suoi elementi e dei suoi processi millenari. Questo ammasso roccioso conglomeratico, dalla forma imponente e tondeggiante, si distingue nettamente dalla selvaggia morfologia tipica dell'Aspromonte. Immersa nel verde rigoglioso dei boschi circostanti, Pietra Cappa emana un'energia misteriosa, avvertibile anche a distanza, e si presenta avvolta da miti e leggende. È l'icona del paesaggio geologico \"Valli delle Grandi Pietre\", situato nell'unico territorio dell'Aspromonte orientale, incastonato tra le vallate della Fiumara Bonamico a sud e della Fiumara Careri a nord.\r\n\r\nModellata nel corso dei millenni dalle forze geologiche, Pietra Cappa è il più alto esempio di \"butte\" in Europa, caratterizzata da fianchi quasi verticali (altezza oltre 100 metri) e una sommità pianeggiante. La sua particolare forma è il frutto del passaggio tra rocce ben cementate e rocce facilmente erodibili, risalenti all'Oligocene (33-23 milioni di anni fa).\r\n\r\nLa sua presenza è documentata fin dal Medioevo, con antichi documenti che fanno riferimento a \"pietra Gauca\" o \"pietra vuota\". Questo nome non solo si riferisce a Pietra Cappa, ma anche all'intera area circostante, ricca di insediamenti rupestri, formazioni rocciose e grotte che evocano i paesaggi della Cappadocia, storica regione dell'Asia Minore.\r\n\r\nIl nome \"Cappa\" sembra derivare da \"coppa rovesciata\", in allusione a una cavità leggendaria nascosta al suo interno. Secondo la leggenda, in questa cavità sarebbe stato imprigionato Malco, servo del Sommo Sacerdote, reo di aver schiaffeggiato Gesù e a cui San Pietro tagliò un orecchio. Scoprire Pietra Cappa significa immergersi in un viaggio tra storia, natura e mistero, in una delle aree geologiche più affascinanti d'Italia."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": " Biscotti all'anice",
+      "1": "Broccoletti al forno",
+      "2": "Pasta con finocchio",
+      "3": "Cullurielli",
+      "4": "Spaghetti all'uso del pescatore",
+      "5": "Zuppa di cipolle rosse alla Capo Vaticano"
+    },
+    "dove_mangiare": {
+      "0": "Ristorante Pizzeria Griglieria il Gusto: Locale rusticò e innovativo allo stesso tempo, dove gustare un gustoso antipasto e dell’ottima carne ti fa sentire proprio nel posto giusto al momento giusto. Antipasto all’altezza della scena che fa quando ti viene portato, salumi, formaggi e prodotti tipici locali. Carne di una qualità come pochi. Tutta carne fresca da poter vedere direttamente nel banco frigo all’entrata del locale. Proprietario nonché pure chef alla mano, grande persona e super gentile, 5 stelle super meritate.  eravamo in 12, servizio ottimo e veloce. Da provare assolutamente. Prezzi ottimi nonostante tutti i rincari del 2022. Ci ritorneremo sicuramente.",
+      "1": "Il Casale del Brigante: Bellissima location, personale competente e molto attivo, cibo buonissimo con porzioni abbondanti, vino buono a volontà. Consigliato al 100% . Prezzo giusto"
+    }
+  },
+  "dove_dormire": {
+    "0": "La Suite del Borgo: Situato nel Borgo, la zona più bella di Bovalino, l'appartamento è in un'eccellente posizione e dista pochi minuti a piedi dal mare. Nuovo, molto ben curato, dotato di posto auto - ne siamo rimasti davvero soddisfatti, anche grazie alla cortesia dei proprietari.",
+    "1": "Ciccio Apartment: «Appartamento perfetto: super accogliente, pulito e dotato di ogni comfort! Grazie davvero a Francesco per la sua disponibilità!! Ci siamo trovati benissimo, consigliato!",
+    "2": "Villa Angel: Sin da subito l'accoglienza di Domenico e della moglie. Casa Grande, pulita, comoda per un gruppo numeroso come il nostro. Completa dei servizi che occorrono per una vacanza. Un bel giardino sia per pranzare/cenare che per fare un bel aperitivo in compagnia. Ottimo il barbecue che abbiamo avviamento usato. Posizione della casa centrale e mare abbastanza vicino da raggiungere tranquillamente a piedi.",
+    "3": "La casa di Donna Ciccina: Casa molto grande pulita e attrezzata un po di tutto.una terrazza stupenda con un panorama unico.lo staff molto gentile e contattabile.\nCasa situata in un posto di immensa tranquillita'.\nPurtroppo siamo potuti rimanere solo una settimana. Ma siamo rimasti molto soddisfatti e appena possibile ci torneremo!"
+  }
+}
