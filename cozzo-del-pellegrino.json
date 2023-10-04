@@ -1,0 +1,94 @@
+{
+  "titolo_dell'articolo": "Sentiero Cozzo del Pellegrino da Piano di Lanzo - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Cozzo del Pellegrino",
+    "citta_di_partenza": "San Donato di Ninea",
+    "provincia_di_partenza": "Cosenza",
+    "regione_di_partenza": "Calabria",
+    "catena_montuosa_o_parco": "Parco Nazionale del Pollino",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "CAI 621",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/le-cime-gemelle-del-monte-alpi-pizzo-falcone-1900-m-e-santa-croce-1893-m-da-bosco-favino-84376406#wp-84376409",
+    "attrazioni_percorso": {
+      "0": "La Calvia",
+      "1": "Cozzo Pellegrino",
+      "2": "Conca di Valle Lupa",
+      "3": "Acqua Marchesano"
+    },
+    "panorama_percorso": {
+      "0": "litorale tirrenico",
+      "1": "Golfo di Sibari",
+      "2": "Mar Ionio",
+      "3": "Isole Eolie",
+      "4": "Calabria Meridionale",
+      "5": "Golfo di Policastro"
+    },
+    "lunghezza_percorso": "10 km",
+    "altitudine_min_percorso": "1987 m",
+    "altitudine_max_percorso": "1351 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Rifugio Piano di Lanzo",
+    "punto_arrivo_percorso": "Rifugio Piano di Lanzo",
+    "dislivello_positivo_percorso": "850 m",
+    "dislivello_negativo_percorso": "850 m",
+    "tempo_medio_stimato_percorso": "5 ore 30 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato",
+      "1": "Roccioso"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Faggi",
+      "2": "Ontani napoletani",
+      "3": "Garofano selvatico"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Cozzo del Pellegrino",
+      "descrizione": "Un viaggio nel cuore del Parco Nazionale del Pollino, dove il Cozzo del Pellegrino, con la sua altezza di 1987 metri, si erge maestoso, tessendo un legame indissolubile con il cielo e la terra. Questa vetta, situata nel comune di San Donato di Ninea, in provincia di Cosenza, non è solo un picco geografico, ma un palcoscenico naturale, un anfiteatro che accoglie al suo interno altre meraviglie come Cozzo dell'Orso e Schiena dei Lacchicelli ad ovest, La Calvia e Serra Paratizzi ad est, delineando con grazia la Valle dell'Abatemarco.\r\n\r\nImmaginate la Carpinosa, un punto dove l'acqua sorgiva inizia il suo viaggio, dando vita al fiume Abatemarco, che con la sua lunghezza di 20 km, accarezza dolcemente la valle, per poi perdersi nel Mar Tirreno. Qui, il tempo ha scolpito con pazienza un canalone nella roccia, creando un percorso che dalla vetta scende fino a 654 metri s.l.m., un viaggio attraverso la roccia che continua a trasformarsi, dove non è raro assistere a una danza di pietre e massi che si staccano per scendere a valle.\r\n\r\nIl Cozzo del Pellegrino, con la sua essenza dolomitica e rocciosa, non è solo un monumento naturale, ma anche un richiamo per avventurieri e amanti dell'alpinismo. La vetta, meta di numerose esplorazioni, promette un panorama che abbraccia il Mar Tirreno a ovest, il Mar Ionio a est, il Massiccio del Pollino a nord e l'Altopiano della Sila a sud, offrendo un quadro visivo che tocca l'anima.\r\n\r\nIl panorama si arricchisce con la vista dei Monti dell'Orsomarso: a nord, il Monte Palanuda e il Monte Caramolo si ergono fieri; a sud-ovest, il Monte La Mula e Montalto delineano il paesaggio; mentre ad ovest, la Valle dell'Abatemarco si apre alla vista, con il Monte Trincello a dominare solitario. E se lo sguardo si perde a nord-ovest, il Piano La Sepa si svela, offrendo una vista mozzafiato sui dirupi di Boccademone, dove il pino loricato, simbolo del Parco Nazionale del Pollino, si aggrappa con forza alle rocce.\r\n\r\nIl Cozzo del Pellegrino non è solo un luogo, ma un'esperienza, un viaggio attraverso la bellezza selvaggia e incontaminata della natura, un'avventura che regala emozioni e panorami che rimarranno impressi nell'anima di chi decide di percorrere i suoi sentieri."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Rifugio Piano di Lanza",
+      "descrizione": "Il Rifugio Piano di Lanzo, posizionato a 1351 m slm, è immerso nella natura del Parco Nazionale del Pollino, precisamente nel territorio di San Donato di Ninea, in provincia di Cosenza. Questo luogo si distingue come una meta ideale per chi desidera assaporare squisite pietanze della cucina tradizionale Calabrese, il tutto avvolto in un'atmosfera di pace e serenità. L'offerta culinaria si basa sia menù giornalieri che opzioni à la carte, sempre fedeli alla filosofia delle tipicità locali a km 0.\n\nIl Rifugio non è solo un paradiso gastronomico, ma anche un punto di riferimento essenziale per gli amanti delle escursioni, offrendo guide ambientali esperte per chi desidera esplorare i monti dell'Orsomarso. Gestito con passione e professionalità da Patrizio e Sabrina, il Rifugio Piano di Lanzo è riconosciuto come il primo rifugio in Calabria ad essere accreditato nella Rete Radio Montana. Nei periodi di presidio, contribuisce attivamente al monitoraggio e all'ascolto radio costante da una postazione fissa sul canale PMR 8.16.\n\nInoltre, il rifugio rappresenta una tappa della ciclovia (SI U 31) e offre la possibilità di organizzare eventi intimi come piccoli banchetti per comunioni, cene aziendali, addii al nubilato/celibato e incontri culturali. Tra le specialità culinarie offerte, spiccano piatti a base di selvaggina, carne di capra, funghi e altri prodotti stagionali rigorosamente a km 0.\n\nAperto tutto l'anno, sia a pranzo che a cena (su prenotazione), il Rifugio Piano di Lanzo chiude i battenti solo il lunedì, garantendo un'esperienza unica e autentica in ogni altra occasione."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Maccaruni a fusiddri con sugo di carne",
+      "1": "Minestra i patani",
+      "2": "Pipazzi e pumadori stufati",
+      "3": "Pipazzi e Patani",
+      "4": "Cassatelle",
+      "5": "Cassatelle con crema di castagne",
+      "6": "Turdilluni",
+      "7": "Cannariculi"
+    },
+    "dove_mangiare": {
+      "0": "Rifugio Piano di Lanza: Siamo stati all'esterno di questo rifugio con i miei amici di notte con le nostre tende, il rifugio è molto carino, curato e pulitissimo, la zona all'esterno è attrezzata con amache, tavoli, e pietre per accendere il fuoco. I gestori sono stati disponibilissimi, un accoglienza così non l'avevamo mai ricevuta! Il giorno dopo tornando dall'escursione abbiamo preso qualcosa da bere e ci hanno offerto delle buonissime frittelle di zucca, polpette e tante altre cosine fatte in casa. Abbiamo visto che servivano il pranzo per tutto il pomeriggio e i piatti sembravano eccezionali! L'unico rimpianto è di non aver fatto il pranzo lì ma ci torneremo sicuramente! Grazie di tutto!",
+      "1": "Baita Malieni: Siamo stati accolti dal signor Luigi con il calore del sud , persona splendida e molto\ncordiale . La cucina superlativa, abbiamo mangiato un ottimo antipasto e due tagliatelle ai funghi porcini , tutto davvero buonissimo. Ci ha indicato il punto panoramico del borgo di San Donato di Ninea che ci ha lasciato senza parole . Ottimo rapporto qualità /prezzo ."
+    }
+  },
+  "dove_dormire": {
+    "0": "Risveglio nel Borgo: Risveglio nel Borgo è un piccolo e confortevole b&b situato nel cuore del caratteristico borgo di San Donato di Ninea, che io e il mio ragazzo, insieme alla nostra cagnolina, abbiamo scelto per fare una sosta di una notte durante un viaggio da un punto all'altro dell'Italia. Giuseppe, il proprietario, ci ha accolti con cordialità ed è stato disponibile e gentile, così come gli abitanti del paese - borgo montano con vista mozzafiato -; la nostra camera era dotata di ogni comfort e il sonno è stato tranquillo e indisturbato vista la serenità che regnava nel borgo. Consigliato per una breve sosta o un week end in zona.",
+    "1": "Ostello Kairos: Posizione strepitosa anche se da sudare per arrivarci!!!\nLa signora e la figlia Maria Concetta sono veramente molto gentili e hanno fatto di tutto per farci sentire bene..\nGrazie!!!",
+    "2": "U'Giruni: La signora è gentilissima. Abbiamo soggiornato per tre notti in coppia e abbiamo esplorato i percorsi di trekking in zona. Ideale per chi vuole godersi la montagna!\nLa proprietaria gestisce anche il bar in piazza ed è sempre disponibile per colazione, pranzo e cena."
+  }
+}
