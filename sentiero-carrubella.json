@@ -1,0 +1,97 @@
+{
+  "titolo_dell'articolo": "Sentiero Carrubella da Avola - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Sentiero Carrubella",
+    "citta_di_partenza": "Avola",
+    "provincia_di_partenza": "Siracusa",
+    "regione_di_partenza": "Sicilia",
+    "catena_montuosa_o_parco": "Riserva naturale di Cavagrande del Cassibile",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "515A",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/circuito-povera-mosca-fiume-argentino-ipv7-75027316",
+    "attrazioni_percorso": {
+      "0": "Fiume Cassibile",
+      "1": "Laghetto Timpa Ca Tona"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "5.2 km",
+    "altitudine_min_percorso": "481 m",
+    "altitudine_max_percorso": "347 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Parcheggio Carrubella",
+    "punto_arrivo_percorso": "Parcheggio Carrubella",
+    "dislivello_positivo_percorso": "200 m",
+    "dislivello_negativo_percorso": "200 m",
+    "tempo_medio_stimato_percorso": "3 ore 0 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "pagamento vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Orchidee di Cavagrande del Cassibile",
+      "2": "Palma di San Pietro",
+      "3": "Camedrio arbustivo",
+      "4": "Salvia triloba",
+      "5": "Salvia di Gerusalemme",
+      "6": "Orchidea dal lungo sperone",
+      "7": "Platano orientale",
+      "8": "Bucaneve",
+      "9": "Euforbia delle faggete",
+      "10": "Felce delle lavanderie",
+      "11": "Lecci",
+      "12": "Salici",
+      "13": "Oleandri"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Riserva naturale orientata Cavagrande del Cassibile ",
+      "descrizione": "La Riserva Naturale Orientata Cavagrande del Cassibile, situata in Sicilia tra i comuni di Avola, Noto e Siracusa, è un piccolo angolo di paradiso protetto dalla Regione Siciliana fin dal 1990. È un luogo dove la natura ha saputo plasmare nel corso dei millenni scenari di rara bellezza, e dove la storia ha lasciato tracce significative.\r\n\r\nIl fiume Cassibile, un tempo chiamato Kakyparis dai greci, attraversa la riserva, formando delle gole e dei canyon spettacolari, fra cui la forra di Avola Antica si distingue per le sue dimensioni imponenti. La natura qui ha lavorato con pazienza e costanza, scavando la roccia e creando paesaggi che oggi possiamo ammirare.\r\n\r\nNonostante la sua bellezza paesaggistica, la riserva è anche un luogo di grande valore storico e archeologico. Le civiltà che si sono succedute nel corso dei millenni hanno lasciato tracce del loro passaggio, sotto forma di tombe e reperti, che oggi possiamo studiare per comprendere meglio il nostro passato.\r\n\r\nAll'interno della riserva, inoltre, si trova un susseguirsi di piccole cascate e laghetti, noti localmente come \"uruvi\", che durante l'estate offrono un po' di refrigerio ai visitatori. Per raggiungerli, bisogna percorrere La Scala Cruci, un'antica scalinata che aggiunge un tocco di fascino all'intera esperienza.\r\n\r\nIn sintesi, la Riserva Naturale Orientata Cavagrande del Cassibile è un luogo ricco di bellezze naturali e di storia, un piccolo tesoro che la Sicilia custodisce gelosamente. È un invito a rallentare, a prendersi il tempo per esplorare e ammirare le meraviglie che la natura e la storia ci hanno lasciato."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Laghetti di Avola",
+      "descrizione": "I Laghetti di Avola rappresentano una vera e propria oasi per gli appassionati di trekking e per chi è semplicemente curioso di esplorare. Estesa per circa 2700 ettari, la riserva ospita il fiume Cassibile, che percorre un tratto di 10 chilometri, modellando nel tempo un profondo canyon grazie alla sua incessante attività erosiva. Al fondo di questa incantevole gola, si possono ammirare piccole cascate e incantevoli bacini naturali, ideali per un rinfrescante bagno. Situata tra i territori dei comuni di Avola, Noto e Siracusa, l'area vanta due splendide piscine naturali di un azzurro intenso, nascoste tra le ripide pareti del canyon."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Cassate di ricotta",
+      "1": "Cubbaita e giuggiulena",
+      "2": "Lolli con le fave",
+      "3": "Teste di Turco",
+      "4": "Cavateddi con Bottarga",
+      "5": "Cuddureddi",
+      "6": "Polpette di carne di Cavallo",
+      "7": "Iris"
+    },
+    "dove_mangiare": {
+      "0": "Trattoria Giufà: Ristorante ideale per una cena tranquilla senza il “rumore” del viavai della gente della via principale. Saletta piccola ma molto accogliente che dà un piacevole senso di privacy. Personale simpatico, disponibile a dare spiegazioni sui piatti e ottimi consigli sugli abbinamenti coi vini.\r\nEccezionali le alici fritti, ma i ravioli ripieni di ricotta con crema di pesce spada e granella di pistacchio sono stati una rivelazione, con un gusto delicato che invita senza vergogna a fare la scarpetta.\r\nConsigliatissimo davvero.",
+      "1": "Retablo - Ristorante Tipico Siciliano: Bellissimo locale con tavolini all'esterno e un ambiente molto elegante e curato anche interno.\r\n\r\nIl menù é ricercato e offre una tradizione ricercata con un pizzico di innovazione molto gradita.\r\nL'entré una piacevole e ottima sorpresa, la caponata con cioccolato fondente da provare, assolutamente ottimo il risotto al limone, cozze e aneto, il mio piatto preferito mangiato fin ora in Sicilia!\r\nAbbiamo proseguito con un fuori menù: totali di tonno con cavolo rosso e buonissime le patate fritte al limone.\r\nLe porzioni sono abbastanza abbondanti e ottimo il rapporto qualità-prezzo.\r\n\r\nNon secondaria l'attenzione dell'elenco degli allergeni inserita sotto ogni piatto del menù!\r\n\r\nOffrono diverse birre, cocktail, vini in bottiglia o al calice.\r\n\r\nLa titolare é gentilissima e attenta alle esigenze del cliente, così come tutto il personale.\r\n",
+      "2": "Nachè: Qualità. Tradizione. Innovazione.\r\nSono le tre parole che meglio descrivono questa esperienza autentica in un locale nel cuore di Noto. Una cucina legata al territorio ma rivisitata con originalità dallo chef e portata in tavola da una conduzione familiare che non manca di attenzione per il cliente che viene sempre accolto e ascoltato con professionalità. I prezzi sono più che onesti per la qualità dei piatti e per la posizione adiacente al corso, a due passi da Piazza del Duomo. Non fatevelo sfuggire!",
+      "3": "Sabbinirica A Putìa d'Ercole: Locale molto carino nello splendido centro storico di Noto, che approfitta dell'area pedonale per accogliere la clientela, sistemando tavolini lungo la strada.\r\nLa mia esperienza si basa su una cena di fine luglio, in una Nota piena di turisti, dove una volta seduto, mi sono sbizzarrito nello scegliere i piatti di un menù ricco e variegato di pietanze della gastronomia siciliana ( panini farciti con salumi di produttori locali affettati al momento, taglieri vari, degustazione di vini tipici della zona etc.)\r\nPersonalmente la qualità delle materie e le porzioni abbondanti mi hanno molto colpito.....è stata una bella sorpresa ( il pane cunzatu ...mai mangiato così buono)...\r\nIl personale, se pur molto indaffarato, è stato molto attento nel ridurre le attese inoltre ci ha saputo consigliare là dove curiosità e dubbi sono sorti.\r\nIn poche parole, fermarsi è  obbligatorio, gustatevi le loro pietanze.."
+    }
+  },
+  "dove_dormire": {
+    "0": "La Dimora di Helios: La casa è oggettivamente perfetta: ben curata, pulita, ampia, luminosa e con una bellissima terrazza.\r\nAvrei tanto voluto fermarmi ancora per qualche giorno ci fosse stata la disponibilità.\r\nLa signora Maria esemplare padrona di casa come solo i siciliani sanno fare.\r\nRitornerò e la consiglio per tutti coloro che vogliano andare a Noto.",
+    "1": "Villa Ambra B&B:  La struttura è davvero molto bella con parcheggio privato interno. La colazione non era abbondante, era di più. Prodotti tipici siciliani, biologici e preparati in casa dalla proprietaria e dalla sua famiglia. A noi, che non siamo abituate a fare una colazione abbondante ci è \"quasi\" bastata anche per il pranzo. La spiegazione della colazione è stata molto utile ed interessante, sopratutto se non conosci pienamente la cultura culinaria di un'altra regione italiana. All'ultimo piano della struttura è presente anche un terrazzo comune, da cui poter godere di una fantastica vista su Noto, facilmente raggiungibile in un minuto di macchina e in 10/15 minuti a piedi.\r\nStaff cordialissimo, gentilissimo e professionale. Utile nel consigliarti le zone più interessanti da visitare e anche quali strade prendere. Sicuramente un luogo dove vorrei ritornare.",
+    "2": "Jardinu: Una sorpresa!Non mi aspettavo di trovare una struttura cosi ben organizzata e localizzata.Davvero un soggiorno confortevole e rilassante.Il Sig. Dionisio squisito, sempre pronto a soddisfare eventuali richieste e prodigo di consigli su dove mangiare o le spiagge da prediligere.La casa perfetta per due persone e con una localizzazione strategica che ci ha permesso di visitare molti posti.Le nostre due cagnoline sono state ben accolte e anche loro hanno trovato confortevole avere il giardino presente in cui correre e divertirsi. Prima di andare via siamo anche state omaggiate di una bottiglia di limoncello fatto in casa.Assolutamente consigliato!"
+  }
+}
