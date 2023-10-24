@@ -1,0 +1,97 @@
+{
+  "titolo_dell'articolo": "Sentiero Monte Cofano e Grotta Mangiapane da Custonaci - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Sentiero Monte Cofano",
+    "citta_di_partenza": "Custonaci",
+    "provincia_di_partenza": "Trapani",
+    "regione_di_partenza": "Sicilia",
+    "catena_montuosa_o_parco": "Riserva Naturale Orientata di Monte Cofano",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "Monte Cofano",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/monte-cofano-periplo-e-grotta-mangiapane-64655405",
+    "attrazioni_percorso": {
+      "0": "Torre di San Giovanni",
+      "1": "Cappella del Crocifisso",
+      "2": "Torre della Tonnara di Cofano",
+      "3": "Grotta Mangiapane",
+      "4": "Baglio Cofano"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "9.2 km",
+    "altitudine_min_percorso": "259 m",
+    "altitudine_max_percorso": "20 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Monte Cofano - Parcheggio per Escursionisti",
+    "punto_arrivo_percorso": "Monte Cofano - Parcheggio per Escursionisti",
+    "dislivello_positivo_percorso": "410 m",
+    "dislivello_negativo_percorso": "430 m",
+    "tempo_medio_stimato_percorso": "3 ore 30 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Erica Siciliana",
+      "2": "Asterisco Marittimo",
+      "3": "Ampelodesma",
+      "4": "Palme Nane"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Torre di San Giovanni",
+      "descrizione": "La Torre di San Giovanni, parte integrante del robusto sistema difensivo costiero instaurato dai monarchi spagnoli, è una fortezza militare eretta nel 1595 su indicazione della \"Deputazione del regno\". L'architetto Camilliani, identificando una porzione di litorale particolarmente vulnerabile e soggetta agli attacchi marittimi dei turchi, propose la costruzione di questa struttura.\r\n\r\nNel 1578 e nel 1583, gli architetti Tiburzio Spannocchi e Camillo Camilliani compirono una minuziosa esplorazione della Sicilia, allo scopo di individuare le aree costiere più esposte e dare vita al celebre network di torri difensive. La documentazione redatta da questi esperti, inclusi dettagliati disegni e progetti, è di notevole importanza storica.\r\n\r\nQueste torri costiere in Sicilia erano posizionate in modo tale da essere visibili l'una dall'altra, consentendo così la trasmissione di segnali mediante l'accensione di fuochi, lo sparo di colpi d'arma da fuoco o l'agitazione di bandiere. Ognuna di esse era presidiata da truppe armate pronte all'azione.\r\n\r\nLa Torre di San Giovanni, situata in posizione elevata, domina il paesaggio e si allinea visivamente con la Torre di Bonagia e quella di Monte San Giuliano, oggi conosciuta come Erice. I visitatori che si avvicinano a questa maestosa struttura possono godere di un panorama mozzafiato, che si estende fino alle isole Egadi, una prospettiva cruciale per i militari di guardia al forte.\r\n\r\nL'importanza strategica di questa torre è stata riconosciuta e celebrata nel luglio del 1805, quando la struttura ricevette una lodevole menzione militare per il suo ruolo decisivo nell'impedire un attacco piratesco."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Cappella del Crocifisso",
+      "descrizione": "Situata in una posizione spettacolare, quasi a picco sul mare, la cappella ospita al suo interno una singola stanza adornata da un piccolo altare in muratura, rifinito con calce e mattoni stagnati, e caratterizzata da una nicchia frontale, protetta da una grata di ferro, che custodisce il prezioso crocifisso. Subito a sinistra dell'ingresso, si può notare una semplice acquasantiera in pietra incastonata nella parete.\r\n\r\nAccanto alla cappella, sul lato ovest, si possono osservare i resti di un'altra stanza, aggiunta in un periodo successivo, che si trova sopra una piccola cisterna.\r\n\r\nIntorno al 1830, un Eremita di Bonaria viveva proprio all'interno della cappella. Era conosciuto dalla famiglia Morello, residente nella vicina Tonnara di Cofano. Il Signor Francesco Morello, in particolare, lo visitava di tanto in tanto, portandogli del cibo. Intorno al 1870, l'eremita, ormai in età avanzata, decise di affidare la cappella e l'antico crocifisso in legno al Signor Morello, riconoscendolo come uomo di profonda fede.\r\n\r\nAll'inizio del XX secolo, la cappella divenne meta di numerosi pellegrinaggi da diverse località vicine, come Bonagia, Custonaci, Frassino, Castelluzzo, e altre ancora.\r\n\r\nTra il 1948 e il 1950, durante uno di questi pellegrinaggi, alcuni ceri accesi e lasciati troppo vicini l'uno all'altro causarono un incendio, durante il quale l'antico crocifisso in legno andò distrutto.\r\n\r\nIn seguito a questo triste evento, la cappella fu oggetto di un accurato restauro, promosso da Signor Giuseppe Morello. I frati minori del Santuario di Maria SS. di Custonaci organizzarono una processione per portare un nuovo crocifisso, precedentemente benedetto nella chiesetta di Cornino, fino alla cappella, grazie all'aiuto di Francesco Mistretta, noto come Scinò.\r\n\r\nNel 1981, la cappella beneficiò di ulteriori lavori di restauro, condotti da Pino Bica e dai giovani del gruppo parrocchiale di Custonaci, seguiti da altre piccole manutenzioni sempre ad opera di gruppi parrocchiali.\r\n\r\nL'ultimo intervento di restauro risale al 2008, finanziato dall'Amministrazione Comunale di Custonaci.\r\n\r\nOggi, le comunità di Custonaci, Sperone, Purgatorio e Castelluzzo mantengono viva la tradizione dei pellegrinaggi, organizzando una camminata collettiva ogni ultimo venerdì di marzo dal Santuario di Maria SS. di Custonaci fino alla Cappella del Crocifisso di Cofano, per rendere omaggio e pregare."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Torre della Tonnara di Cofano",
+      "descrizione": "La Torre della Tonnara di Cofano è un gioiello nascosto all'interno della riserva omonima, ammirata per la sua suggestiva collocazione di fronte a un mare dalle tonalità vivaci e accattivanti, il cui invito a immergersi nelle sue acque limpide è irresistibile. Localmente, questa zona è affettuosamente denominata \"Torre Tono\".\r\n\r\nPosizionata di fronte a un incantevole specchio d'acqua, la Torre della Tonnara di Cofano è stata un punto di riferimento cruciale e ricco di pesci per la provincia di Trapani, rimanendo in funzione fino alla fine del 1800. Dal 1404, la struttura è stata sotto il controllo della famiglia Bosco, raggiungendo il suo apice intorno alla metà del XVI secolo. Fu in questo periodo che Cosimo del Bosco concluse un accordo con l'Università di Monte San Giuliano nel 1551, ottenendo la concessione per erigere una torre e un complesso per la lavorazione del tonno.\r\n\r\nCaratterizzata da una struttura quadrata a stella a quattro punte, realizzata tra il 1556 e il 1560, la torre si distingue per la sua forma unica in Sicilia. Si suppone che le pareti concave siano state progettate intenzionalmente per deviare le palle di cannone lanciate dal mare. Le distanze tra gli spigoli della torre misurano 17,40 metri, mentre i muri alla base hanno uno spessore di 2,50 metri.\r\n\r\nOsservando attentamente, è possibile individuare una serie di fori su ogni lato della torre, utilizzati per versare liquidi bollenti sugli assalitori. In aggiunta, la torre è dotata di un'unica piccola porta d'ingresso, strategicamente situata. Nonostante possa sembrare contraddittorio che la porta sia rivolta verso il mare, antichi disegni dell'architetto Spannocchi rivelano la presenza di un muro di cinta che un tempo circondava la torre, oggi scomparso.\r\n\r\nNonostante le misure difensive, nel 1560 la torre e la tonnara furono conquistate dai corsari di Biserta, che catturarono 80 prigionieri, ridotti successivamente in schiavitù.\r\n\r\nSulla costa di fronte alla torre, sono ancora visibili le tracce di un antico impianto per la lavorazione del pescato, con una vasca rettangolare scavata nella roccia e numerosi altri intagli, testimonianza delle vasche utilizzate in passato, risalenti al IV-III secolo a.C.\r\n\r\nAll'interno, la torre si sviluppa su due piani: il piano terra consiste in un unico ambiente con una cisterna incastonata nel pavimento, mentre il piano superiore ospita due ambienti.\r\n\r\nA circa 500 metri dalla riva, di fronte alla torre, emerge lo “scoglio dello Scialandro”. In questo tratto di mare, secondo alcune ipotesi locali, si sarebbero svolti i leggendari giochi di Enea, descritti nel V libro dell'Eneide di Virgilio."
+    },
+    "3": {
+      "id": "5",
+      "titolo": "Grotta Mangiapane",
+      "descrizione": "La Grotta Mangiapane, situata nel piccolo e affascinante villaggio di Scurati, parte del comune di Custonaci in provincia di Trapani, è una delle grotte più imponenti della Sicilia. Questa straordinaria cavità naturale deve il suo nome alla famiglia Mangiapane, che vi si stabilì nel 1819. L'antica grotta è parte di un complesso di nove cavità, alcune delle quali si trovano all'interno della Riserva Naturale del Monte Cofano.\r\n\r\nCon i suoi 70 metri di altezza e 50 metri di profondità, la Grotta Mangiapane rappresenta un insediamento umano che risale al Paleolitico Superiore, come confermato dai numerosi ritrovamenti archeologici al suo interno. A partire dal 1870, il marchese Guido dalla Rosa ha condotto scavi archeologici, portando alla luce resti di denti e ossa animali, utensili in selce e pitture parietali. Oggi, è possibile ammirare parte di questi reperti al Museo Pepoli di Trapani, mentre il resto è esposto al Museo “A. Salinas” di Palermo e al Museo Etno-Antropologico di Parigi.\r\n\r\nConosciuta anche come la Grotta degli Uffizi, la cavità ospita al suo interno un piccolo villaggio, una sorta di capsula del tempo, con abitazioni, stalle, una cappella e botteghe, tutte risalenti al periodo in cui la famiglia Mangiapane viveva in queste dimore. La vita qui era semplice e intrisa di un profondo amore per la terra, un vero rifugio dalla frenesia della vita urbana. La splendida vista che spazia dal Monte Cofano fino al blu intenso del mare del Golfo di Erice, fa da cornice a questo luogo unico.\r\n\r\nAll'inizio, il borgo era abitato da quattro famiglie, che lo abitarono per un secolo e mezzo, vivendo di agricoltura e pastorizia. Tuttavia, dopo la Seconda Guerra Mondiale, quasi tutti i residenti emigrarono, lasciando il villaggio quasi deserto. Solo la famiglia di Rosario decise di rimanere, trasformando il villaggio in una stalla. \r\n\r\nDopo circa trent'anni di abbandono, nel 1982 un gruppo di giovani del posto, supportati da Don Rosario Vanella e dall'ultimo membro vivente della famiglia Mangiapane, ha intrapreso un importante lavoro di restauro e valorizzazione del borgo, cercando di preservare la ricchezza delle tradizioni locali e riportando il sito al suo antico splendore. Gli antichi oggetti sono stati ricollocati nelle abitazioni, ricreando l'atmosfera di un tempo.\r\n\r\nOggi, il villaggio si presenta esattamente come un secolo fa, offrendo ai visitatori l'opportunità di immergersi completamente nell'atmosfera di un tempo passato. All'esterno della grotta, un piccolo museo etno-antropologico a cielo aperto testimonia la vita rurale della Sicilia del secolo scorso. Durante la stagione natalizia, la Grotta Mangiapane diventa il suggestivo scenario del Presepe Vivente, una manifestazione che coinvolge circa 160 volontari nella rappresentazione delle antiche tradizioni agricole e artigianali del territorio. In estate, invece, prende vita il Museo Vivente dei Mestieri.\r\n\r\nNel 2006, il Presepe Vivente è stato riconosciuto come uno dei Beni Immateriali della Sicilia, un ulteriore riconoscimento dell'importanza culturale di questo luogo. Per la sua unicità e bellezza, la Grotta Mangiapane è stata inoltre scelta come set per famose produzioni cinematografiche e televisive, tra cui un episodio del Commissario Montalbano e i film ‘La Battaglia di Cefalonia’ e ‘Viola di Mare’."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "I \"Cucciddati\" ai fichi e alle mandorle",
+      "1": "pasta con il pesto alla trapanese",
+      "2": "busiati conditi con il sugo di maiale",
+      "3": "cassatele di ricotta",
+      "4": "spincie"
+    },
+    "dove_mangiare": {
+      "0": "Azzurra Makari: Questo posto delizioso per la sua meravigliosa posizione,è anche una stupenda esperienza di sapori e di gentilezza. Si possono gustare i sapori tipici della cucina di questa parte di Sicilia curati e serviti in modo eccellente. E tutto quello che si paga è meritato ed equo per la qualità e la quantità di ciò che si gusta. È assolutamente da provare!",
+      "1": "A casa di Patrizia: La serata da Patrizia è più che una cena di buona qualità, è una serata da conservare tra i bei ricordi, quelli che dopo tanti anni ancora resteranno impressi del nostro primo viaggio in Sicilia. L'esperienza del home restaurant è una splendida occasione di Condivisione, rarità per i tempi correnti in generale e specie nel post covid. Abbiamo amato lo spirito di Patrizia, della sua famiglia e del loro gentile collaboratore. La fortuna ci ha dato commensali squisiti che hanno fatto da plus, ciò non di meno le preparazioni culinarie sono state al top per tutti i piatti e la cassatina è stata uno dei migliori dessert mai mangiati. Se siete in zona DOVETE andare, sarebbe un vero peccato non farlo. Da ultimo buon rapporto qualità-prezzo",
+      "2": "La Tonda Fritta: Finalmente un’arancina ad hoc! Le arancine di questo locale sono tra le più buone mai mangiate. Lo staff gentilissimo, ha risposto a tutte le nostre curiosità su questo piatto tipico, dalla preparazione alla storia. Da provare l’arancina con la tartare di gambero rosso e stracciata. Voto DIESCI!"
+    }
+  },
+  "dove_dormire": {
+    "0": "Villa “La Giummarra” - Scivolo di Cornino: Villa Levante é bellissima..una posizione meravigliosa a 2 passi dalla baia di Cornino.\r\nA villa levante ti senti proprio in vacanza: accogliente, pulita e trovi tutto qllo di cui si ha bisogno: la cucina super attrezzata, c'è anche la lavastoviglie, già fornita di olio, sale aceto, caffè....due camere perfette, il bagno con doccia ( c'è anche il phon),ci sono i condizionatori per affrontare le calde notti siciliane e cosa veramente super utile, 2 ombrelloni che sono stati preziosi per il mare.\r\nMa secondo noi la cosa più bella della casa é il giardino e il patio esterno: ad ogni ora della giornata, ma soprattutto la sera quando rientravano dalle nostre giornate tra città e mare dopo aver fatto una doccia di fuori con la calza..cosa che hai ragazzi é piaciuta tantissimo, sedersi ed ammirare la bellissima vista sul mare e sul Monte Cofano nn aveva prezzo, proprio rilassante...cenare e godersi quella meraviglia magari mangiando una grigliata cucinata sul barbecue come abbiamo fatto noi...é stato appagante.\r\nLa posizione di Villa Levante é davvero perfetta perché é a 30 minuti da San Vito Lo Capo, da Castellammare, da Scopello, da Erice, 1h da Palermo, 30 minuto da Trapani e se poi volete esplorare ancora più lontano a circa 1h dalle Saline dello Stagnone..che sono state una bellissima sorpresa, e a circa 2h da Agrigento....ultimo ma nn meno importante a 100m dalla Baia di Cornino 😍...insomma posizione strategica.\r\nChe dire poi della Sig.ra Giuseppina...una padrona di casa con la P maiuscola, già dai gg precedenti all'arrivo ci ha inviato informazioni turistiche e sui vari servizi dei luoghi, ha sempre risposto ad ogni nostra domanda..poi una volta a Villa Levante ci ha accolto con una gentilezza e una disponibilità unica...le abbiamo chiesto qualche suggerimento su come muoverci e subito ci ha fornito tutto ciò di cui avevamo bisogno!!Davvero FANTASTICAAAA!!!\r\nInsomma...se ci chiedete se ritorneremo a Villa Levante...",
+    "1": "Cornino Relax:  La veranda attrezzata rivolta al mare è magnifica. Abbiamo goduto molto il silenzio e la privacy del giardino dove sostava anche la nostra auto. La signora Anna molto gentile e disponibile",
+    "2": "Vecchio Baglio Cofano: Esperienza indimenticabile al Baglio Cofano!!! Tutto stupendo...non saremmo mai voluti ripartire!!! Consigliatissimo\r\nCosa è piaciuto · Tutto!!! Posto incantevole, la casa è adatta ad una famiglia o gruppo di 4 persone, molto spaziosa e con tutto il necessario! Bello lo spazio esterno e la vista meravigliosa!!!"
+  }
+}
