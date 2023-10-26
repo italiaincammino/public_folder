@@ -1,0 +1,81 @@
+{
+  "titolo_dell'articolo": "Sentiero per Monte Ruvolo da Rifugio Piano dei Grilli- Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Monte Ruvolo",
+    "citta_di_partenza": "Bronte",
+    "provincia_di_partenza": "Catania",
+    "regione_di_partenza": "Sicilia",
+    "catena_montuosa_o_parco": "Parco dell'Etna",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "710",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/escursione-verso-la-cima-di-monte-ruvolo-69910196",
+    "attrazioni_percorso": {
+      "0": "Rifugio Monte Ruvolo",
+      "1": "Monte Ruvolo"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "6 km",
+    "altitudine_min_percorso": "1410 m",
+    "altitudine_max_percorso": "1161 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Rifugio Piano dei Grilli",
+    "punto_arrivo_percorso": "Rifugio Piano dei Grilli",
+    "dislivello_positivo_percorso": "220 m",
+    "dislivello_negativo_percorso": "220 m",
+    "tempo_medio_stimato_percorso": "2 ore 0 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato",
+      "1": "Roccioso"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Quercia",
+      "2": "bosco di ginestre",
+      "3": "bosco di Centorbi"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Monte Ruvolo",
+      "descrizione": "L'avventura che stiamo per raccontare si svolge attorno al suggestivo Monte Ruvolo, una delle perle del Parco dell'Etna. Il nostro punto di partenza è il Rifugio Piano dei Grilli, un luogo ideale per gli appassionati di escursionismo, particolarmente affollato nei fine settimana e provvisto di un'area parcheggio. Situato a breve distanza dall'abitato di Bronte, è facilmente raggiungibile attraverso una strada ricoperta di pietra lavica, che conduce direttamente al cancello di ingresso di un'area protetta, vietata ai mezzi motorizzati. Proprio davanti a questo cancello, a un'altitudine di 1156 m s.l.m., si erge una piccola struttura di proprietà del Comune di Bronte.\n\nCirca un chilometro dopo il cancello, al bivio situato nel Piano delle Ginestre, il sentiero principale prosegue a destra, immergendosi in un alternarsi di lussureggianti pinete e antiche colate laviche. Proprio in questo tratto si trova il Monte Ruvolo, che si eleva a 1410 m s.l.m., offrendo scenari unici e una biodiversità ricca e variegata. Da lì si possono osservare le diverse colate laviche che minacciarono la città di Bronte nel Seicento e nell'Ottocento."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "minestra maritata",
+      "1": "frittate di cavuricelli",
+      "2": "pasta con i finocchietti selvatici",
+      "3": "pasta ‘ncasciata",
+      "4": "pennette al pistacchio",
+      "5": "frascaturi",
+      "6": "pasta con il macco"
+    },
+    "dove_mangiare": {
+      "0": "L'angolo dei Sapori Bronte: Negozio pieno di specialità al pistacchio con uno spazio con qualche tavolino per consumare sul posto. Siamo stati due volte in una settimana, avendo trovato tutti i prodotti ottimi. Consigliamo assolutamente gli arancini che ci sono stati serviti caldi ma anche tutti i prodotti dolci che abbiamo provato: cannoli al pistacchio, gelato al pistacchio, mandorla e fragola (tutti buonissimi), granite e piccola pasticceria. Il tutto è gestito dalla proprietaria davvero super gentile e disponibile. Tappa immancabile se siete in zona.",
+      "1": "Gli Antichi Sapori: Ristorante eccellente. Piccolo locale a gestione familiare, accogliente, con un menu di antipasti, primi e secondi straordinari, cucinati con gusto e.con sapori che esaltano la migliore cucina siciliana. Ricca scelta di antipasti (da ricordare, tra i tanti, le.frittelle.di fiori di zucca e quelli di lenticchie, i funghi cardoncelli, lo speck di suino nero, la caponata). Ottima la pasta di casa con ragù cucinato per 5 ore e i ravioli al.pistacchio. saporito lo stinco di maiale. E per.finire un gelato al.pistacchio da favola, con un gusto mai provato.prima. se poi l'eccellenza della cucina si accompagna alla accoglienza professionale e simpaticissima del.titolare e dei familiari, si capisce che Gli Antichi sapori sono un posto da ricordare e consigliare!",
+      "2": "Il Buongustaio:  siamo stati in questa spettacolare enoteca ai piedi dell'Etna nel centro di Randazzo, che dire, tutte le persone che me ne avevano parlato avevano più che ragione, le aspettative erano alte ma grazie a Pippo e la sua splendida famiglia sono state addirittura superate! Sin dall'inizio siamo stati trattati come se ci conoscessimo da anni.. Pippo è davvero una persona splendida in tutto quello che fa, dal servizio ai consigli alla infinita conoscenza e cultura del mondo del vino..i loro figli super simpatici e accoglienti, simpaticissima e preparatissima Denise, la bellissima e super gentile Greta e quel simpaticone di Giovanni che nonostante la giovane età ha davvero una cultura del mondo del vino a dir poco invidiabile! Ma il cuore pulsante del posto è la meravigliosa signora Letizia, con la sua simpatia e allegria ha animato e reso bellissima la nostra serata. Insomma non è una semplice enoteca, è un posto dove ci lasci il cuore anche se ci vai una volta soltanto. Ottimi vini, squisiti piatti tipici e prezzi davvero onestissimi. Tornerò sicuramente!!!"
+    }
+  },
+  "dove_dormire": {
+    "0": "B&b Cortile Aurora: Bellissimo mini appartamento dotato di tutto e molto pulito . Silenzioso e con una bella veranda da cui si può godere un bellissimo tramonto. Il proprietario è stato gentilissimo e molto accogliente . Posizione ottima a due passi dal centro.\r\nLo straconsiglio",
+    "1": "Azienda Agricola Cuntarati: B&B in mezzo alla campagna con il bel panorama, aria pulita e si vede pure il vulcano Etna, poi ci sono tanti bei gattini in giardino, la colazione è ottima e si può anche mangiare fuori sulla terrazza.",
+    "2": "Terebinto: Avremmo voluto ( e potuto ) dare una valutazione anche superiore a questa struttura più che buona, che sconta una posizione pur centrale ma un po' infelice, che ci ha portato per una serie di disguidi a prendere possesso della camera con ritardo.\r\nAbbiamo comunque apprezzato l'ampiezza della camera e anche se il decor e l'arredamento non incontravano il nostro gusto, diamo atto della volontà di rendere l'ambiente piacevole e confortevole anche nei dettagli, dallo scrittoio ai tendaggi.\r\nLa struttura è completata anche da una piccola camera a due letti.\r\nIl bagno è ampio e dotato di una doccia molto confortevole.\r\nLa pulizia è impeccabile."
+  }
+}
