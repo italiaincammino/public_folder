@@ -1,0 +1,92 @@
+{
+  "titolo_dell'articolo": "Sentiero per Monte Gallo da Mondello - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Monte Gallo",
+    "citta_di_partenza": "Mondello",
+    "provincia_di_partenza": "Palermo",
+    "regione_di_partenza": "Sicilia",
+    "catena_montuosa_o_parco": "RISERVA NATURALE ORIENTATA CAPO GALLO",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "171",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/circuito-povera-mosca-fiume-argentino-ipv7-75027316",
+    "attrazioni_percorso": {
+      "0": "Semaforo dell'Eremita",
+      "1": "Resti della Torre Amari",
+      "2": "Falesia Bauso rosso"
+    },
+    "panorama_percorso": {
+      "0": "Borgo marinaro di Addaura",
+      "1": "Isola delle Femmine"
+    },
+    "lunghezza_percorso": "5.5 km",
+    "altitudine_min_percorso": "541 m",
+    "altitudine_max_percorso": "129 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Via del Semaforo",
+    "punto_arrivo_percorso": "Via del Semaforo",
+    "dislivello_positivo_percorso": "350 m",
+    "dislivello_negativo_percorso": "350 m",
+    "tempo_medio_stimato_percorso": "2 ore 30 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Carrubo",
+      "2": "Olivo",
+      "3": "Sommaco Siciliano",
+      "4": "Palma nano",
+      "5": "Leccio",
+      "6": "Limonio Siciliano di Boccone",
+      "7": "Ginestra Spinosa",
+      "8": "Mirto",
+      "9": "Camomilla del Monte Gallo"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Semaforo dell’Eremita",
+      "descrizione": "Il Semaforo dell'Eremita, conosciuto anche come il Semaforo di Monte Gallo, si trova alla sommità della Riserva Naturale di Capo Gallo, a Palermo. Questa struttura storica di epoca borbonica è diventata sempre più nota negli ultimi dieci anni.\r\n\r\nL'interno del semaforo è abitato da un uomo, Nino, che ha scelto di vivere come un eremita, ribattezzandosi Isravele. Isravele ha trasformato il semaforo in un luogo di riflessione spirituale, rinominando il semaforo \"Faro di Dio\" e il sentiero per raggiungerlo \"via Santa\".\r\n\r\nIsravele ha restaurato completamente il semaforo, decorandolo con mosaici fatti di frammenti di vetro, bottiglie e conchiglie. Questa creazione non è solo un'opera d'arte, ma anche un tributo a Dio e alla sua creazione, con l'intenzione di creare un santuario per la meditazione e la preghiera. Le iscrizioni e le scene rappresentate all'interno del semaforo sono di natura religiosa, e l'immagine della stella a sei punte, simbolo dell'ebraismo, è onnipresente.\r\n\r\nIsravele mi ha raccontato che si è ritirato su Monte Gallo 24 anni fa, ma mantiene ancora contatti con il mondo esterno. Le porte del suo santuario sono sempre aperte a chiunque desideri visitarlo, e periodicamente scende a Partanna per procurarsi cibo e materiali per il suo progetto.\r\n\r\nSe decidete di visitare il Semaforo dell'Eremita, vi invito a chiedere cortesemente a Isravele di mostrarvi l'interno del suo rifugio. Portate anche un piccolo dono, come biscotti, pane o pasta, da lasciare come offerta."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Arancina",
+      "1": "Pane, panelle e crocchè",
+      "2": "Rascatura",
+      "3": "Stigghiole",
+      "4": "Pani ca’ meusa",
+      "5": "Sfincione",
+      "6": "Mussu quarume e frittola",
+      "7": "Pane cunzato",
+      "8": "Pasta con le sarde"
+    },
+    "dove_mangiare": {
+      "0": "La Bodeguita dei Sapori: Ottimo pranzo, prodotti di ottima qualità. Servizio e personale efficiente. Lo chef ha accolto le mie richieste facendo un piatto fuori dal menu super delizioso. Tornerò sicuramente.",
+      "1": "Osteria Peper's: A fianco del meraviglioso Duomo di Monreale si trova questa osteria troppo carina, già quando entri fai un tuffo all'indietro e ti trovi negli anni 70, locale accogliente alle pareti foto poster di cantanti quali Battiato, De Gregori, Vecchioni ecc.. Un piccolo jukebox e sui tavoli bottiglie di vino con al collo un 45 giri, il bagno poi una chicca.. Passiamo alla cucina, semplice tradizionale siciliana e cucinata ottimamente gli antipasti strepitosi con pezzetti di sfincione, ricotta, pomodori secchi e olive, caponata, zucca in agrodolce, formaggio e pezzetti di salame tutto ottimo, i primi altrettanto gustosi noi abbiamo preso pasta con broccoli arriminati e busiate con funghi e guanciale croccante, calice di vino un ottimo nero d'avola/sirah e per finire la gentilezza e la simpatia di tutto il personale. Lo straconsiglio!",
+      "2": "Al Sorriso: siamo andati “al Sorriso”ma devo dire siamo tornati gia due volte La Cucina è Semplice ma gustosa Consiglio il baccalà fritto Devo dire che la pasta anche è buona Consiglio questo ristorante vicino la Stazione centrale"
+    }
+  },
+  "dove_dormire": {
+    "0": "B&B SAN NILO: Struttura piccola e accogliente, personale simpatico, gentile e disponibile, siamo rimasti molto contenti del nostro pernottamento. Il paese di Orsomarso una piacevole sorpresa, consiglio di visitare il borgo e la cascata della ficara a pochi km distante. Da ritornarci\r\n\r\n",
+    "1": "Argentino Minimal Room: Nuovo e pulito piccolo appartamentino comodo e confortevole per due persone, dotato di bagno molto funzionale, e di un angolo con lavello e di un bollitore per la colazione. Proprietario disponile e molto cordiale. Molto bello il borgo a poca distanza dalle attrazioni naturalistiche che il parco del Pollino offre. Ci siamo trovati bene. Suggerirei l’installazione della TV.",
+    "2": "Affittacamere LA COSTA Risthotel: Camera standard molto fresca non vi è alcun bisogno di accendere l'aria condizionata. Personale molto accogliente e cordiale, servizi ottimi compresa la ristorazione. Dista dal mare 15 minuti raggiungibile in macchina."
+  }
+}
