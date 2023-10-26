@@ -1,0 +1,89 @@
+{
+  "titolo_dell'articolo": "Sentiero per Serra delle Concazze e Grotta di Serracozzo da Rifugio Citelli - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Sentiero per Serra delle Concazze e Grotta di Serracozzo",
+    "citta_di_partenza": "Sant'Alfio",
+    "provincia_di_partenza": "Catania",
+    "regione_di_partenza": "Sicilia",
+    "catena_montuosa_o_parco": "Parco dell'Etna",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "723",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/etna-rifugio-citelli-grotta-del-serracozzo-serra-delle-concazze-colata-lavica-1928-19793257",
+    "attrazioni_percorso": {
+      "0": "Grotta di Serracozzo",
+      "1": "Colata Lavica del 1928",
+      "2": "Serra delle Concazze"
+    },
+    "panorama_percorso": {
+      "0": "Valle del Bove",
+      "1": "Mar Jonio"
+    },
+    "lunghezza_percorso": "6.5 km",
+    "altitudine_min_percorso": "2261 m",
+    "altitudine_max_percorso": "1750 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Rifugio Citelli",
+    "punto_arrivo_percorso": "Rifugio Citelli",
+    "dislivello_positivo_percorso": "550 m",
+    "dislivello_negativo_percorso": "550 m",
+    "tempo_medio_stimato_percorso": "3 ore 30 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato",
+      "1": "Roccioso"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Betulle",
+      "2": "Castagni",
+      "3": "Pini"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Grotta di Serracozzo",
+      "descrizione": "La Grotta di Serracozzo, nata dall'eruzione del 1971, rappresenta un affascinante corridoio lavico sotterraneo. Entrando, vi troverete di fronte ad un scenario mozzafiato: una spaccatura che ricorda la forma di una serratura si eleva a diversi metri d'altezza, con una larghezza massima di 3 metri. Da questo varco, un raggio di luce filtra dall'alto, donando all'ambiente un'aura magica e misteriosa. Procedendo verso il fondo della grotta, si estende una galleria inclinata di 350 metri con larghezze variabili tra 2 e 3 metri, caratterizzata da un suolo di lava rugosa. Sebbene le pareti inizino con un aspetto opaco, più avanti rivelano una finitura quasi vetrata, testimone dell'intensa attività vulcanica."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Colata Lavica del 1928",
+      "descrizione": "Nel novembre del 1928, l'Etna si risvegliò in modo devastante. Il 2 di quel mese, una sequenza di eruzioni iniziò, culminando nella distruzione della città di Mascali. Diverse fasi caratterizzarono quest'evento: l'attività iniziale proveniva dal Cratere di Nord-Est, seguita da una frattura che ha rilasciato magma fluido a 2.600 metri di altitudine. La notte successiva, una nuova frattura apparve, minacciando Sant'Alfio, ma fortunatamente si fermò. Tuttavia, il 4 novembre, una terza frattura a 1.200 metri provocò una colata di lava diretta verso Mascali, che venne sommersa il 7 novembre. Solo una piccola zona, oggi conosciuta come Sant'Antonino, rimase illesa. Le eruzioni hanno anche interrotto le linee ferroviarie, con la stazione di Mascali quasi completamente sommersa il giorno 11. La lava si fermò il 16 novembre, vicino a Carrabba, e l'attività vulcanica cessò il 20 novembre. Successivamente, Mascali fu ricostruita in una nuova località, e la linea ferroviaria fu spostata per evitare ulteriori disastri. I segni della colata lavica sono molto visibili anche proseguendo lungo il sentiero"
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Arancino",
+      "1": "Cannolo",
+      "2": "Pasta alla Norma",
+      "3": "Carne di cavallo",
+      "4": "Spaghetti alla Carrettiera",
+      "5": "Granita e brioche",
+      "6": "Minnuzze di Sant'Agata",
+      "7": "Olivette di Sant'Agata"
+    },
+    "dove_mangiare": {
+      "0": "Profumi dell'Etna trattoria-pizzeria da Rosalba: Una tipica trattoria dove gustare il vero cibo tradizionale siciliano. Ottimo rapporto qualità prezzo, l'eccellenza nel piatto.",
+      "1": "L'Antica Taverna del Castagno: Siamo stati in questo posto per scappare al caldo della città. Location molto carina, abbiamo cenato in giardino. Preso delle grigliate miste di carne, non male come portata e gusto. Prezzo nella media. Consiglio",
+      "2": "Ristorante Osteria del Gusto: Arrivare non è difficile. Tutta strada dritta. Basta fare la strada principale che collega s.g.la punta, Viagrande, Zafferana, Milo e sei arrivato. Poi da lì, dopo il pasto, scendi a fare visita al castagno di 4000 Mila anni e gustarti una granita alla nocciola. Detto questo, ambiente casereccio con piatti spettacolari e generosi (ovviamente per me dovevano mettere altri 100 gr in più ma sono un caso a parte ☺️)e grande cortesia. Tutto casalingo e in famiglia. Il prezzo giusto. Altro che ristoranti gourmet che spesso sono solo apparenza.\r\nPs meglio prenotare. Il massimo dei posti è 50. Non ne prendono più di tante prenotazioni perché sanno il loro potenziale e vogliono mantenerlo senza flessioni.\r\nAltro PS. Google Maps vi porta al punto segnalata sulla strada principale ma dovete fare altri 300 MT in una traversa parallela internata non segnalata da Google. Seguite i cartelli.\r\nRitornerò volentieri. Devo provare anche la pizza oltre che i restanti piatti."
+    }
+  },
+  "dove_dormire": {
+    "0": "L'Infinito Agriturismo - Rooms & Breakfast:  La struttura, oltre che incantevole, si trova in un’ottima posizione per chi vuole godersi “La montagna”; si raggiunge facilmente e con pochi minuti di strada è possibile raggiungere diversi punti di interesse.\r\nHost eccezionale; colazione (che abbiamo potuto fare in giardino) buonissima genuina e ricca; terrazza mozzafiato.\r\nSicuramente Torneremo! Grazie.",
+    "1": "Cirasellaetna: Immerso nel verde, ideale per escursioni sull'Etna data la vicinanza alla sommità. Gentilissimi i proprietari nel vinire incontro alle esigenze di orario al di fuori di quelle previste e nel fornire tante indicazioni utili.",
+    "2": "Feudo Magazzeni Etna: Tutto curato nei minimi dettagli, con attenzione e venendo incontro a necessità specifiche. Ottima anche la cena in loco, straordinaria l'accoglienza! Un luogo di pace e serenità con una vista spettacolare, posto perfetto per scoprire l'Etna rilassandosi."
+  }
+}
