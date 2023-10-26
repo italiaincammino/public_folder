@@ -1,0 +1,95 @@
+{
+  "titolo_dell'articolo": "Sentiero da Piano Battaglia a Pizzo Carbonara - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Pizzo Carbonarra",
+    "citta_di_partenza": "Petralia Sottana",
+    "provincia_di_partenza": "Palermo",
+    "regione_di_partenza": "Sicilia",
+    "catena_montuosa_o_parco": "Parco delle Madonie",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "551",
+    "link_gpx_percorso": "https://www.wikiloc.com/hiking-trails/madonie-pizzo-carbonara-pizzo-scalonazzo-52367577",
+    "attrazioni_percorso": {
+      "0": "Pizzo Carbonara"
+    },
+    "panorama_percorso": {
+      "0": "Litorale di Palermo"
+    },
+    "lunghezza_percorso": "9.4 km",
+    "altitudine_min_percorso": "1979 m",
+    "altitudine_max_percorso": "1615 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Parcheggio Sentiero Pizzo Carbonara",
+    "punto_arrivo_percorso": "Parcheggio Sentiero Pizzo Carbonara",
+    "dislivello_positivo_percorso": "390 m",
+    "dislivello_negativo_percorso": "390 m",
+    "tempo_medio_stimato_percorso": "3 ore 30 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Faggio",
+      "2": "Leccio",
+      "3": "Quercia",
+      "4": "Roverella",
+      "5": "Olmo montano",
+      "6": "Viola nebrodense",
+      "7": "Viola piccinina",
+      "8": "Androsace siciliana",
+      "9": "Euforbia di Gasparini",
+      "10": "Malva moscata",
+      "11": "Belladonna",
+      "12": "Imperatoria dei nebrodi",
+      "13": "Lingua di cane siciliana",
+      "14": "Lino di montagna",
+      "15": "Stregonia siciliana"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Pizzo Carbonara",
+      "descrizione": "Con la sua vetta maestosa che sfiora i 1979 metri, il Carbonara si erge in tutta la sua unicità nel panorama delle montagne madonite, distaccandosi dalle cime più aspre e frastagliate che lo circondano. Questa montagna offre uno spettacolo naturale straordinario, con la sua forma che ricorda un gigantesco \"panettone\" calcareo. Le sue pareti a strapiombo a nord e a ovest contrastano con i dolci pendii che si fondono armoniosamente con il pianoro di Piano Battaglia e con il Monte Ferro a sud e ad est.\r\n\r\nLa cima del Carbonara, ampia e arrotondata, è un vero e proprio paradiso per gli occhi, grazie all'altipiano cosparso di oltre 400 doline, straordinarie depressioni carsiche che creano un paesaggio quasi lunare. Queste conche terrestri, dalle forme varie e dai diametri che spaziano dai pochi metri delle più piccole fino ai 300 metri delle più imponenti, sono il risultato di un affascinante processo naturale.\r\n\r\nDurante il disgelo primaverile, la neve si scioglie e interagisce con l'aria e le rocce calcaree, dando vita a una reazione chimica che trasforma il paesaggio inverno dopo inverno. L'acqua fredda e l'anidride carbonica nell'aria si combinano per formare acido carbonico, che poi reagisce con il carbonato di calcio delle rocce, trasformandolo in bicarbonato solubile in acqua. Questo processo, lento ma incessante, modella la roccia, creando depressioni sempre più profonde e ampie.\r\n\r\nLe doline diventano così delle piccole oasi, dove la neve si accumula e si scioglie, contribuendo a modellare ulteriormente il paesaggio e creando un ambiente unico e affascinante.\r\n\r\nPer chi si avventura sul Carbonara, il fascino di queste formazioni geologiche si unisce alla ricchezza storica delle rocce stesse, risalenti al Triassico oligocenico e ricche di fossili di lamellibranchi e alghe. Queste testimonianze di un antico mare trasformatosi in terra ferma offrono un ulteriore motivo di stupore e ammirazione per gli escursionisti e gli amanti della natura.\r\n\r\nIn poche parole, il Carbonara è una meta imperdibile, un luogo dove la natura racconta la sua storia millenaria e dove il paesaggio offre spettacoli naturali di rara bellezza. Un'avventura tra le sue doline e le sue pareti calcaree è un'esperienza che lascia il segno, un invito a riflettere sulla meravigliosa complessità del nostro pianeta."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Pasta 'cca muddica",
+      "1": "pasta 'cchi sardi",
+      "2": "pasta 'cchi sparici i Cuca",
+      "3": "sardi a baccafico",
+      "4": "Lumache ri Santa Rosalia",
+      "5": "Cucuzza a 'ccunigghiu",
+      "6": "pizzichinti",
+      "7": "pasta cchi castagni",
+      "8": "arancini russi a lu furnu"
+    },
+    "dove_mangiare": {
+      "0": "Il Ristoro dello Scoiattolo: Pranzo delizioso. Ottimo cibo, personale disponibile e preparato. Ottimo rapporto qualità/prezzo. Consiglio per pranzo con amici o pranzo in famiglia. Location bellissima e posto suggestivo.",
+      "1": "Il Castello: Luogo medioevale, accoglienza impeccabile tutti, dai titolari al personale, estremamente cortesi e sorridenti. Camere spaziose ed accoglienti e molto pulite. Il cibo poi squisito con piatti locali e con gran parte delle verdure prodotte nel loro orto. Pizza eccezionale pasta molto lievitata, pizza alta ai bordi. Che dire: servizi di ottima qualità da quelli forniti con l’Albergo a quelli del Ristorante.",
+      "2": "Evo 50 - Catanzaro: Ho visitato questo locale insieme ad una mia cara amica, il menu è molto vasto fanno un po’ di tutto, il mio suggerimento è sulla pizza che è veramente stile napoletano. Dopo in chiusura di cena un caffè come lo faceva mia mamma!!! Vedi foto. Staff giovane, cordiale e servizio ben svolto."
+    }
+  },
+  "dove_dormire": {
+    "0": "La Casa del Pittore di Petralia: L'appartamento è davvero carino, sebbene troppo piccolo, situato in una posizione centralissima, il letto è comodissimo, la proprietaria ci ha fatto trovare una colazione eccellente.",
+    "1": "Casa Petralia: La posizione centrale e la grandezza dell'appartamento. Perfetta per un soggiorno nel cuore delle Madonie e spaziosa al punto giusto per poter sfruttare a pieno il tempo a disposizione",
+    "2": "Il Castello: Struttura bellissima, calda ed accogliente; suite pulita e molto molto carina, dotata di camino e di ogni confort. Personale squisito ed estremamente cordiale; colazione con prodotti locali e di produzione propria. Esperienza assolutamente da ripetere ... E grazie a tutto il personale della struttura."
+  }
+}
