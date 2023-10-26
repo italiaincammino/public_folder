@@ -1,0 +1,94 @@
+{
+  "titolo_dell'articolo": "Sentiero per Necropoli di Pantalica da Ferla - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Necropoli di Pantalica",
+    "citta_di_partenza": "Ferla",
+    "provincia_di_partenza": "Siracusa",
+    "regione_di_partenza": "Sicilia",
+    "catena_montuosa_o_parco": "Riserva Naturale Orientata di Pantalica",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "931D",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/pantalica-e-valle-dellanapo-84848023",
+    "attrazioni_percorso": {},
+    "panorama_percorso": {},
+    "lunghezza_percorso": "9.4 km",
+    "altitudine_min_percorso": "400 m",
+    "altitudine_max_percorso": "200 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "Parcheggio Sella di Filiporto",
+    "punto_arrivo_percorso": "Parcheggio Sella di Filiporto",
+    "dislivello_positivo_percorso": "340 m",
+    "dislivello_negativo_percorso": "340 m",
+    "tempo_medio_stimato_percorso": "3 ore 0 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Leccio",
+      "2": "Roverella",
+      "3": "Lentisco",
+      "4": "Stracciabranche",
+      "5": "Pungitopo",
+      "6": "Orniello",
+      "7": "Pistacchio selvatico",
+      "8": "Acero",
+      "9": "Rosa selvatica",
+      "10": "Nespolo",
+      "11": "Pioppi",
+      "12": "Oleandro",
+      "13": "Ginepro",
+      "14": "Palma nana"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Necropoli di Pantalica",
+      "descrizione": "Situata all'interno della Riserva naturale orientata Pantalica, Valle dell'Anapo e Torrente Cava Grande, Pantalica è un gioiello naturalistico che si estende su circa 80 ettari. Dall'anno 2005, quest'area, annidata nella provincia di Siracusa tra i comuni di Cassaro, Ferla e Sortino, vanta il titolo di Patrimonio dell'Umanità conferito dall'Unesco. Questa meravigliosa località risale ai tempi antichi, precisamente alla prima metà del XIII secolo a.C.\r\nPer arrivarci, bisogna percorrere una strada che serpeggia dai Monti Iblei fino al Golfo di Siracusa. Da questa via, lo sguardo viene catturato dai maestosi canyon formati dall'erosione dei fiumi Anapo e Calcinara nella roccia calcarea. Pantalica non è solo natura: al suo interno ospita cinque imponenti necropoli con tombe \"a grotticella artificiale\", opere degli antichi Siculi realizzate tra il XII e l'VIII secolo a.C. Queste tombe hanno regalato ritrovamenti archeologici datati Paleolitico e Neolitico, ora custoditi gelosamente nel Museo Regionale \"Paolo Orsi\" a Siracusa.\r\nInoltrandoti lungo il sentiero, potrai esplorare la Necropoli di Filiporto, ammirare panorami mozzafiato sulla gola dell'Anapo e scoprire il villaggio bizantino con le sue dimore scavate nella roccia e il suggestivo Oratorio di San Micidiario. Poco più avanti, emergono le testimonianze del leggendario regno di Hyblone, tra cui spiccano le rovine dell'Anaktoron, o Palazzo del Principe, con fondamenta megalitiche che evocano le architetture micenee dell'epoca."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "L'Anaktoron",
+      "descrizione": "L'Anaktoron, noto come \"palazzo del principe\", sono le rovina di un monumento di inestimabile valore. Questa costruzione, con i suoi imponenti blocchi poligonali, ci parla di epoche antiche e di influenze bizantine. L'archeologo Paolo Orsi, esplorando il palazzo, scoprì segni di una fonderia di bronzo, indicando che la metallurgia era un privilegio delle elite del tempo. L'unicità dell'Anaktoron suggerisce un'origine micenea. Scavi recenti hanno rivelato vicine strutture monumentali, indicando l'antica esistenza di un'acropoli fortificata ed un santuario dedicato a Demetra e Kore, che sottolineano l'importanza spirituale della zona. L'abilità architettonica dell'epoca è evidente nell'Anaktoron, e le ricerche di Luigi Bernabò Brea hanno ulteriormente illuminato la sua storica rilevanza."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "SCACCE E CUCCHE",
+      "1": "PASTIZZETTI",
+      "2": "PASTA FRITTA ALLA SIRACUSANA",
+      "3": "MATALOTTA",
+      "4": "PUPPETTI I MUCCU",
+      "5": "VAVALUCI",
+      "6": "PASTA CON LE FAVE",
+      "7": "GGHIOTTA SIRACUSANA"
+    },
+    "dove_mangiare": {
+      "0": "Da Antonio: Siamo venuti in questo ristorante sotto consiglio di amici del posto, e non posso che ringraziarli. Certo va considerato che il luogo non è ad accesso immediato, la strada c'è, specie se non si è dei paesini limitrofi. Tuttavia credo che quando ne valga la pena, tutti siamo disposti a fare qualche sacrificio,  posso dire che ne è valsa la pena. Abbiamo preso vari tipi di antipasti, lasciando libertà a chi è in cucina di stupirci, e beh, non posso che fare i complimenti. Tutto ottimo, genuino, fresco, partendo appunto dagli antipasti e continuando con i primi/secondi, le pizze e infine i dolci. Davvero non c'era una cosa che non fosse di qualità, inoltre ho apprezzato le porzioni e i condimenti abbondanti.\r\nIl costo a persona, per quanto abbiamo mangiato (come se avessimo 4 intestini), è a mio avviso giusto.\r\nNon so quando, ma tornerò, ne vale la pena😋",
+      "1": "U Locale: Ottima cucina, personale gentilissimo, ci hanno fatto sedere nonostante fosse già abbastanza tardi.\nAbbiamo seguito volentieri i consigli dello chef, consiglio di fare lo stesso, non rimarrete delusi.",
+      "2": "Ristorante Pizzeria da Mimmo: Semplice e di qualità, pasta fatta in casa, condimenti tipici locali. Io ho preso una tagliatella alla norma, …buonissima. Ottimo il rapporto qualità prezzo. Particolare il locale arredato con dipinti davvero belli. Merita una sosta. Ottime le fettuccine al cinghiale e il cinghiale ! Complimenti!!!!"
+    }
+  },
+  "dove_dormire": {
+    "0": "Masseria Fortificata Lo Zafferaneto: Tutto. I padroni sono una coppia incantevole, sempre sorridenti e ben disposti ad offrire un servizio di ottima qualitá. Tornerei volentieri. Da raccomandare senza dubbi",
+    "1": "Casa Giuliva: Un meraviglioso rifugio per godersi la tranquillità sotto gli ulivi secolari. Padroni di casa molto cordiali e disponibili. Punto di partenza perfetto per visitare la valle Anapo e le città barocche nel sud dell'isola. Consigliatissimo!",
+    "2": "Porta Pantalica: Un bellissimo paesaggio ed un silenzio irreale contornano la struttura, semplice ma confortevole. A due passi da Farla e dalla riserva naturale della Necropoli di Pantalica. La colazione è stata genuina e buonissima. Con molta gentilezza ci hanno fatto assaggiare del formaggio della zona che si può acquistare in struttura. Per chi lo desidera bisogna provare la cucina casereccia fatta di prodotti a KM 0."
+  }
+}
