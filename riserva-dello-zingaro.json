@@ -1,0 +1,131 @@
+{
+  "titolo_dell'articolo": "Riserva dello Zingaro da Scopello - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Riserva dello Zingaro",
+    "citta_di_partenza": "Scopello",
+    "provincia_di_partenza": "Trapani",
+    "regione_di_partenza": "Sicilia",
+    "catena_montuosa_o_parco": "Riserva Naturale dello Zingaro",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "Cartelli in legno",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/riserva-dello-zingaro-anello-sentiero-costiero-e-di-mezza-costa-58468103",
+    "attrazioni_percorso": {
+      "0": "Grotta del Sughero",
+      "1": "Cala Capreria",
+      "2": "Cala del Varo",
+      "3": "Cala della Disa",
+      "4": "Cala Berretta",
+      "5": "Cala Marinella",
+      "6": "Cala dell'Uzzo",
+      "7": "Tonnarella dell'Uzzo",
+      "8": "Torre dell'Impiso"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "17.5 km",
+    "altitudine_min_percorso": "457 m",
+    "altitudine_max_percorso": "0 m",
+    "difficolta_percorso": "Facile",
+    "punto_partenza_percorso": "SP63",
+    "punto_arrivo_percorso": "SP63",
+    "dislivello_positivo_percorso": "790 m",
+    "dislivello_negativo_percorso": "790 m",
+    "tempo_medio_stimato_percorso": "6 ore 30 min",
+    "fonti_acqua_lungo_percorso": "Sì",
+    "costo_percorso": "A pagamento (5€) €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato",
+      "1": "Scogliera"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Palma nana",
+      "2": "frassino da manna",
+      "3": "carrubo",
+      "4": "Speronella",
+      "5": "Limonio",
+      "6": "ranuncolo",
+      "7": "garofano selvatico"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Grotta del Sughero",
+      "descrizione": "La Grotta del Sughero troneggia magnificamente come il gioiello più scintillante della Riserva Naturale Orientata dello Zingaro, distinguendosi per le sue imponenti e uniche formazioni. Le sue meravigliose concrezioni, che vanno ben oltre le comuni stalattiti e stalagmiti, raggiungono altezze di circa 10 metri, presentando colonne maestose che si ergono in tutta la loro grandezza.\r\n\r\nUna caratteristica che la rende ulteriormente affascinante è la presenza di formazioni eccentriche; bizzarre e affascinanti strutture che sfidano le leggi della gravità con le loro forme inconsuete e captivanti.\r\n\r\nUn altro aspetto raro e prezioso della Grotta del Sughero è la presenza dell'acqua. All'interno di questa sorprendente cavità carsica, l'acqua si manifesta in modo spettacolare, dando vita a sereni laghetti che adornano tanto il ramo destro quanto quello sinistro della grotta. Questa presenza acquatica è un fenomeno inusuale e affascinante, contribuendo a creare un ambiente ancora più misterioso ed esotico."
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Cala Capreria",
+      "descrizione": "La pittoresca Cala Capreria è la gemma iniziale che accoglie i visitatori provenienti da Sud, specificamente dalla direzione di Scopello e Castellammare del Golfo. Se non hai intenzione di affrontare la parte più alta del percorso, dopo aver percorso appena 1,4 km lungo il sentiero centrale della Riserva dello Zingaro, ti ritroverai di fronte a questo angolo di paradiso. La sua prossimità all'ingresso la rende perfetta anche per le famiglie con bambini.\n\nSarai rapito dalla trasparenza dell'acqua dal tono azzurro intenso e dalle imponenti rocce che la circondano e si protendono verso il profondo blu del mare."
+    },
+    "2": {
+      "id": "3",
+      "titolo": "Cala del Varo",
+      "descrizione": "Situata ad appena 1 km da Cala Capreria (partendo dall'accesso sud), la splendida Cala del Varo è un gioiello nascosto, accessibile unicamente via mare. Mentre molte delle spiagge circostanti vantano percorsi pedonali che le attraversano, Cala del Varo mantiene il suo status di enclave segreta. Passeggiando lungo la scogliera, dopo un trekking di circa 30 minuti, potrai scorgere questo angolo paradisiaco, ma solo dall'alto. Per immergerti nelle sue acque cristalline, dovrai affidarti ad un'imbarcazione o, per i più avventurosi, sfidare le onde a nuoto."
+    },
+    "3": {
+      "id": "5",
+      "titolo": "Cala della Disa",
+      "descrizione": "La magnifica Cala Disa si distingue come la gemma più luminosa tra le spiagge nascoste all’interno della riserva, dominando con la sua maestosa estensione e una conformazione unica, simile ad un arco. Questo paradiso costiero ti accoglie con la sua stupefacente varietà di colori vivaci e contrasti intensi che lasciano senza fiato.\r\n\r\nImmergiti nell'esperienza esclusiva offerta dai suoi singolari fondali, un mosaico brillante di sassi e ciottoli, intervallato da granelli di sabbia che danzano riflettendo l'incredibile verde smeraldo delle acque circostanti.\r\n\r\nCala Disa si distingue dalle sue sorelle calette, offrendo rari angoli di ombra, doni generosi della natura, custoditi tra le robuste pareti di roccia. Queste formazioni naturali creano un rifugio appartato, separandola dolcemente dal sentiero costiero e offrendo un riparo accogliente dalle temperature estive. Cala Disa si trasforma magicamente quando il vento di scirocco accarezza la sua superficie. Il mare, sotto questa dolce carezza, rivela la sua chiarezza impeccabile, diventando un mirabile specchio che riflette una sinfonia cromatica in continua evoluzione e splendore."
+    },
+    "4": {
+      "id": "6",
+      "titolo": "Cala Berretta",
+      "descrizione": "Senza dubbio, raggiungere questo luogo richiede un po di impegno in termini di tempo, al pari di Cala Marinella, ma qui vi attende sempre un'oasi di serenità e pace, anche durante l'alta stagione!\r\nUn'invitante scala in legno vi guiderà attraverso il cammino verso una spiaggia appartata, un incantevole insenatura adornata da una soffice sabbia chiara e graziosi ciottoli levigati. La bellezza di questo luogo è ulteriormente esaltata dalla lussureggiante vegetazione mediterranea circostante, dove palme nane si mescolano armoniosamente con carrubi e sugheri.\r\nIl suo fondale marino è un vero spettacolo di bellezze naturali, caratterizzato da luminose rocce calcaree e graziosi sassolini, che nei primi metri offrono un ambiente sicuro e adatto anche ai più piccoli, dolcemente degradante verso il profondo blu del mare.\r\nLe acque, di una trasparenza cristallina, giocano con magnifiche tonalità di verde smeraldo e blu cobalto, mutando sfumature in armonia con i soffi dei venti e le variazioni dell’inclinazione solare. L’esplorazione subacquea, uno dei gioielli delle attività proposte in questa incantevole riserva dello Zingaro, rimane un’esperienza imperdibile, specialmente quando il sole splende alto, illuminando generosamente l'intima caletta, riducendo le ombre e rivelando la ricchezza nascosta nei suoi fondali."
+    },
+    "5": {
+      "id": "7",
+      "titolo": "Cala Marinella",
+      "descrizione": "Cala Marinella si trova vicino all'entrata nord di San Vito lo Capo. Se si prende il sentiero da Scopello, questa è la quinta caletta che si incontra. Una volta arrivati, la caletta offre una vista impressionante. L'acqua qui ha un colore turchese brillante che assomiglia a una piscina naturale.\r\n\r\nQuesta zona è ideale per chi ama fare foto grazie ai suoi panorami unici. Anche se non è molto visitata (poichè un pò più distante rispetto alle altre), è importante sottolineare che Cala Marinella è piuttosto piccola rispetto ad altre spiagge nella Riserva. Chi desidera visitarla dovrebbe considerare di arrivare al mattino per sfruttare al meglio la quiete del luogo. Durante il pranzo, potrebbe esserci un po' di vento, ma generalmente si calma nel pomeriggio."
+    },
+    "6": {
+      "id": "8",
+      "titolo": "Cala dell'Uzzo",
+      "descrizione": "L'angolo di paradiso conosciuto come Cala dell'Uzzo incanta i visitatori con la sua magnifica combinazione di ciottoli alabastro e sfumature verdi della natura circostante. Questa piccola baia è l'ideale per le famiglie, poiché offre un ambiente sicuro e pittoresco, esibendo la maestosità incontaminata della natura.\r\n\r\nL'acqua, chiara come il cristallo, riflette immagini quasi sognanti, ricordando le coste esotiche di lontane destinazioni. Questo effetto è amplificato dalle pietre calcaree sottostanti, che donano all'acqua una limpidezza senza eguali.\r\n\r\nNon lontano da questo angolo di serenità, si nasconde un tesoro storico: la Grotta dell’Uzzo. Questa caverna è stata la dimora di molte specie di uccelli e porta con sé tracce di un passato agricolo che risale a 8.000 anni fa. Anche se l'accesso diretto alla grotta è limitato per ragioni di sicurezza, i visitatori possono ancora ammirare la sua grandiosità da un vicino punto panoramico. La vista dall'alto promette una prospettiva unica e indimenticabile di questo antico rifugio."
+    },
+    "7": {
+      "id": "9",
+      "titolo": "Tonnarella dell'Uzzo",
+      "descrizione": "La Caletta Tonnarella dell’Uzzo è indubbiamente un gioiello nascosto all'interno della Riserva dello Zingaro. Per scoprire questa perla, optate per l'ingresso settentrionale della Riserva, vicino a San Vito Lo Capo. In soli 700 metri di passeggiata, vi troverete di fronte a questa spettacolare insenatura, la più vasta e popolare della zona.\r\nIl percorso che vi conduce a Caletta Tonnarella dell’Uzzo offre un paesaggio mozzafiato. Inizia con un tratto in discesa, costeggia il Museo delle attività marinare e, attraverso una serie di gradini scolpiti nella pietra, vi guida fino alla riva.\r\nData la natura ripida del sentiero, vi consigliamo di indossare scarpe adatte alla camminata, specialmente per la risalita. Portate con voi sandali o scarpette da scoglio, da riporre nello zaino, ideali per camminare sui ciottoli senza difficoltà. Non dimenticate che nei pressi del Museo sono disponibili servizi igienici."
+    },
+    "8": {
+      "id": "10",
+      "titolo": "Torre dell'Impiso",
+      "descrizione": "La Torre dell'Impiso, il cui nome potrebbe derivare da storie oscure legate a episodi di violenza, è indubbiamente una delle torri di avvistamento più affascinanti erette sulle rive siciliane alla fine del XVI secolo, su design di Camillo Camilliani.\r\n\r\nLa struttura, distribuita su due livelli e dotata di un grande camino e una terrazza con vista mare, regala panorami mozzafiato del Mar Tirreno e del vasto cielo. Come annotavano Salvatore Mazzarella e Renato Zanca nel loro dettagliato studio del 1985, \"Il libro delle torri - Le torri costiere di Sicilia nei secoli XVI-XX\", pur essendo posizionata a circa 250 metri dalla riva, la torre domina numerose insenature grazie all'elevazione del suo basamento. Dalla sua terrazza, lo sguardo può vagare liberamente, coprendo un ampio tratto di mare e stabilendo una chiara connessione visiva con Scieri a Nord e le imponenti torri e faraglioni di Scopello a Sud.\r\n\r\nNel corso degli anni, come molte altre strutture militari dell'epoca, la Torre dell'Impiso è stata trascurata e utilizzata come rifugio per greggi di pecore. Fortunatamente, un intervento di restauro ha preservato il suo solido fascino, lasciandoci però con il desiderio di poter esplorare più liberamente i suoi interni affascinanti."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Pane cunzato",
+      "1": "Fico d'india",
+      "2": "Insalata di mare",
+      "3": "Cassatelle",
+      "4": "Cazzilli",
+      "5": "Arancine"
+    },
+    "dove_mangiare": {
+      "0": "A casa di Patrizia: Home restaurant molto particolare , grazie alla verve di Patrizia e del suo staff . Cucina ottima con prodotti di qualità. Servizio corretto e senza attese. Molto particolare il clima di empatia che si viene a creare con gli altri commensali. Bella esperienza e brava Patrizia !!!",
+      "1": "La Tavernetta: Ci siamo recati in questo ristorante a fine settembre. Bella la location, sia la parte interna così come il giardino antistante.\r\nMenù interessante, vario e non scontato.\r\nAntipasti sfiziosi e ben eseguiti.\r\nI secondi ottimi, interessanti le salse che accompagnavano la bistecca di tonno.\r\nI dolci super interessanti e buonissimi (il mio gelato al fico d'india era veramente divin).\r\nIl servizio ottimo, professionalità, gentilezza e simpatia. Menzione particolare per il capo sala che si è prodigato per descrivere in maniera ottima i piatti (attenti e gentili anche gli altri ragazzi in sala).\r\nIl conto in linea con la location, la proposta culinaria e il servizio.\r\nMolto consigliato.",
+      "2": "Al Rais di Scopello: Cibo di qualità veramente ottima e fedele alla tradizione con un tocco di creatività. Selezione dei vini locali di gusto e qualità. Personale attento e cortese. Location molto carina, vicina al baglio ma molto tranquilla. Bellissima sorpresa."
+    }
+  },
+  "dove_dormire": {
+    "0": "Villa Calamazzo: Villa con una vista straordinaria. Molto spazio esterno anche per far giocare i bambini. Ampi spazi anche all'interno con camere molto ampie e molti spazi utili come il terrazzino vicino la cucina, terrazzo attrezzato con tavoli e sedie.",
+    "1": "L'oasi nello Zingaro: Appartamento situato in zona estremamente comoda, raggiungibili a piedi il centro di Scopello, la Riserva e la Tonnara. Il padrone di casa è estremamente gentile ed accogliente. Consigliato assolutamente.",
+    "2": "Villa Lo Zingaro: Situata al confine con la Riserva dello Zingaro, la pace e la tranquillità sono i punti di forza della struttura"
+  }
+}
