@@ -1,0 +1,92 @@
+{
+  "titolo_dell'articolo": "Sentiero del Ciolo e Sentiero Cipolliane - Giro ad Anello - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Sentiero del Ciolo e Sentiero Cipolliane",
+    "citta_di_partenza": "Gagliano del capo",
+    "provincia_di_partenza": "Lecce",
+    "regione_di_partenza": "Puglia",
+    "catena_montuosa_o_parco": "Parco Naturale di Porto Selvaggio",
+    "tipo_di_percorso": "ad Anello",
+    "segnaletica_percorso": "Sentiero del Ciolo",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-escursionismo/scarponi-11-dal-sentiero-del-ciolo-al-sentiero-delle-cipolliane-passando-per-lomonima-grotta-85888761",
+    "attrazioni_percorso": {
+      "0": "Ponte Ciolo",
+      "1": "Canalone del Ciolo",
+      "2": "Grotta dei moscerini",
+      "3": "Grotte Cipolliane",
+      "4": "Coralli fossili e tracce umane"
+    },
+    "panorama_percorso": {},
+    "lunghezza_percorso": "7.3 km",
+    "altitudine_min_percorso": "123 m",
+    "altitudine_max_percorso": "0 m",
+    "difficolta_percorso": "Medio",
+    "punto_partenza_percorso": "SP358 (Parcheggio)",
+    "punto_arrivo_percorso": "SP358 (Parcheggio)",
+    "dislivello_positivo_percorso": "140 m",
+    "dislivello_negativo_percorso": "150 m",
+    "tempo_medio_stimato_percorso": "2 ore 0 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato",
+      "1": "Roccioso"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "estate",
+      "3": "inverno"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Ulivi",
+      "2": "fiordalisi",
+      "3": "campanule",
+      "4": "euphorbia",
+      "5": "alisso di Leuca"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "1",
+      "titolo": "Ponte Ciolo",
+      "descrizione": "Il Ponte Ciolo è un capolavoro sospeso che incornicia il paesaggio mozzafiato del fiordo salentino, a breve distanza dalla punta meridionale della Puglia, vicino a Santa Maria di Leuca. Questa struttura non è solo una testimonianza dell'armonia tra uomo e natura, ma è anche un simbolo di come l'ingegneria possa elevare la bellezza naturale, rispettandone l'integrità e l'autenticità.\r\n\r\nAlzandosi per 40 metri al di sopra del mare, con un'apertura di 60 metri di lunghezza, il Ponte Ciolo è un punto panoramico unico e un esempio sorprendente di ingegneria. La vista dal ponte offre un panorama indimenticabile del mare Adriatico, mentre le acque cristalline sottostanti attirano tanto gli amanti del sole quanto gli appassionati di attività subacquee. Inoltre su questo ponte, d'estate non è difficile vedere impavidi tuffatori lanciarsi dal ponte ed affrontare i 40m che separano il ponte dalle acque del mare.\r\n\r\nCuriosamente, il nome \"Ciolo\" fa eco alla parola dialettale \"ciola\", riferendosi alle gazze ladre che popolavano un tempo la zona. Questi uccelli erano un tempo ospiti abituali delle numerose grotte marine che punteggiano la costa, e il loro spirito libero si riflette nell'audacia del ponte stesso."
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Canalone del Ciolo",
+      "descrizione": "Scolpita dalle instancabili mani della natura, una gola scoscesa si distende lungo il cammino dell'acqua verso il mare, mostrando la potenza dell'erosione nel tempo.In questo canyon di notevole profondità, fiancheggiato da imponenti muraglie di calcare che nascondono grotte segrete, si cela una spiaggetta ciottolosa e una baia angusta che attendono il visitatore al termine del sentiero naturale. Abbracciando le superfici calcaree, la flora si manifesta con esuberanza: qui il fiordaliso di Leuca sboccia accanto a varietà rare di orchidee selvatiche, gioielli botanici che si aggrappano alla vita in questo angolo impervio di bellezza pura"
+    },
+    "1": {
+      "id": "2",
+      "titolo": "Grotte Cipolliane",
+      "descrizione": "Esplorare le Grotte Cipolliane del Salento offre una rara opportunità di studiare la storia preistorica, in particolare evidenziando l'importanza del periodo Paleolitico Superiore. Situati a un'altitudine di 30 metri sopra il livello del mare attuale, queste grotte rocciose forniscono dati cruciali per gli studi paleontologici. Analisi dettagliate hanno confermato che l'area era un tempo sommersa dalle acque, con il mare che raggiungeva un livello significativamente più elevato rispetto a oggi. Questa tesi è supportata dal ritrovamento di frammenti di pecten, rudiste e altri fossili marini incastonati nella roccia.\r\nQuest'area rappresenta una delle principali attrazioni naturalistiche del Salento, offrendo un contatto diretto con la natura incontaminata e un approfondimento sulla storia geologica e culturale della regione. Il Sentiero delle Grotte Cipolliane si distingue come destinazione imprescindibile per coloro che desiderano coniugare la scoperta paesaggistica con l'arricchimento culturale, testimoniando la ricchezza storica del Salento, terra ponte tra due mari."
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "Pasticciotto Leccese",
+      "1": "Puccia Salentina",
+      "2": "Frisa Salentina",
+      "3": "Pittule",
+      "4": "Rustico leccese",
+      "5": "Bombette",
+      "6": "Orecchiette",
+      "7": "Taralli"
+    },
+    "dove_mangiare": {
+      "0": "Osteria del Macellaio: Ho recentemente cenato presso la Braceria Panzera Andrea e ho avuto il piacere di essere servito da Graziano, uno dei camerieri più eccezionali che abbia mai incontrato.La Braceria Panzera Andrea è un vero paradiso per gli amanti della carne alla brace. Ogni morso è una delizia e il signor Andrea Panzera dimostra una padronanza assoluta nell'arte della cottura alla brace. Ogni piatto che ho assaporato era un capolavoro di sapore e tenerezza, e la varietà di tagli di carne offerti era impressionante.Ma ciò che ha reso questa esperienza davvero straordinaria è stato il servizio di Graziano. La sua attenzione ai dettagli, la cortesia e la conoscenza del menu erano sorprendenti. Era sempre pronto a rispondere alle nostre domande, a suggerire abbinamenti di vini perfetti e a garantire che ogni momento del nostro pasto fosse indimenticabile.Graziano ha veramente reso la nostra serata speciale, e per questo siamo estremamente grati. È un vero professionista nell'arte del servizio e ha reso il nostro tempo alla Braceria Panzera Andrea un'esperienza straordinaria.Consiglio vivamente la Braceria Panzera Andrea a tutti coloro che desiderano una straordinaria esperienza culinaria, e spero che abbiate la fortuna di essere serviti da Graziano, un vero e proprio tesoro.",
+      "1": "Masseria Galatea Agriturismo: Prima visita a questa masseria che, da sola, vale la visita. Menu limitato ma con portate tipiche (fave e cicoria, ceci e tria, polpette) buonissime e qualche tocco gourmet (straccetti di pollo con cipolla caramellata) graditissimo. Il dessert merita un plauso particolare perché la cremosità della mousse di cioccolato, complice la farina di carrube, é davvero unica! Anche il pane merita una speciale menzione: casereccio, integrale co ncereali, morbido e gustoso. Seguirà altra visita per completare gli assaggi o per gustare eventuali aggiornamenti di menù. Serata incantevole con cielo stellato su una masseria affascinante. Consigliatissimo",
+      "2": "Macelleria della Piazza: Posizione, disponibilità e cucina perfetti! Per gustare la cucina locale, della carne speciale cucinata ad hoc da Paolo e farsi coccolare dalla gentilezza e disponibilità di Cinzia e del suo staff, per passare una serata magica nella stupenda piazza nel cuore di Alessano. È una tappa obbligata!"
+    }
+  },
+  "dove_dormire": {
+    "0": "Casa Del Sole Relax Room: Struttura antica restaurata in modo eccellente e ricca di servizi e comfort!! UNA VERA OASI DI PACE in una posizione strategica ma lontana dal caos e dal traffico. Gentilissimo il proprietario !!!!",
+    "1": "B&B Palazzo la Traja: La villa dei proprietari è veramente bellissima e accogliente. Ci si sente subito a casa ed è fornita di un parcheggio all' interno sicuramente più sicuro per chi come noi si sposta in auto.La signora è davvero gentilissima come tutti i suoi familiari.Ci.La stanza pulitissima. Soprattutto il bagno e la doccia davvero puliti. Forniscono tutto il necessario.",
+    "2": "Anna 1924: Struttura eccellente. Antica casa ristrutturata con gusto e materiali di qualità offre diverse varietà di stanze. Personale cordiale e assolutamente disponibile. Ottima la colazione servita in terrazza. Consigliatissimo"
+  }
+}
