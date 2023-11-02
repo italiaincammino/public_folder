@@ -1,0 +1,80 @@
+{
+  "titolo_dell'articolo": "Sentiero per Abbazia della Santissima Trinità da Monte Sacro (Gargano) - Guida Completa",
+  "dettagli_percorso": {
+    "nome_del_percorso": "Sentiero per Abbazia della Santissima Trinità di Monte Sacro",
+    "citta_di_partenza": "Mattinata",
+    "provincia_di_partenza": "Foggia",
+    "regione_di_partenza": "Puglia",
+    "catena_montuosa_o_parco": "Parco Nazionale del Gargano",
+    "tipo_di_percorso": "Andata/Ritorno sullo stesso tracciato",
+    "segnaletica_percorso": "Sentiero per l'Abbazia",
+    "link_gpx_percorso": "https://it.wikiloc.com/percorsi-cammino/monte-sacro-872m-abbazia-della-santissima-trinita-62408340",
+    "attrazioni_percorso": {
+      "0": "Abbazia della Santissima Trinità di Monte Sacro",
+      "1": "Monte Sacro"
+    },
+    "panorama_percorso": {
+      "0": "Monte Spigno"
+    },
+    "lunghezza_percorso": "3.5 km",
+    "altitudine_min_percorso": "850 m",
+    "altitudine_max_percorso": "660 m",
+    "difficolta_percorso": "Facile",
+    "punto_partenza_percorso": "Str. Contrada Stinco",
+    "punto_arrivo_percorso": "Str. Contrada Stinco",
+    "dislivello_positivo_percorso": "200 m",
+    "dislivello_negativo_percorso": "200 m",
+    "tempo_medio_stimato_percorso": "1 ore 0 min",
+    "fonti_acqua_lungo_percorso": "No",
+    "costo_percorso": "Gratuito €",
+    "parcheggio": "gratuito vicino percorso",
+    "fondo_percorso": {
+      "0": "Sterrato"
+    },
+    "stagioni_consigliate": {
+      "0": "primavera",
+      "1": "autunno",
+      "2": "inverno",
+      "3": "estate"
+    },
+    "flora_percorso": {
+      "0": "Macchia mediterranea",
+      "1": "Faggi",
+      "2": "Lecci"
+    }
+  },
+  "indicazione_percorso": {
+    "0": {
+      "id": "n.",
+      "titolo": "PARTENZA / BIVI / PUNTI DI INTERESSE / INFO",
+      "descrizione": "undefined"
+    }
+  },
+  "POI_punti_di_interesse": {
+    "0": {
+      "id": "1",
+      "titolo": "Abbazia ella Santissima Trinità di Monte Sacro",
+      "descrizione": "L'Abbazia della Santissima Trinità di Monte Sacro, situata nella località di Mattinata in Puglia, Italia, è un antico luogo di culto e sede di un monastero benedettino che ha avuto una storia lunga e significativa, estendendosi dal VI al XVI secolo d.C.\nL'abbazia era dotata di numerose strutture, tra cui fabbriche, magazzini, un battistero, un chiostro e una chiesa con un nartece particolarmente conservato. Quest'ultimo era diviso in tre vani quadrati da arcate a tutto sesto, sostenute da colonne con capitelli decorati con foglie d'acanto, rosette e altri motivi floreali. Una delle semicolonne presentava un capitello con tre aquile ad ali spiegate, simbolo potente che si contrapponeva a due serpenti con teste di drago. Alcuni affreschi sopravvivono ancora oggi, tra cui uno raffigurante la Madonna con Bambino e due santi benedettini.\n\nStoria\nOriginariamente, il sito era conosciuto come Monte Dodoneo e dedicato al culto pagano di Giove. Tuttavia, dopo l'apparizione dell'Arcangelo Michele nella vicina grotta di Monte Sant'Angelo, il vescovo di Siponto, San Lorenzo Maiorano, insieme ad altri prelati, si recò sul monte, distrusse i simulacri pagani e dedicò l'abbazia alla Santissima Trinità, da cui il nome Monte Sacro.\n\nL'abbazia viene menzionata per la prima volta in un documento ufficiale in una bolla del pontefice Stefano IX nel 1058. Durante il XII e il XIII secolo, sotto l'impulso dell'abate Gregorio di Montesacro, l'abbazia arricchì la sua biblioteca, diventando uno dei più importanti centri culturali del Medioevo in Puglia. Purtroppo, a seguito di tre terremoti distinti, l'abbazia fu abbandonata alla fine del XVI secolo.\n\nL'abbazia di Monte Sacro è stata riconosciuta per il suo valore storico e culturale, classificandosi terza nel 6º Censimento 2012 \"I Luoghi del Cuore\" del Fondo Ambiente Italiano"
+    }
+  },
+  "dove_cosa_mangiare": {
+    "piatti_tipici": {
+      "0": "orecchiette e rape con sardine salate",
+      "1": "pasta corta con fave",
+      "2": "zuppa di pesce",
+      "3": "i turcnidd",
+      "4": "i paten arraianet",
+      "5": "carciofi ripieni"
+    },
+    "dove_mangiare": {
+      "0": "Scarpetta d'Oro: Bella location, soprattutto la veranda all'aperto offre una visuale rilassante. Cibo ottimo, nulla da dire, forse avrei messo un po' meno olio nel piatto dei troccoli alle vongole, ma per il resto le pietanze sono gustose e giuste nell'abbondanza. Buona carta dei vini e prezzi ancora ragionevoli. Consigliato.",
+      "1": "Osteria Del Borgo: Location molto carina e suggestiva nelle vie centrali di mattinata anche se appena fuori dalla via principale dove passa la maggior parte della gente. Cibo di ottima qualità con possibilità di provare piatti tipici e dell'ottimo pesce . Prezzo più che onesto per quello che si è mangiato che era principalmente a base di pesce. Servizio in alcuni casi un po' distratto, ma nel complesso buono.",
+      "2": "Locanda del Maniscalco: Location molto rustica e piena di verde, ci siamo sentiti da subito come a casa, servizio disponibile e professionale, ora veniamo alla parte migliore, le varie pietanze sono state una più buona dell'altra, un mix e un esplosione di sapori, tutta roba di alta qualità. Molto particolare anche il ricottamisú a forma di piantina, si sentiva poco il caffè, ma comunque una trovata geniale. Il prezzo è onesto, abbiamo passato una bella serata insieme a famigliari.È stata una bella scoperta, ci torneremo quasi sicuramente."
+    }
+  },
+  "dove_dormire": {
+    "0": "B&B La Scapola: Una location immersa nel verde curata nel dettaglio dove ogni cosa trasmette pace e tranquillità. Vista mare e montagna,bellissimo! Matteo ci ha accolti con una super colazione consumata sotto uno splendido albero di carrube. Abbiamo apprezzato la pulizia e lo stile rustico degli arredi.",
+    "1": "La Vie en Rose Mattinata: Bellissima location ,a due passi dal corso principale e da tutte le sue attrattive.Posto molto silenzioso e tranquillo sia di giorno che di notte con possibilità sempre di parcheggi gratuiti nelle vicinanze.Casa molto grande con ampio soggiorno ,bagno con doccia ,cucina e grandi camere da letto dotate di balconi.Appartamento Veramente pulito e curato nei dettagli dotato di tutti i confort.Proprietaria molto disponibile e attenta a tutte le nostre esigenze.Molto gradita la macchina del caffè e le cialde offerte.Struttura top.Lo consiglio",
+    "2": "Casa tra gli Ulivi: L'accoglienza di Sara è stata eccezionale: al nostro arrivo si è presentata con acqua fresca già in frigorifero e tutto l'occorrente per prepararci una merenda a km0. Sara è stata preziosa inoltre nel consigliarci spiagge e ristoranti in base alle nostre esigenze! La casa è come nelle foto, immersa nel silenzio tra gli ulivi, ma in posizione comoda per visitare il Gargano. Lavatrice utile per una famiglia e materasso molto comodo, biancheria, stoviglie e addirittura detersivi a disposizione. Il paese di Mattinata si raggiunge in due minuti di auto ed offre bar, ristoranti, supermercato, farmacia...insomma tutto quello che serve!"
+  }
+}
